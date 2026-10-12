@@ -1,0 +1,17 @@
+{
+  "experiment": "TPEHG preterm ML + 10 CNN + 4 LSTM + sparse AE",
+  "dataset": "TPEHGDB v1.0.1",
+  "records": 300,
+  "term": 262,
+  "preterm": 38,
+  "seed": 2026,
+  "sha256_record_matrix": "14f0505e00eb3ad1fe2ddc47d2d2ef2a420cd3eec27c2a094bba614cd3784b4e",
+  "python": "3.13.5",
+  "numpy": "2.3.5",
+  "scikit_learn": "1.8.0",
+  "runs": {
+    "ml_cv": "10 folds",
+    "deep_holdout": ".25",
+    "deep_epochs": 10
+  }
+}

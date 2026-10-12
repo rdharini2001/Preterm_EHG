@@ -1,0 +1,312 @@
+[
+  {
+    "fold": 1,
+    "feature_families": [
+      "Fmed"
+    ],
+    "features": [
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.5782459453345529
+    ]
+  },
+  {
+    "fold": 2,
+    "feature_families": [
+      "zero_crossing",
+      "Fmed",
+      "variance"
+    ],
+    "features": [
+      "zero_crossing_1",
+      "zero_crossing_2",
+      "zero_crossing_3",
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "variance_1",
+      "variance_2",
+      "variance_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.6012363164261899,
+      0.6032919260767362,
+      0.6083584137381606
+    ]
+  },
+  {
+    "fold": 3,
+    "feature_families": [
+      "Fmed"
+    ],
+    "features": [
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.6084088204341369
+    ]
+  },
+  {
+    "fold": 4,
+    "feature_families": [
+      "zero_crossing",
+      "variance",
+      "Fpeak"
+    ],
+    "features": [
+      "zero_crossing_1",
+      "zero_crossing_2",
+      "zero_crossing_3",
+      "variance_1",
+      "variance_2",
+      "variance_3",
+      "Fpeak_1",
+      "Fpeak_2",
+      "Fpeak_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.605756936453139,
+      0.6271515053160623,
+      0.6296718401148781
+    ]
+  },
+  {
+    "fold": 5,
+    "feature_families": [
+      "zero_crossing",
+      "Fmed",
+      "RMS"
+    ],
+    "features": [
+      "zero_crossing_1",
+      "zero_crossing_2",
+      "zero_crossing_3",
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "RMS_1",
+      "RMS_2",
+      "RMS_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.6000548326497693,
+      0.6167603493552861,
+      0.634927660244116
+    ]
+  },
+  {
+    "fold": 6,
+    "feature_families": [
+      "Fmed",
+      "variance"
+    ],
+    "features": [
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "variance_1",
+      "variance_2",
+      "variance_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.6029317026152469,
+      0.6349338074021619
+    ]
+  },
+  {
+    "fold": 7,
+    "feature_families": [
+      "Fmed",
+      "variance"
+    ],
+    "features": [
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "variance_1",
+      "variance_2",
+      "variance_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.5548498618118871,
+      0.5814510735396811
+    ]
+  },
+  {
+    "fold": 8,
+    "feature_families": [
+      "Fmed"
+    ],
+    "features": [
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.6155899304633482
+    ]
+  },
+  {
+    "fold": 9,
+    "feature_families": [
+      "Fmed",
+      "variance"
+    ],
+    "features": [
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "variance_1",
+      "variance_2",
+      "variance_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.58514920382009,
+      0.6077793514502375
+    ]
+  },
+  {
+    "fold": 10,
+    "feature_families": [
+      "Fmed",
+      "variance"
+    ],
+    "features": [
+      "Fmed_1",
+      "Fmed_2",
+      "Fmed_3",
+      "variance_1",
+      "variance_2",
+      "variance_3",
+      "Rectime",
+      "Age",
+      "Parity",
+      "Abortions",
+      "Weight",
+      "Hypertension",
+      "Diabetes",
+      "Placental_position",
+      "Bleeding_first_trimester",
+      "Bleeding_second_trimester",
+      "Funneling",
+      "Smoker"
+    ],
+    "cv_balanced_accuracy": [
+      0.5961624521751104,
+      0.6251426140666646
+    ]
+  }
+]

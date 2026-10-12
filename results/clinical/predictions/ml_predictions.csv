@@ -1,0 +1,3301 @@
+Record,fold,model,y_true,y_pred,y_score
+tpehg1088,1,AdaBoost,0,0,0.3311773476048893
+tpehg1132,1,AdaBoost,0,0,0.2385005635049301
+tpehg1188,1,AdaBoost,0,0,0.3317318725241837
+tpehg1217,1,AdaBoost,0,0,0.307945697334814
+tpehg1273,1,AdaBoost,0,0,0.3830384635589183
+tpehg1276,1,AdaBoost,0,0,0.313972690476746
+tpehg1284,1,AdaBoost,0,0,0.3581167622985435
+tpehg1300,1,AdaBoost,0,0,0.357541729698246
+tpehg1460,1,AdaBoost,0,0,0.307945697334814
+tpehg1490,1,AdaBoost,1,0,0.2979142806822054
+tpehg1507,1,AdaBoost,0,0,0.3830384635589183
+tpehg1564,1,AdaBoost,0,0,0.357541729698246
+tpehg1593,1,AdaBoost,0,0,0.357541729698246
+tpehg1618,1,AdaBoost,0,0,0.307945697334814
+tpehg1628,1,AdaBoost,0,0,0.2893739491685853
+tpehg1737,1,AdaBoost,0,0,0.3074045520597639
+tpehg1751,1,AdaBoost,1,0,0.3830384635589183
+tpehg552,1,AdaBoost,0,0,0.357541729698246
+tpehg567,1,AdaBoost,1,0,0.3127054084965304
+tpehg597,1,AdaBoost,0,0,0.307945697334814
+tpehg625,1,AdaBoost,0,0,0.3074045520597639
+tpehg660,1,AdaBoost,0,0,0.21686196990988
+tpehg675,1,AdaBoost,0,0,0.2389553517607714
+tpehg716,1,AdaBoost,0,0,0.349371170489754
+tpehg718,1,AdaBoost,0,0,0.3830384635589183
+tpehg820,1,AdaBoost,0,0,0.2893739491685853
+tpehg848,1,AdaBoost,0,0,0.3558353142294783
+tpehg888,1,AdaBoost,0,0,0.2389553517607714
+tpehg939,1,AdaBoost,1,0,0.3830384635589183
+tpehg980,1,AdaBoost,0,0,0.2116008866244659
+tpehg1022,2,AdaBoost,0,0,0.3631375651726669
+tpehg1031,2,AdaBoost,0,0,0.3364583485667257
+tpehg1130,2,AdaBoost,0,0,0.305810006479421
+tpehg1216,2,AdaBoost,0,0,0.4194253386206504
+tpehg1274,2,AdaBoost,0,0,0.362826996400953
+tpehg1283,2,AdaBoost,0,0,0.369457171879853
+tpehg1342,2,AdaBoost,0,0,0.3923125609040239
+tpehg1343,2,AdaBoost,0,0,0.2999656531789891
+tpehg1414,2,AdaBoost,0,0,0.4194253386206504
+tpehg1459,2,AdaBoost,0,0,0.369457171879853
+tpehg1495,2,AdaBoost,0,0,0.3677883747059391
+tpehg1499,2,AdaBoost,1,0,0.4222360742106907
+tpehg1534,2,AdaBoost,0,0,0.4194253386206504
+tpehg1546,2,AdaBoost,0,0,0.3631375651726669
+tpehg1612,2,AdaBoost,0,0,0.3275593808831326
+tpehg1614,2,AdaBoost,0,0,0.3865769434384825
+tpehg1660,2,AdaBoost,0,0,0.4222360742106907
+tpehg1662,2,AdaBoost,0,0,0.3269597695966525
+tpehg1663,2,AdaBoost,0,0,0.3916634560566282
+tpehg1688,2,AdaBoost,0,0,0.3112440425085117
+tpehg1748,2,AdaBoost,1,0,0.3865769434384825
+tpehg614,2,AdaBoost,1,0,0.3776942826178452
+tpehg674,2,AdaBoost,0,0,0.4152489689187715
+tpehg737,2,AdaBoost,0,0,0.3008161172848396
+tpehg766,2,AdaBoost,0,0,0.3916634560566282
+tpehg914,2,AdaBoost,1,0,0.4194253386206504
+tpehg916,2,AdaBoost,0,0,0.3916634560566282
+tpehg920,2,AdaBoost,0,0,0.3631375651726669
+tpehg938,2,AdaBoost,0,0,0.3677883747059391
+tpehg961,2,AdaBoost,0,0,0.2088504347782065
+tpehg1119,3,AdaBoost,0,0,0.3658983911301056
+tpehg1134,3,AdaBoost,0,0,0.2905033765685488
+tpehg1138,3,AdaBoost,0,0,0.3573730309934937
+tpehg1226,3,AdaBoost,0,0,0.3144248153796371
+tpehg1263,3,AdaBoost,0,0,0.3654380865809949
+tpehg1264,3,AdaBoost,0,0,0.4120615144473734
+tpehg1298,3,AdaBoost,1,0,0.3838220140103781
+tpehg1302,3,AdaBoost,1,0,0.3582138771360472
+tpehg1378,3,AdaBoost,0,0,0.3110053151251861
+tpehg1389,3,AdaBoost,0,0,0.4120615144473734
+tpehg1412,3,AdaBoost,0,0,0.4120615144473734
+tpehg1467,3,AdaBoost,1,0,0.3658983911301056
+tpehg1526,3,AdaBoost,1,0,0.4120615144473734
+tpehg1626,3,AdaBoost,0,0,0.2905033765685488
+tpehg1642,3,AdaBoost,0,0,0.3280666236119897
+tpehg1687,3,AdaBoost,0,0,0.3610352005577331
+tpehg1717,3,AdaBoost,0,0,0.3535398994424433
+tpehg1723,3,AdaBoost,0,0,0.3358159169377363
+tpehg1741,3,AdaBoost,0,0,0.4120615144473734
+tpehg1745,3,AdaBoost,0,0,0.2842066512242568
+tpehg553,3,AdaBoost,0,0,0.4120615144473734
+tpehg710,3,AdaBoost,0,0,0.3658983911301056
+tpehg725,3,AdaBoost,0,0,0.3144248153796371
+tpehg768,3,AdaBoost,0,0,0.3110053151251861
+tpehg778,3,AdaBoost,0,0,0.3886556469119236
+tpehg814,3,AdaBoost,0,0,0.3620693020579598
+tpehg867,3,AdaBoost,0,0,0.3535398994424433
+tpehg891,3,AdaBoost,0,0,0.3315834343234353
+tpehg926,3,AdaBoost,0,0,0.3886556469119236
+tpehg929,3,AdaBoost,0,0,0.3409044946692951
+tpehg1070,4,AdaBoost,0,0,0.3155875022344955
+tpehg1116,4,AdaBoost,0,0,0.2289292945554248
+tpehg1128,4,AdaBoost,0,0,0.3135524001156484
+tpehg1183,4,AdaBoost,0,0,0.4634166578415823
+tpehg1282,4,AdaBoost,0,0,0.2958258492701032
+tpehg1335,4,AdaBoost,0,0,0.326636090491113
+tpehg1368,4,AdaBoost,0,0,0.4014422627034981
+tpehg1372,4,AdaBoost,0,0,0.3047540902982768
+tpehg1436,4,AdaBoost,1,0,0.3152176114197808
+tpehg1520,4,AdaBoost,0,0,0.431495611485688
+tpehg1575,4,AdaBoost,0,0,0.3620991880186052
+tpehg1579,4,AdaBoost,0,0,0.370284966039886
+tpehg1587,4,AdaBoost,0,0,0.3343701378880936
+tpehg1619,4,AdaBoost,0,0,0.3375847770839391
+tpehg1649,4,AdaBoost,0,0,0.3416323936570484
+tpehg1674,4,AdaBoost,0,0,0.3497629225306462
+tpehg1719,4,AdaBoost,1,0,0.3632979107595215
+tpehg586,4,AdaBoost,1,0,0.3116975005167112
+tpehg601,4,AdaBoost,0,0,0.4251788779449036
+tpehg604,4,AdaBoost,0,0,0.3154681129091869
+tpehg610,4,AdaBoost,0,0,0.386065417903474
+tpehg618,4,AdaBoost,0,0,0.3525783271558947
+tpehg639,4,AdaBoost,0,0,0.2773844339740912
+tpehg644,4,AdaBoost,0,0,0.3135524001156484
+tpehg681,4,AdaBoost,0,0,0.3698954164776056
+tpehg715,4,AdaBoost,0,0,0.3169621456073191
+tpehg751,4,AdaBoost,0,0,0.3922595470620575
+tpehg858,4,AdaBoost,1,0,0.422801419789807
+tpehg873,4,AdaBoost,0,0,0.3263179180421171
+tpehg895,4,AdaBoost,0,0,0.3249798149516281
+tpehg1039,5,AdaBoost,0,0,0.3579315886221021
+tpehg1139,5,AdaBoost,0,0,0.3791753792516518
+tpehg1167,5,AdaBoost,0,0,0.4676401030772509
+tpehg1202,5,AdaBoost,1,0,0.3791753792516518
+tpehg1205,5,AdaBoost,0,0,0.3791753792516518
+tpehg1241,5,AdaBoost,0,0,0.4087433775641805
+tpehg1250,5,AdaBoost,0,0,0.3791753792516518
+tpehg1280,5,AdaBoost,0,0,0.4676401030772509
+tpehg1338,5,AdaBoost,0,0,0.4027520511959979
+tpehg1441,5,AdaBoost,0,0,0.3878287664385195
+tpehg1476,5,AdaBoost,1,0,0.3609793059582328
+tpehg1518,5,AdaBoost,0,0,0.4676401030772509
+tpehg1537,5,AdaBoost,0,0,0.3609793059582328
+tpehg1544,5,AdaBoost,1,0,0.4027520511959979
+tpehg1589,5,AdaBoost,0,0,0.3050040034852514
+tpehg1607,5,AdaBoost,0,0,0.3579315886221021
+tpehg1630,5,AdaBoost,0,0,0.4449925579917185
+tpehg1631,5,AdaBoost,0,0,0.2334459095074301
+tpehg1659,5,AdaBoost,0,0,0.4027520511959979
+tpehg1666,5,AdaBoost,0,0,0.3791753792516518
+tpehg1676,5,AdaBoost,0,0,0.3308674493403951
+tpehg1709,5,AdaBoost,0,0,0.3822962808876197
+tpehg1732,5,AdaBoost,0,0,0.3134725192276985
+tpehg572,5,AdaBoost,0,0,0.2647114476049942
+tpehg593,5,AdaBoost,0,0,0.3791753792516518
+tpehg617,5,AdaBoost,1,0,0.2310855652025817
+tpehg649,5,AdaBoost,0,0,0.3541584353528675
+tpehg680,5,AdaBoost,0,0,0.3579315886221021
+tpehg735,5,AdaBoost,0,0,0.3609793059582328
+tpehg902,5,AdaBoost,0,0,0.3106309231259017
+tpehg1137,6,AdaBoost,0,0,0.2525551669727003
+tpehg1151,6,AdaBoost,0,0,0.2368814799524119
+tpehg1169,6,AdaBoost,0,0,0.3308978657438262
+tpehg1228,6,AdaBoost,0,0,0.2267124622937963
+tpehg1301,6,AdaBoost,0,0,0.2821249473141461
+tpehg1326,6,AdaBoost,0,0,0.333609371109513
+tpehg1344,6,AdaBoost,0,0,0.3098483248988627
+tpehg1367,6,AdaBoost,0,0,0.2660712130908195
+tpehg1395,6,AdaBoost,0,0,0.3132799574814081
+tpehg1425,6,AdaBoost,0,0,0.4056100370051713
+tpehg1457,6,AdaBoost,0,0,0.3005945901101799
+tpehg1478,6,AdaBoost,1,0,0.3408274149445771
+tpehg1485,6,AdaBoost,0,0,0.3517848855779899
+tpehg1492,6,AdaBoost,0,0,0.3490747922023495
+tpehg1511,6,AdaBoost,0,0,0.4598904019864227
+tpehg1522,6,AdaBoost,0,0,0.3586444111542227
+tpehg1552,6,AdaBoost,0,0,0.2607431691044435
+tpehg1650,6,AdaBoost,0,0,0.3277186727491552
+tpehg1689,6,AdaBoost,0,0,0.4281950309396886
+tpehg1734,6,AdaBoost,1,0,0.3655291913107709
+tpehg546,6,AdaBoost,1,0,0.2434155275403209
+tpehg608,6,AdaBoost,0,0,0.4281950309396886
+tpehg667,6,AdaBoost,0,0,0.4071902757714755
+tpehg745,6,AdaBoost,1,0,0.4056100370051713
+tpehg767,6,AdaBoost,0,0,0.4056100370051713
+tpehg840,6,AdaBoost,0,0,0.2880271799809125
+tpehg851,6,AdaBoost,0,0,0.37659449056554
+tpehg855,6,AdaBoost,0,0,0.3072409036455613
+tpehg962,6,AdaBoost,0,0,0.2204961088053795
+tpehg966,6,AdaBoost,0,0,0.4101437365935077
+tpehg1027,7,AdaBoost,0,0,0.2677466220314068
+tpehg1097,7,AdaBoost,0,0,0.3998828739739588
+tpehg1113,7,AdaBoost,0,0,0.3795642030876089
+tpehg1121,7,AdaBoost,0,1,0.5392484866787667
+tpehg1142,7,AdaBoost,0,0,0.3351170414549901
+tpehg1163,7,AdaBoost,1,0,0.3548898685262823
+tpehg1203,7,AdaBoost,1,0,0.4024735251223859
+tpehg1212,7,AdaBoost,0,0,0.3998828739739588
+tpehg1219,7,AdaBoost,0,0,0.3255590644389955
+tpehg1261,7,AdaBoost,0,0,0.2217112970138749
+tpehg1363,7,AdaBoost,0,0,0.3819493278736951
+tpehg1484,7,AdaBoost,0,0,0.3573626091875113
+tpehg1486,7,AdaBoost,0,0,0.38593209467651
+tpehg1548,7,AdaBoost,0,0,0.3998828739739588
+tpehg1601,7,AdaBoost,0,0,0.2870292209768457
+tpehg1602,7,AdaBoost,0,0,0.3548898685262823
+tpehg1616,7,AdaBoost,0,0,0.3709044368762421
+tpehg1720,7,AdaBoost,1,0,0.3500888321267162
+tpehg1726,7,AdaBoost,0,0,0.3197712146493702
+tpehg1749,7,AdaBoost,0,0,0.3769091673900404
+tpehg642,7,AdaBoost,0,0,0.3998828739739588
+tpehg661,7,AdaBoost,0,0,0.3255590644389955
+tpehg679,7,AdaBoost,0,0,0.3500888321267162
+tpehg690,7,AdaBoost,0,0,0.3529825525249238
+tpehg746,7,AdaBoost,0,0,0.3315050240402167
+tpehg796,7,AdaBoost,0,0,0.3254873285997747
+tpehg808,7,AdaBoost,0,0,0.3709044368762421
+tpehg854,7,AdaBoost,0,1,0.50415111972907
+tpehg877,7,AdaBoost,1,0,0.3559472430633637
+tpehg930,7,AdaBoost,0,0,0.2677466220314068
+tpehg1029,8,AdaBoost,0,0,0.3436549419441071
+tpehg1093,8,AdaBoost,0,0,0.3538305397169869
+tpehg1150,8,AdaBoost,0,0,0.3814746904677768
+tpehg1152,8,AdaBoost,0,0,0.3142370444124095
+tpehg1201,8,AdaBoost,0,0,0.2858728468784075
+tpehg1265,8,AdaBoost,0,0,0.3814746904677768
+tpehg1314,8,AdaBoost,0,0,0.2347181241796205
+tpehg1318,8,AdaBoost,1,0,0.3814746904677768
+tpehg1346,8,AdaBoost,0,0,0.3538305397169869
+tpehg1348,8,AdaBoost,0,0,0.3107610300151749
+tpehg1377,8,AdaBoost,0,0,0.3814746904677768
+tpehg1391,8,AdaBoost,1,0,0.3107610300151749
+tpehg1424,8,AdaBoost,0,0,0.2140288954618836
+tpehg1437,8,AdaBoost,0,0,0.3814746904677768
+tpehg1443,8,AdaBoost,0,0,0.2858728468784075
+tpehg1446,8,AdaBoost,0,0,0.2858728468784075
+tpehg1463,8,AdaBoost,0,0,0.2680882165234893
+tpehg1504,8,AdaBoost,0,0,0.2347181241796205
+tpehg1536,8,AdaBoost,0,0,0.3814746904677768
+tpehg1585,8,AdaBoost,0,0,0.3538305397169869
+tpehg1606,8,AdaBoost,0,0,0.2347181241796205
+tpehg1664,8,AdaBoost,0,0,0.3814746904677768
+tpehg1746,8,AdaBoost,0,0,0.3107610300151749
+tpehg583,8,AdaBoost,0,0,0.3814746904677768
+tpehg641,8,AdaBoost,1,0,0.3107610300151749
+tpehg676,8,AdaBoost,0,0,0.3814746904677768
+tpehg734,8,AdaBoost,0,0,0.3436549419441071
+tpehg773,8,AdaBoost,0,0,0.3814746904677768
+tpehg786,8,AdaBoost,1,0,0.3814746904677768
+tpehg821,8,AdaBoost,0,0,0.2347181241796205
+tpehg1065,9,AdaBoost,0,0,0.3075940948015126
+tpehg1120,9,AdaBoost,0,0,0.362453285576222
+tpehg1136,9,AdaBoost,0,0,0.3715697865615484
+tpehg1149,9,AdaBoost,0,0,0.3408681851901031
+tpehg1177,9,AdaBoost,0,0,0.4406531593538154
+tpehg1192,9,AdaBoost,0,0,0.3836833957399787
+tpehg1246,9,AdaBoost,0,0,0.3795488523936848
+tpehg1252,9,AdaBoost,0,0,0.2897885349413858
+tpehg1299,9,AdaBoost,0,0,0.3167077449772852
+tpehg1360,9,AdaBoost,0,0,0.3715697865615484
+tpehg1438,9,AdaBoost,1,0,0.3955608723264322
+tpehg1498,9,AdaBoost,0,0,0.3211969349921774
+tpehg1543,9,AdaBoost,0,0,0.2858746460589043
+tpehg1653,9,AdaBoost,0,0,0.2822120435245887
+tpehg1675,9,AdaBoost,0,0,0.4265151984469999
+tpehg1679,9,AdaBoost,0,0,0.321755233969695
+tpehg1690,9,AdaBoost,0,0,0.286204842325658
+tpehg1735,9,AdaBoost,0,0,0.4406531593538154
+tpehg1747,9,AdaBoost,0,0,0.4406531593538154
+tpehg1756,9,AdaBoost,1,0,0.4406531593538154
+tpehg584,9,AdaBoost,0,0,0.2177701967738164
+tpehg615,9,AdaBoost,0,0,0.3102141504803421
+tpehg753,9,AdaBoost,0,0,0.2931848927738917
+tpehg797,9,AdaBoost,1,0,0.2717580183992503
+tpehg800,9,AdaBoost,0,0,0.362453285576222
+tpehg803,9,AdaBoost,0,0,0.242759144391413
+tpehg827,9,AdaBoost,0,0,0.3767605064410779
+tpehg933,9,AdaBoost,0,0,0.3563420453426325
+tpehg947,9,AdaBoost,0,0,0.3195393246774616
+tpehg949,9,AdaBoost,0,0,0.4265151984469999
+tpehg1007,10,AdaBoost,1,0,0.2661183576373429
+tpehg1021,10,AdaBoost,0,0,0.2780349720574844
+tpehg1089,10,AdaBoost,0,0,0.3638593228396177
+tpehg1118,10,AdaBoost,0,0,0.262603971578819
+tpehg1147,10,AdaBoost,0,0,0.392245492824823
+tpehg1161,10,AdaBoost,0,0,0.392245492824823
+tpehg1197,10,AdaBoost,0,0,0.392245492824823
+tpehg1240,10,AdaBoost,0,0,0.4292504586839462
+tpehg1270,10,AdaBoost,0,0,0.4145743835393649
+tpehg1369,10,AdaBoost,0,0,0.3300765646133508
+tpehg1470,10,AdaBoost,0,0,0.3184909464466948
+tpehg1501,10,AdaBoost,0,0,0.4292504586839462
+tpehg1532,10,AdaBoost,1,0,0.4292504586839462
+tpehg1554,10,AdaBoost,0,0,0.3999486197135081
+tpehg1566,10,AdaBoost,0,0,0.3931486007314402
+tpehg1574,10,AdaBoost,0,0,0.3931486007314402
+tpehg1577,10,AdaBoost,0,0,0.3788874531712061
+tpehg1600,10,AdaBoost,1,0,0.3573075280715164
+tpehg1701,10,AdaBoost,0,0,0.2661183576373429
+tpehg1703,10,AdaBoost,0,0,0.3046832462930242
+tpehg603,10,AdaBoost,0,0,0.4292504586839462
+tpehg605,10,AdaBoost,0,0,0.392245492824823
+tpehg623,10,AdaBoost,0,0,0.3638593228396177
+tpehg688,10,AdaBoost,0,0,0.3713909258710345
+tpehg697,10,AdaBoost,0,0,0.4292504586839462
+tpehg832,10,AdaBoost,0,0,0.3510465991539775
+tpehg878,10,AdaBoost,0,0,0.3308539033828312
+tpehg927,10,AdaBoost,0,0,0.392245492824823
+tpehg991,10,AdaBoost,0,0,0.3573075280715164
+tpehg994,10,AdaBoost,0,0,0.3638593228396177
+tpehg1088,1,Decision Tree,0,0,0.0
+tpehg1132,1,Decision Tree,0,0,0.0
+tpehg1188,1,Decision Tree,0,1,0.8222996515679443
+tpehg1217,1,Decision Tree,0,1,0.7593307593307591
+tpehg1273,1,Decision Tree,0,1,0.6676954732510283
+tpehg1276,1,Decision Tree,0,0,0.0
+tpehg1284,1,Decision Tree,0,1,0.6676954732510283
+tpehg1300,1,Decision Tree,0,1,0.7593307593307591
+tpehg1460,1,Decision Tree,0,1,0.7593307593307591
+tpehg1490,1,Decision Tree,1,1,0.8740740740740738
+tpehg1507,1,Decision Tree,0,1,0.6676954732510283
+tpehg1564,1,Decision Tree,0,0,0.0
+tpehg1593,1,Decision Tree,0,1,0.7593307593307591
+tpehg1618,1,Decision Tree,0,1,0.7593307593307591
+tpehg1628,1,Decision Tree,0,0,0.0
+tpehg1737,1,Decision Tree,0,0,0.0
+tpehg1751,1,Decision Tree,1,0,0.0
+tpehg552,1,Decision Tree,0,0,0.0
+tpehg567,1,Decision Tree,1,0,0.0
+tpehg597,1,Decision Tree,0,0,0.0
+tpehg625,1,Decision Tree,0,0,0.0
+tpehg660,1,Decision Tree,0,0,0.0
+tpehg675,1,Decision Tree,0,0,0.0
+tpehg716,1,Decision Tree,0,0,0.0
+tpehg718,1,Decision Tree,0,1,0.6676954732510283
+tpehg820,1,Decision Tree,0,1,1.0
+tpehg848,1,Decision Tree,0,1,0.8740740740740738
+tpehg888,1,Decision Tree,0,0,0.0
+tpehg939,1,Decision Tree,1,0,0.0
+tpehg980,1,Decision Tree,0,0,0.0
+tpehg1022,2,Decision Tree,0,0,0.0
+tpehg1031,2,Decision Tree,0,0,0.0
+tpehg1130,2,Decision Tree,0,0,0.0
+tpehg1216,2,Decision Tree,0,0,0.4018161180476728
+tpehg1274,2,Decision Tree,0,0,0.0
+tpehg1283,2,Decision Tree,0,0,0.0
+tpehg1342,2,Decision Tree,0,1,0.9455128205128204
+tpehg1343,2,Decision Tree,0,0,0.0
+tpehg1414,2,Decision Tree,0,0,0.4018161180476728
+tpehg1459,2,Decision Tree,0,0,0.0
+tpehg1495,2,Decision Tree,0,0,0.0
+tpehg1499,2,Decision Tree,1,1,0.887218045112782
+tpehg1534,2,Decision Tree,0,0,0.4018161180476728
+tpehg1546,2,Decision Tree,0,0,0.0
+tpehg1612,2,Decision Tree,0,0,0.0
+tpehg1614,2,Decision Tree,0,1,0.887218045112782
+tpehg1660,2,Decision Tree,0,1,0.887218045112782
+tpehg1662,2,Decision Tree,0,0,0.0
+tpehg1663,2,Decision Tree,0,0,0.4018161180476728
+tpehg1688,2,Decision Tree,0,0,0.0
+tpehg1748,2,Decision Tree,1,0,0.0
+tpehg614,2,Decision Tree,1,0,0.0
+tpehg674,2,Decision Tree,0,1,0.887218045112782
+tpehg737,2,Decision Tree,0,0,0.0
+tpehg766,2,Decision Tree,0,0,0.4018161180476728
+tpehg914,2,Decision Tree,1,0,0.4018161180476728
+tpehg916,2,Decision Tree,0,0,0.4018161180476728
+tpehg920,2,Decision Tree,0,0,0.0
+tpehg938,2,Decision Tree,0,0,0.0
+tpehg961,2,Decision Tree,0,0,0.0
+tpehg1119,3,Decision Tree,0,1,0.874074074074074
+tpehg1134,3,Decision Tree,0,0,0.0
+tpehg1138,3,Decision Tree,0,0,0.0
+tpehg1226,3,Decision Tree,0,0,0.0
+tpehg1263,3,Decision Tree,0,0,0.0
+tpehg1264,3,Decision Tree,0,1,0.803267528931246
+tpehg1298,3,Decision Tree,1,1,0.803267528931246
+tpehg1302,3,Decision Tree,1,0,0.0
+tpehg1378,3,Decision Tree,0,0,0.0
+tpehg1389,3,Decision Tree,0,1,0.803267528931246
+tpehg1412,3,Decision Tree,0,1,0.803267528931246
+tpehg1467,3,Decision Tree,1,1,0.874074074074074
+tpehg1526,3,Decision Tree,1,0,0.0
+tpehg1626,3,Decision Tree,0,0,0.0
+tpehg1642,3,Decision Tree,0,0,0.0
+tpehg1687,3,Decision Tree,0,1,0.803267528931246
+tpehg1717,3,Decision Tree,0,0,0.0
+tpehg1723,3,Decision Tree,0,0,0.0
+tpehg1741,3,Decision Tree,0,1,0.803267528931246
+tpehg1745,3,Decision Tree,0,0,0.0
+tpehg553,3,Decision Tree,0,1,0.803267528931246
+tpehg710,3,Decision Tree,0,1,0.803267528931246
+tpehg725,3,Decision Tree,0,0,0.0
+tpehg768,3,Decision Tree,0,0,0.0
+tpehg778,3,Decision Tree,0,1,0.874074074074074
+tpehg814,3,Decision Tree,0,0,0.0
+tpehg867,3,Decision Tree,0,0,0.0
+tpehg891,3,Decision Tree,0,0,0.0
+tpehg926,3,Decision Tree,0,0,0.0
+tpehg929,3,Decision Tree,0,0,0.0
+tpehg1070,4,Decision Tree,0,0,0.0
+tpehg1116,4,Decision Tree,0,0,0.0
+tpehg1128,4,Decision Tree,0,0,0.0
+tpehg1183,4,Decision Tree,0,1,0.5895087427144041
+tpehg1282,4,Decision Tree,0,0,0.0
+tpehg1335,4,Decision Tree,0,0,0.0
+tpehg1368,4,Decision Tree,0,0,0.0
+tpehg1372,4,Decision Tree,0,0,0.0
+tpehg1436,4,Decision Tree,1,0,0.0
+tpehg1520,4,Decision Tree,0,0,0.0
+tpehg1575,4,Decision Tree,0,0,0.0
+tpehg1579,4,Decision Tree,0,0,0.0
+tpehg1587,4,Decision Tree,0,0,0.0
+tpehg1619,4,Decision Tree,0,0,0.0
+tpehg1649,4,Decision Tree,0,0,0.0
+tpehg1674,4,Decision Tree,0,0,0.0
+tpehg1719,4,Decision Tree,1,0,0.0
+tpehg586,4,Decision Tree,1,0,0.0
+tpehg601,4,Decision Tree,0,1,0.976551724137931
+tpehg604,4,Decision Tree,0,1,0.9455128205128204
+tpehg610,4,Decision Tree,0,0,0.0
+tpehg618,4,Decision Tree,0,0,0.0
+tpehg639,4,Decision Tree,0,0,0.0
+tpehg644,4,Decision Tree,0,0,0.0
+tpehg681,4,Decision Tree,0,0,0.0
+tpehg715,4,Decision Tree,0,1,0.5895087427144041
+tpehg751,4,Decision Tree,0,0,0.0
+tpehg858,4,Decision Tree,1,1,0.5895087427144041
+tpehg873,4,Decision Tree,0,1,0.5895087427144041
+tpehg895,4,Decision Tree,0,0,0.0
+tpehg1039,5,Decision Tree,0,0,0.0
+tpehg1139,5,Decision Tree,0,0,0.0
+tpehg1167,5,Decision Tree,0,1,0.8992379339542762
+tpehg1202,5,Decision Tree,1,0,0.0
+tpehg1205,5,Decision Tree,0,0,0.0
+tpehg1241,5,Decision Tree,0,0,0.0
+tpehg1250,5,Decision Tree,0,1,0.8740740740740741
+tpehg1280,5,Decision Tree,0,1,0.8992379339542762
+tpehg1338,5,Decision Tree,0,0,0.0
+tpehg1441,5,Decision Tree,0,1,1.0
+tpehg1476,5,Decision Tree,1,0,0.0
+tpehg1518,5,Decision Tree,0,0,0.0
+tpehg1537,5,Decision Tree,0,0,0.0
+tpehg1544,5,Decision Tree,1,1,0.8992379339542762
+tpehg1589,5,Decision Tree,0,0,0.0
+tpehg1607,5,Decision Tree,0,0,0.0
+tpehg1630,5,Decision Tree,0,0,0.0
+tpehg1631,5,Decision Tree,0,0,0.0
+tpehg1659,5,Decision Tree,0,0,0.0
+tpehg1666,5,Decision Tree,0,0,0.0
+tpehg1676,5,Decision Tree,0,0,0.0
+tpehg1709,5,Decision Tree,0,1,0.8992379339542762
+tpehg1732,5,Decision Tree,0,1,0.9798339264531436
+tpehg572,5,Decision Tree,0,0,0.0
+tpehg593,5,Decision Tree,0,0,0.0
+tpehg617,5,Decision Tree,1,1,0.8740740740740741
+tpehg649,5,Decision Tree,0,1,1.0
+tpehg680,5,Decision Tree,0,0,0.0
+tpehg735,5,Decision Tree,0,1,1.0
+tpehg902,5,Decision Tree,0,0,0.0
+tpehg1137,6,Decision Tree,0,1,0.7763157894736842
+tpehg1151,6,Decision Tree,0,0,0.0
+tpehg1169,6,Decision Tree,0,0,0.0
+tpehg1228,6,Decision Tree,0,0,0.0
+tpehg1301,6,Decision Tree,0,0,0.0
+tpehg1326,6,Decision Tree,0,0,0.0
+tpehg1344,6,Decision Tree,0,0,0.0
+tpehg1367,6,Decision Tree,0,0,0.0
+tpehg1395,6,Decision Tree,0,0,0.0
+tpehg1425,6,Decision Tree,0,1,0.9630032644178452
+tpehg1457,6,Decision Tree,0,0,0.0
+tpehg1478,6,Decision Tree,1,0,0.0
+tpehg1485,6,Decision Tree,0,0,0.0
+tpehg1492,6,Decision Tree,0,0,0.0
+tpehg1511,6,Decision Tree,0,0,0.0
+tpehg1522,6,Decision Tree,0,0,0.0
+tpehg1552,6,Decision Tree,0,0,0.0
+tpehg1650,6,Decision Tree,0,1,0.8740740740740741
+tpehg1689,6,Decision Tree,0,1,0.9630032644178452
+tpehg1734,6,Decision Tree,1,0,0.0
+tpehg546,6,Decision Tree,1,0,0.0
+tpehg608,6,Decision Tree,0,1,0.9630032644178452
+tpehg667,6,Decision Tree,0,1,0.740807174887892
+tpehg745,6,Decision Tree,1,0,0.0
+tpehg767,6,Decision Tree,0,0,0.0
+tpehg840,6,Decision Tree,0,0,0.0
+tpehg851,6,Decision Tree,0,1,0.6982248520710059
+tpehg855,6,Decision Tree,0,0,0.0
+tpehg962,6,Decision Tree,0,0,0.0
+tpehg966,6,Decision Tree,0,0,0.0
+tpehg1027,7,Decision Tree,0,0,0.0
+tpehg1097,7,Decision Tree,0,1,0.9239373601789708
+tpehg1113,7,Decision Tree,0,1,0.7071161048689135
+tpehg1121,7,Decision Tree,0,1,0.7224489795918366
+tpehg1142,7,Decision Tree,0,0,0.0
+tpehg1163,7,Decision Tree,1,1,0.8740740740740741
+tpehg1203,7,Decision Tree,1,1,0.7224489795918366
+tpehg1212,7,Decision Tree,0,1,0.9239373601789708
+tpehg1219,7,Decision Tree,0,0,0.0
+tpehg1261,7,Decision Tree,0,0,0.0
+tpehg1363,7,Decision Tree,0,0,0.0
+tpehg1484,7,Decision Tree,0,0,0.0
+tpehg1486,7,Decision Tree,0,0,0.0
+tpehg1548,7,Decision Tree,0,1,0.7224489795918366
+tpehg1601,7,Decision Tree,0,0,0.0
+tpehg1602,7,Decision Tree,0,0,0.0
+tpehg1616,7,Decision Tree,0,1,0.7071161048689135
+tpehg1720,7,Decision Tree,1,0,0.0
+tpehg1726,7,Decision Tree,0,0,0.0
+tpehg1749,7,Decision Tree,0,0,0.0
+tpehg642,7,Decision Tree,0,0,0.0
+tpehg661,7,Decision Tree,0,0,0.0
+tpehg679,7,Decision Tree,0,0,0.0
+tpehg690,7,Decision Tree,0,1,0.932806324110672
+tpehg746,7,Decision Tree,0,0,0.0
+tpehg796,7,Decision Tree,0,0,0.0
+tpehg808,7,Decision Tree,0,0,0.0
+tpehg854,7,Decision Tree,0,0,0.0
+tpehg877,7,Decision Tree,1,0,0.0
+tpehg930,7,Decision Tree,0,0,0.0
+tpehg1029,8,Decision Tree,0,1,0.8740740740740741
+tpehg1093,8,Decision Tree,0,0,0.0
+tpehg1150,8,Decision Tree,0,1,0.7593307593307591
+tpehg1152,8,Decision Tree,0,0,0.0
+tpehg1201,8,Decision Tree,0,0,0.0
+tpehg1265,8,Decision Tree,0,0,0.0
+tpehg1314,8,Decision Tree,0,0,0.0
+tpehg1318,8,Decision Tree,1,1,0.7593307593307591
+tpehg1346,8,Decision Tree,0,0,0.0
+tpehg1348,8,Decision Tree,0,0,0.0
+tpehg1377,8,Decision Tree,0,0,0.0
+tpehg1391,8,Decision Tree,1,0,0.0
+tpehg1424,8,Decision Tree,0,0,0.0
+tpehg1437,8,Decision Tree,0,0,0.0
+tpehg1443,8,Decision Tree,0,0,0.0
+tpehg1446,8,Decision Tree,0,0,0.0
+tpehg1463,8,Decision Tree,0,0,0.0
+tpehg1504,8,Decision Tree,0,0,0.0
+tpehg1536,8,Decision Tree,0,1,0.9842446709916588
+tpehg1585,8,Decision Tree,0,0,0.0
+tpehg1606,8,Decision Tree,0,0,0.0
+tpehg1664,8,Decision Tree,0,1,0.8740740740740741
+tpehg1746,8,Decision Tree,0,0,0.0
+tpehg583,8,Decision Tree,0,1,0.9842446709916588
+tpehg641,8,Decision Tree,1,0,0.0
+tpehg676,8,Decision Tree,0,1,0.9842446709916588
+tpehg734,8,Decision Tree,0,0,0.0
+tpehg773,8,Decision Tree,0,1,0.7593307593307591
+tpehg786,8,Decision Tree,1,1,0.7593307593307591
+tpehg821,8,Decision Tree,0,0,0.0
+tpehg1065,9,Decision Tree,0,0,0.0
+tpehg1120,9,Decision Tree,0,0,0.0
+tpehg1136,9,Decision Tree,0,0,0.0
+tpehg1149,9,Decision Tree,0,1,0.7115222876366686
+tpehg1177,9,Decision Tree,0,1,0.7115222876366686
+tpehg1192,9,Decision Tree,0,1,1.0
+tpehg1246,9,Decision Tree,0,0,0.0
+tpehg1252,9,Decision Tree,0,0,0.0
+tpehg1299,9,Decision Tree,0,0,0.0
+tpehg1360,9,Decision Tree,0,0,0.0
+tpehg1438,9,Decision Tree,1,1,0.7115222876366686
+tpehg1498,9,Decision Tree,0,1,0.7115222876366686
+tpehg1543,9,Decision Tree,0,0,0.0
+tpehg1653,9,Decision Tree,0,0,0.0
+tpehg1675,9,Decision Tree,0,0,0.0
+tpehg1679,9,Decision Tree,0,0,0.0
+tpehg1690,9,Decision Tree,0,0,0.0
+tpehg1735,9,Decision Tree,0,1,1.0
+tpehg1747,9,Decision Tree,0,1,0.7115222876366686
+tpehg1756,9,Decision Tree,1,1,0.7115222876366686
+tpehg584,9,Decision Tree,0,0,0.0
+tpehg615,9,Decision Tree,0,0,0.0
+tpehg753,9,Decision Tree,0,0,0.0
+tpehg797,9,Decision Tree,1,0,0.0
+tpehg800,9,Decision Tree,0,0,0.0
+tpehg803,9,Decision Tree,0,0,0.0
+tpehg827,9,Decision Tree,0,0,0.0
+tpehg933,9,Decision Tree,0,0,0.0
+tpehg947,9,Decision Tree,0,0,0.0
+tpehg949,9,Decision Tree,0,0,0.0
+tpehg1007,10,Decision Tree,1,0,0.0
+tpehg1021,10,Decision Tree,0,0,0.0
+tpehg1089,10,Decision Tree,0,0,0.0
+tpehg1118,10,Decision Tree,0,0,0.0
+tpehg1147,10,Decision Tree,0,1,0.8830897703549059
+tpehg1161,10,Decision Tree,0,1,0.8173913043478261
+tpehg1197,10,Decision Tree,0,0,0.0
+tpehg1240,10,Decision Tree,0,0,0.3587786259541984
+tpehg1270,10,Decision Tree,0,0,0.0
+tpehg1369,10,Decision Tree,0,0,0.0
+tpehg1470,10,Decision Tree,0,0,0.0
+tpehg1501,10,Decision Tree,0,1,0.8173913043478261
+tpehg1532,10,Decision Tree,1,0,0.0
+tpehg1554,10,Decision Tree,0,0,0.0
+tpehg1566,10,Decision Tree,0,0,0.0
+tpehg1574,10,Decision Tree,0,0,0.0
+tpehg1577,10,Decision Tree,0,0,0.0
+tpehg1600,10,Decision Tree,1,0,0.0
+tpehg1701,10,Decision Tree,0,1,0.8703703703703703
+tpehg1703,10,Decision Tree,0,0,0.0
+tpehg603,10,Decision Tree,0,1,0.8483754512635377
+tpehg605,10,Decision Tree,0,1,0.8483754512635377
+tpehg623,10,Decision Tree,0,0,0.0
+tpehg688,10,Decision Tree,0,0,0.0
+tpehg697,10,Decision Tree,0,0,0.0
+tpehg832,10,Decision Tree,0,0,0.0
+tpehg878,10,Decision Tree,0,0,0.0
+tpehg927,10,Decision Tree,0,0,0.3587786259541984
+tpehg991,10,Decision Tree,0,0,0.0
+tpehg994,10,Decision Tree,0,1,0.9527027027027026
+tpehg1088,1,Gradient Boost,0,0,0.1236692018603253
+tpehg1132,1,Gradient Boost,0,0,0.067943392974219
+tpehg1188,1,Gradient Boost,0,0,0.0331805513025694
+tpehg1217,1,Gradient Boost,0,0,0.0418967386703871
+tpehg1273,1,Gradient Boost,0,0,0.148180987321224
+tpehg1276,1,Gradient Boost,0,0,0.0752294165920541
+tpehg1284,1,Gradient Boost,0,0,0.0727055181742303
+tpehg1300,1,Gradient Boost,0,0,0.2144748768405659
+tpehg1460,1,Gradient Boost,0,0,0.0522416470807574
+tpehg1490,1,Gradient Boost,1,0,0.046321224127236
+tpehg1507,1,Gradient Boost,0,0,0.2615187868209112
+tpehg1564,1,Gradient Boost,0,0,0.13055776064716
+tpehg1593,1,Gradient Boost,0,0,0.172000661524059
+tpehg1618,1,Gradient Boost,0,0,0.0518475769125792
+tpehg1628,1,Gradient Boost,0,0,0.0417177037700627
+tpehg1737,1,Gradient Boost,0,0,0.0769630317785454
+tpehg1751,1,Gradient Boost,1,0,0.2589482291353742
+tpehg552,1,Gradient Boost,0,0,0.0769645241886662
+tpehg567,1,Gradient Boost,1,0,0.0907303102335041
+tpehg597,1,Gradient Boost,0,0,0.0471825698319098
+tpehg625,1,Gradient Boost,0,0,0.0563822438818027
+tpehg660,1,Gradient Boost,0,0,0.0311204918623092
+tpehg675,1,Gradient Boost,0,0,0.044754324729551
+tpehg716,1,Gradient Boost,0,0,0.0841431941622026
+tpehg718,1,Gradient Boost,0,0,0.1827822574335793
+tpehg820,1,Gradient Boost,0,0,0.0200712381188956
+tpehg848,1,Gradient Boost,0,1,0.6430247576256121
+tpehg888,1,Gradient Boost,0,0,0.1487662525227075
+tpehg939,1,Gradient Boost,1,0,0.232629625831136
+tpehg980,1,Gradient Boost,0,0,0.0331396107143844
+tpehg1022,2,Gradient Boost,0,0,0.0925281345389704
+tpehg1031,2,Gradient Boost,0,0,0.0451457502799695
+tpehg1130,2,Gradient Boost,0,0,0.2708022353145792
+tpehg1216,2,Gradient Boost,0,0,0.1870957845850382
+tpehg1274,2,Gradient Boost,0,0,0.0477516284446618
+tpehg1283,2,Gradient Boost,0,0,0.0705229208194592
+tpehg1342,2,Gradient Boost,0,0,0.0856135693040956
+tpehg1343,2,Gradient Boost,0,0,0.0245121044263515
+tpehg1414,2,Gradient Boost,0,0,0.254339641913529
+tpehg1459,2,Gradient Boost,0,0,0.0733062396537986
+tpehg1495,2,Gradient Boost,0,0,0.0471913459671299
+tpehg1499,2,Gradient Boost,1,0,0.2616729080754439
+tpehg1534,2,Gradient Boost,0,0,0.1801209062310691
+tpehg1546,2,Gradient Boost,0,0,0.2162501142508831
+tpehg1612,2,Gradient Boost,0,0,0.0601961382593282
+tpehg1614,2,Gradient Boost,0,0,0.0951892263373563
+tpehg1660,2,Gradient Boost,0,0,0.1187178662196778
+tpehg1662,2,Gradient Boost,0,0,0.0697019272600455
+tpehg1663,2,Gradient Boost,0,0,0.1205452375435715
+tpehg1688,2,Gradient Boost,0,0,0.0495006556999015
+tpehg1748,2,Gradient Boost,1,0,0.1865711199438186
+tpehg614,2,Gradient Boost,1,0,0.04388603922478
+tpehg674,2,Gradient Boost,0,0,0.2497071097407451
+tpehg737,2,Gradient Boost,0,0,0.0628052352287088
+tpehg766,2,Gradient Boost,0,0,0.1054222452867871
+tpehg914,2,Gradient Boost,1,1,0.6342572891595074
+tpehg916,2,Gradient Boost,0,0,0.105862522744989
+tpehg920,2,Gradient Boost,0,0,0.0677356747669316
+tpehg938,2,Gradient Boost,0,0,0.0552428922810201
+tpehg961,2,Gradient Boost,0,0,0.0246401280639734
+tpehg1119,3,Gradient Boost,0,0,0.129079936515713
+tpehg1134,3,Gradient Boost,0,0,0.0450377831780774
+tpehg1138,3,Gradient Boost,0,0,0.0982814689894559
+tpehg1226,3,Gradient Boost,0,0,0.1256430407832903
+tpehg1263,3,Gradient Boost,0,0,0.1059889164763041
+tpehg1264,3,Gradient Boost,0,0,0.1089088336411689
+tpehg1298,3,Gradient Boost,1,0,0.1730057733228525
+tpehg1302,3,Gradient Boost,1,0,0.2924602367679275
+tpehg1378,3,Gradient Boost,0,0,0.0383642628745232
+tpehg1389,3,Gradient Boost,0,0,0.1381754045200519
+tpehg1412,3,Gradient Boost,0,0,0.1997077201153232
+tpehg1467,3,Gradient Boost,1,0,0.0655917823954736
+tpehg1526,3,Gradient Boost,1,0,0.2344356758206686
+tpehg1626,3,Gradient Boost,0,0,0.0508702635875933
+tpehg1642,3,Gradient Boost,0,0,0.077093676040088
+tpehg1687,3,Gradient Boost,0,0,0.1286903203008537
+tpehg1717,3,Gradient Boost,0,0,0.0706269251550431
+tpehg1723,3,Gradient Boost,0,0,0.0615955891344797
+tpehg1741,3,Gradient Boost,0,0,0.1997077201153232
+tpehg1745,3,Gradient Boost,0,0,0.0842906776577537
+tpehg553,3,Gradient Boost,0,0,0.1623491405411596
+tpehg710,3,Gradient Boost,0,0,0.0694737317103264
+tpehg725,3,Gradient Boost,0,0,0.0293755742510904
+tpehg768,3,Gradient Boost,0,0,0.0383642628745232
+tpehg778,3,Gradient Boost,0,0,0.1221331431998214
+tpehg814,3,Gradient Boost,0,0,0.0721188625345721
+tpehg867,3,Gradient Boost,0,0,0.0940998361238816
+tpehg891,3,Gradient Boost,0,0,0.0380294282495981
+tpehg926,3,Gradient Boost,0,0,0.1306217390369239
+tpehg929,3,Gradient Boost,0,0,0.0786094861386576
+tpehg1070,4,Gradient Boost,0,0,0.0851491605238417
+tpehg1116,4,Gradient Boost,0,0,0.0367662532018424
+tpehg1128,4,Gradient Boost,0,0,0.0437815094668917
+tpehg1183,4,Gradient Boost,0,0,0.1819007387360643
+tpehg1282,4,Gradient Boost,0,0,0.0635941157833616
+tpehg1335,4,Gradient Boost,0,0,0.1106896023500191
+tpehg1368,4,Gradient Boost,0,0,0.1390365280603018
+tpehg1372,4,Gradient Boost,0,0,0.0690511743437522
+tpehg1436,4,Gradient Boost,1,0,0.0729503552458611
+tpehg1520,4,Gradient Boost,0,0,0.3566403950484042
+tpehg1575,4,Gradient Boost,0,0,0.0788598762641817
+tpehg1579,4,Gradient Boost,0,0,0.0897861047315128
+tpehg1587,4,Gradient Boost,0,0,0.0579208905372516
+tpehg1619,4,Gradient Boost,0,0,0.1752434568590792
+tpehg1649,4,Gradient Boost,0,0,0.0984421517198805
+tpehg1674,4,Gradient Boost,0,0,0.1841786578062425
+tpehg1719,4,Gradient Boost,1,0,0.0765485976804567
+tpehg586,4,Gradient Boost,1,0,0.0859798854248589
+tpehg601,4,Gradient Boost,0,1,0.5200971600117772
+tpehg604,4,Gradient Boost,0,0,0.1177040543610543
+tpehg610,4,Gradient Boost,0,0,0.0813349242022139
+tpehg618,4,Gradient Boost,0,0,0.1117222583837716
+tpehg639,4,Gradient Boost,0,0,0.0401409192660417
+tpehg644,4,Gradient Boost,0,0,0.0467418646776522
+tpehg681,4,Gradient Boost,0,0,0.0804416991169022
+tpehg715,4,Gradient Boost,0,0,0.0879503570564568
+tpehg751,4,Gradient Boost,0,0,0.1487896482235915
+tpehg858,4,Gradient Boost,1,0,0.1918508511718467
+tpehg873,4,Gradient Boost,0,0,0.1732227924225304
+tpehg895,4,Gradient Boost,0,0,0.0883569588883468
+tpehg1039,5,Gradient Boost,0,0,0.1053706517595616
+tpehg1139,5,Gradient Boost,0,0,0.1240989109626901
+tpehg1167,5,Gradient Boost,0,0,0.3862951018612972
+tpehg1202,5,Gradient Boost,1,0,0.0804501161082573
+tpehg1205,5,Gradient Boost,0,0,0.0831392435207163
+tpehg1241,5,Gradient Boost,0,0,0.0454417375309629
+tpehg1250,5,Gradient Boost,0,0,0.0926892181098955
+tpehg1280,5,Gradient Boost,0,0,0.1443437861292035
+tpehg1338,5,Gradient Boost,0,0,0.2693065442157111
+tpehg1441,5,Gradient Boost,0,0,0.2133389604082196
+tpehg1476,5,Gradient Boost,1,0,0.1309789188391118
+tpehg1518,5,Gradient Boost,0,0,0.4142833540087802
+tpehg1537,5,Gradient Boost,0,0,0.0575520797914144
+tpehg1544,5,Gradient Boost,1,0,0.1940918170972272
+tpehg1589,5,Gradient Boost,0,0,0.0580052104713163
+tpehg1607,5,Gradient Boost,0,0,0.08655993055264
+tpehg1630,5,Gradient Boost,0,0,0.2820726707707152
+tpehg1631,5,Gradient Boost,0,0,0.0646462859229487
+tpehg1659,5,Gradient Boost,0,0,0.1696241747867947
+tpehg1666,5,Gradient Boost,0,0,0.1308404445753932
+tpehg1676,5,Gradient Boost,0,0,0.0674137233310144
+tpehg1709,5,Gradient Boost,0,0,0.0797136008848346
+tpehg1732,5,Gradient Boost,0,0,0.049546305700578
+tpehg572,5,Gradient Boost,0,0,0.0390508403052657
+tpehg593,5,Gradient Boost,0,0,0.1355979947738936
+tpehg617,5,Gradient Boost,1,0,0.0938944180825947
+tpehg649,5,Gradient Boost,0,0,0.0577964099510695
+tpehg680,5,Gradient Boost,0,0,0.0778389544807811
+tpehg735,5,Gradient Boost,0,0,0.0645651422501276
+tpehg902,5,Gradient Boost,0,0,0.0501402198089495
+tpehg1137,6,Gradient Boost,0,0,0.0227017544833211
+tpehg1151,6,Gradient Boost,0,0,0.0258161945103345
+tpehg1169,6,Gradient Boost,0,0,0.2032241467848423
+tpehg1228,6,Gradient Boost,0,0,0.0155059079013782
+tpehg1301,6,Gradient Boost,0,0,0.0410731230704339
+tpehg1326,6,Gradient Boost,0,0,0.0460138294035393
+tpehg1344,6,Gradient Boost,0,0,0.0564426876700418
+tpehg1367,6,Gradient Boost,0,0,0.0299169679410546
+tpehg1395,6,Gradient Boost,0,0,0.073674233344739
+tpehg1425,6,Gradient Boost,0,0,0.2335191031541796
+tpehg1457,6,Gradient Boost,0,0,0.0274568545083618
+tpehg1478,6,Gradient Boost,1,0,0.0524895775741386
+tpehg1485,6,Gradient Boost,0,0,0.0717722608887494
+tpehg1492,6,Gradient Boost,0,0,0.0562399369315967
+tpehg1511,6,Gradient Boost,0,0,0.2832827506589235
+tpehg1522,6,Gradient Boost,0,0,0.0922209287343664
+tpehg1552,6,Gradient Boost,0,0,0.0300343840528343
+tpehg1650,6,Gradient Boost,0,0,0.0341460692093471
+tpehg1689,6,Gradient Boost,0,0,0.3852236277865203
+tpehg1734,6,Gradient Boost,1,0,0.0472459314829853
+tpehg546,6,Gradient Boost,1,0,0.0519112838692919
+tpehg608,6,Gradient Boost,0,0,0.2172329133940336
+tpehg667,6,Gradient Boost,0,0,0.1196798623912083
+tpehg745,6,Gradient Boost,1,0,0.1662696938274364
+tpehg767,6,Gradient Boost,0,0,0.1613019567655547
+tpehg840,6,Gradient Boost,0,0,0.0316633458089795
+tpehg851,6,Gradient Boost,0,0,0.1000899213793617
+tpehg855,6,Gradient Boost,0,0,0.2623323419729735
+tpehg962,6,Gradient Boost,0,0,0.0182352890727738
+tpehg966,6,Gradient Boost,0,0,0.1320860414089374
+tpehg1027,7,Gradient Boost,0,0,0.0550757857034113
+tpehg1097,7,Gradient Boost,0,0,0.1597001915496785
+tpehg1113,7,Gradient Boost,0,0,0.1340186882935775
+tpehg1121,7,Gradient Boost,0,1,0.6952347087262961
+tpehg1142,7,Gradient Boost,0,0,0.13793620883001
+tpehg1163,7,Gradient Boost,1,0,0.0974171087087417
+tpehg1203,7,Gradient Boost,1,0,0.227170661334363
+tpehg1212,7,Gradient Boost,0,0,0.1091207548348084
+tpehg1219,7,Gradient Boost,0,0,0.0665463928689215
+tpehg1261,7,Gradient Boost,0,0,0.0335154465058826
+tpehg1363,7,Gradient Boost,0,0,0.0415430247210127
+tpehg1484,7,Gradient Boost,0,0,0.0864517950539517
+tpehg1486,7,Gradient Boost,0,0,0.205486130046118
+tpehg1548,7,Gradient Boost,0,0,0.1421741697289709
+tpehg1601,7,Gradient Boost,0,0,0.0983830007597335
+tpehg1602,7,Gradient Boost,0,0,0.0956136374708898
+tpehg1616,7,Gradient Boost,0,0,0.1213160396884011
+tpehg1720,7,Gradient Boost,1,0,0.1231492742308625
+tpehg1726,7,Gradient Boost,0,0,0.0990930246556076
+tpehg1749,7,Gradient Boost,0,0,0.0939384854071125
+tpehg642,7,Gradient Boost,0,0,0.1025711430248363
+tpehg661,7,Gradient Boost,0,0,0.060619222349588
+tpehg679,7,Gradient Boost,0,0,0.0652372595160894
+tpehg690,7,Gradient Boost,0,0,0.2299002074757289
+tpehg746,7,Gradient Boost,0,0,0.0779251630493364
+tpehg796,7,Gradient Boost,0,0,0.1617693871114906
+tpehg808,7,Gradient Boost,0,0,0.1060541810137785
+tpehg854,7,Gradient Boost,0,0,0.208927062584907
+tpehg877,7,Gradient Boost,1,0,0.1509850920886927
+tpehg930,7,Gradient Boost,0,0,0.0579684795787703
+tpehg1029,8,Gradient Boost,0,0,0.0769300640161663
+tpehg1093,8,Gradient Boost,0,0,0.1232134372695206
+tpehg1150,8,Gradient Boost,0,0,0.0945758433434129
+tpehg1152,8,Gradient Boost,0,0,0.2042161575652052
+tpehg1201,8,Gradient Boost,0,0,0.0371497130608968
+tpehg1265,8,Gradient Boost,0,0,0.1159435804550912
+tpehg1314,8,Gradient Boost,0,0,0.0487020407915337
+tpehg1318,8,Gradient Boost,1,0,0.2502685411367099
+tpehg1346,8,Gradient Boost,0,0,0.1628212880974845
+tpehg1348,8,Gradient Boost,0,0,0.044920796881446
+tpehg1377,8,Gradient Boost,0,0,0.1420927820183548
+tpehg1391,8,Gradient Boost,1,0,0.0643338216903126
+tpehg1424,8,Gradient Boost,0,0,0.1018161562849543
+tpehg1437,8,Gradient Boost,0,0,0.1249460207121559
+tpehg1443,8,Gradient Boost,0,0,0.1077043685643639
+tpehg1446,8,Gradient Boost,0,0,0.2089442736404595
+tpehg1463,8,Gradient Boost,0,0,0.0866825087368278
+tpehg1504,8,Gradient Boost,0,0,0.0528706889541268
+tpehg1536,8,Gradient Boost,0,0,0.163115815767664
+tpehg1585,8,Gradient Boost,0,0,0.1457928388394101
+tpehg1606,8,Gradient Boost,0,0,0.0480728695380733
+tpehg1664,8,Gradient Boost,0,0,0.1017677100990322
+tpehg1746,8,Gradient Boost,0,0,0.0659298737014461
+tpehg583,8,Gradient Boost,0,0,0.2296888477189471
+tpehg641,8,Gradient Boost,1,0,0.1526883492802858
+tpehg676,8,Gradient Boost,0,0,0.1176426654409955
+tpehg734,8,Gradient Boost,0,0,0.080073342242172
+tpehg773,8,Gradient Boost,0,0,0.1390883042721346
+tpehg786,8,Gradient Boost,1,0,0.2253404468392314
+tpehg821,8,Gradient Boost,0,0,0.0544929983721634
+tpehg1065,9,Gradient Boost,0,0,0.0869603704510253
+tpehg1120,9,Gradient Boost,0,0,0.0659714009399581
+tpehg1136,9,Gradient Boost,0,0,0.206495619598027
+tpehg1149,9,Gradient Boost,0,0,0.0451660198459614
+tpehg1177,9,Gradient Boost,0,0,0.3200974646418923
+tpehg1192,9,Gradient Boost,0,1,0.5466682569065519
+tpehg1246,9,Gradient Boost,0,0,0.0802526976228874
+tpehg1252,9,Gradient Boost,0,0,0.0609548888448554
+tpehg1299,9,Gradient Boost,0,0,0.0736603939429419
+tpehg1360,9,Gradient Boost,0,0,0.1780049439181471
+tpehg1438,9,Gradient Boost,1,0,0.2911512370896397
+tpehg1498,9,Gradient Boost,0,0,0.0606116973609057
+tpehg1543,9,Gradient Boost,0,0,0.0296091791172041
+tpehg1653,9,Gradient Boost,0,0,0.0301570865155331
+tpehg1675,9,Gradient Boost,0,0,0.2234680982944532
+tpehg1679,9,Gradient Boost,0,0,0.049450733256476
+tpehg1690,9,Gradient Boost,0,0,0.0403947281611334
+tpehg1735,9,Gradient Boost,0,0,0.2201207201756177
+tpehg1747,9,Gradient Boost,0,0,0.4465741990382557
+tpehg1756,9,Gradient Boost,1,0,0.3315874865903199
+tpehg584,9,Gradient Boost,0,0,0.0198844447693191
+tpehg615,9,Gradient Boost,0,0,0.0680977620794321
+tpehg753,9,Gradient Boost,0,0,0.0697311249322523
+tpehg797,9,Gradient Boost,1,0,0.0470429171218547
+tpehg800,9,Gradient Boost,0,0,0.0766005195398054
+tpehg803,9,Gradient Boost,0,0,0.0313355110514225
+tpehg827,9,Gradient Boost,0,0,0.0634952365616274
+tpehg933,9,Gradient Boost,0,0,0.0556353522430565
+tpehg947,9,Gradient Boost,0,0,0.1036392729636042
+tpehg949,9,Gradient Boost,0,0,0.146192260527114
+tpehg1007,10,Gradient Boost,1,0,0.0393821452190485
+tpehg1021,10,Gradient Boost,0,0,0.036171465776236
+tpehg1089,10,Gradient Boost,0,0,0.0601432859699939
+tpehg1118,10,Gradient Boost,0,0,0.1022437074857795
+tpehg1147,10,Gradient Boost,0,0,0.2609026640242687
+tpehg1161,10,Gradient Boost,0,0,0.2250745807512358
+tpehg1197,10,Gradient Boost,0,0,0.1353611723961807
+tpehg1240,10,Gradient Boost,0,0,0.2137528947715641
+tpehg1270,10,Gradient Boost,0,0,0.1809283433599331
+tpehg1369,10,Gradient Boost,0,0,0.0407960423734579
+tpehg1470,10,Gradient Boost,0,0,0.0395593164488239
+tpehg1501,10,Gradient Boost,0,0,0.2818068553686508
+tpehg1532,10,Gradient Boost,1,0,0.3200861337171035
+tpehg1554,10,Gradient Boost,0,0,0.1331003327024065
+tpehg1566,10,Gradient Boost,0,0,0.0569022916683895
+tpehg1574,10,Gradient Boost,0,0,0.0670310270021388
+tpehg1577,10,Gradient Boost,0,0,0.04870943687037
+tpehg1600,10,Gradient Boost,1,0,0.435406920876251
+tpehg1701,10,Gradient Boost,0,0,0.0684925765546847
+tpehg1703,10,Gradient Boost,0,0,0.0525474824985676
+tpehg603,10,Gradient Boost,0,0,0.2285529009832568
+tpehg605,10,Gradient Boost,0,0,0.0888381541582283
+tpehg623,10,Gradient Boost,0,0,0.0954125015616081
+tpehg688,10,Gradient Boost,0,0,0.078537528043229
+tpehg697,10,Gradient Boost,0,0,0.204194993994112
+tpehg832,10,Gradient Boost,0,1,0.5404035607696913
+tpehg878,10,Gradient Boost,0,0,0.1120526379646223
+tpehg927,10,Gradient Boost,0,0,0.1967342505659337
+tpehg991,10,Gradient Boost,0,0,0.0445195430897033
+tpehg994,10,Gradient Boost,0,0,0.1476416769020499
+tpehg1088,1,Hard Voting Ensemble,0,0,
+tpehg1132,1,Hard Voting Ensemble,0,0,
+tpehg1188,1,Hard Voting Ensemble,0,0,
+tpehg1217,1,Hard Voting Ensemble,0,0,
+tpehg1273,1,Hard Voting Ensemble,0,0,
+tpehg1276,1,Hard Voting Ensemble,0,0,
+tpehg1284,1,Hard Voting Ensemble,0,0,
+tpehg1300,1,Hard Voting Ensemble,0,0,
+tpehg1460,1,Hard Voting Ensemble,0,0,
+tpehg1490,1,Hard Voting Ensemble,1,0,
+tpehg1507,1,Hard Voting Ensemble,0,0,
+tpehg1564,1,Hard Voting Ensemble,0,0,
+tpehg1593,1,Hard Voting Ensemble,0,0,
+tpehg1618,1,Hard Voting Ensemble,0,0,
+tpehg1628,1,Hard Voting Ensemble,0,0,
+tpehg1737,1,Hard Voting Ensemble,0,0,
+tpehg1751,1,Hard Voting Ensemble,1,0,
+tpehg552,1,Hard Voting Ensemble,0,0,
+tpehg567,1,Hard Voting Ensemble,1,0,
+tpehg597,1,Hard Voting Ensemble,0,0,
+tpehg625,1,Hard Voting Ensemble,0,0,
+tpehg660,1,Hard Voting Ensemble,0,0,
+tpehg675,1,Hard Voting Ensemble,0,0,
+tpehg716,1,Hard Voting Ensemble,0,0,
+tpehg718,1,Hard Voting Ensemble,0,0,
+tpehg820,1,Hard Voting Ensemble,0,0,
+tpehg848,1,Hard Voting Ensemble,0,0,
+tpehg888,1,Hard Voting Ensemble,0,0,
+tpehg939,1,Hard Voting Ensemble,1,0,
+tpehg980,1,Hard Voting Ensemble,0,0,
+tpehg1022,2,Hard Voting Ensemble,0,0,
+tpehg1031,2,Hard Voting Ensemble,0,0,
+tpehg1130,2,Hard Voting Ensemble,0,0,
+tpehg1216,2,Hard Voting Ensemble,0,0,
+tpehg1274,2,Hard Voting Ensemble,0,0,
+tpehg1283,2,Hard Voting Ensemble,0,0,
+tpehg1342,2,Hard Voting Ensemble,0,0,
+tpehg1343,2,Hard Voting Ensemble,0,0,
+tpehg1414,2,Hard Voting Ensemble,0,0,
+tpehg1459,2,Hard Voting Ensemble,0,0,
+tpehg1495,2,Hard Voting Ensemble,0,0,
+tpehg1499,2,Hard Voting Ensemble,1,0,
+tpehg1534,2,Hard Voting Ensemble,0,0,
+tpehg1546,2,Hard Voting Ensemble,0,0,
+tpehg1612,2,Hard Voting Ensemble,0,0,
+tpehg1614,2,Hard Voting Ensemble,0,0,
+tpehg1660,2,Hard Voting Ensemble,0,0,
+tpehg1662,2,Hard Voting Ensemble,0,0,
+tpehg1663,2,Hard Voting Ensemble,0,0,
+tpehg1688,2,Hard Voting Ensemble,0,0,
+tpehg1748,2,Hard Voting Ensemble,1,0,
+tpehg614,2,Hard Voting Ensemble,1,0,
+tpehg674,2,Hard Voting Ensemble,0,0,
+tpehg737,2,Hard Voting Ensemble,0,0,
+tpehg766,2,Hard Voting Ensemble,0,0,
+tpehg914,2,Hard Voting Ensemble,1,0,
+tpehg916,2,Hard Voting Ensemble,0,0,
+tpehg920,2,Hard Voting Ensemble,0,0,
+tpehg938,2,Hard Voting Ensemble,0,0,
+tpehg961,2,Hard Voting Ensemble,0,0,
+tpehg1119,3,Hard Voting Ensemble,0,0,
+tpehg1134,3,Hard Voting Ensemble,0,0,
+tpehg1138,3,Hard Voting Ensemble,0,0,
+tpehg1226,3,Hard Voting Ensemble,0,0,
+tpehg1263,3,Hard Voting Ensemble,0,0,
+tpehg1264,3,Hard Voting Ensemble,0,0,
+tpehg1298,3,Hard Voting Ensemble,1,0,
+tpehg1302,3,Hard Voting Ensemble,1,0,
+tpehg1378,3,Hard Voting Ensemble,0,0,
+tpehg1389,3,Hard Voting Ensemble,0,0,
+tpehg1412,3,Hard Voting Ensemble,0,1,
+tpehg1467,3,Hard Voting Ensemble,1,0,
+tpehg1526,3,Hard Voting Ensemble,1,0,
+tpehg1626,3,Hard Voting Ensemble,0,0,
+tpehg1642,3,Hard Voting Ensemble,0,0,
+tpehg1687,3,Hard Voting Ensemble,0,0,
+tpehg1717,3,Hard Voting Ensemble,0,0,
+tpehg1723,3,Hard Voting Ensemble,0,0,
+tpehg1741,3,Hard Voting Ensemble,0,0,
+tpehg1745,3,Hard Voting Ensemble,0,0,
+tpehg553,3,Hard Voting Ensemble,0,0,
+tpehg710,3,Hard Voting Ensemble,0,0,
+tpehg725,3,Hard Voting Ensemble,0,0,
+tpehg768,3,Hard Voting Ensemble,0,0,
+tpehg778,3,Hard Voting Ensemble,0,0,
+tpehg814,3,Hard Voting Ensemble,0,0,
+tpehg867,3,Hard Voting Ensemble,0,0,
+tpehg891,3,Hard Voting Ensemble,0,0,
+tpehg926,3,Hard Voting Ensemble,0,0,
+tpehg929,3,Hard Voting Ensemble,0,0,
+tpehg1070,4,Hard Voting Ensemble,0,0,
+tpehg1116,4,Hard Voting Ensemble,0,0,
+tpehg1128,4,Hard Voting Ensemble,0,0,
+tpehg1183,4,Hard Voting Ensemble,0,0,
+tpehg1282,4,Hard Voting Ensemble,0,0,
+tpehg1335,4,Hard Voting Ensemble,0,0,
+tpehg1368,4,Hard Voting Ensemble,0,0,
+tpehg1372,4,Hard Voting Ensemble,0,0,
+tpehg1436,4,Hard Voting Ensemble,1,0,
+tpehg1520,4,Hard Voting Ensemble,0,0,
+tpehg1575,4,Hard Voting Ensemble,0,0,
+tpehg1579,4,Hard Voting Ensemble,0,0,
+tpehg1587,4,Hard Voting Ensemble,0,0,
+tpehg1619,4,Hard Voting Ensemble,0,0,
+tpehg1649,4,Hard Voting Ensemble,0,0,
+tpehg1674,4,Hard Voting Ensemble,0,0,
+tpehg1719,4,Hard Voting Ensemble,1,0,
+tpehg586,4,Hard Voting Ensemble,1,0,
+tpehg601,4,Hard Voting Ensemble,0,0,
+tpehg604,4,Hard Voting Ensemble,0,0,
+tpehg610,4,Hard Voting Ensemble,0,0,
+tpehg618,4,Hard Voting Ensemble,0,0,
+tpehg639,4,Hard Voting Ensemble,0,0,
+tpehg644,4,Hard Voting Ensemble,0,0,
+tpehg681,4,Hard Voting Ensemble,0,0,
+tpehg715,4,Hard Voting Ensemble,0,0,
+tpehg751,4,Hard Voting Ensemble,0,0,
+tpehg858,4,Hard Voting Ensemble,1,0,
+tpehg873,4,Hard Voting Ensemble,0,0,
+tpehg895,4,Hard Voting Ensemble,0,0,
+tpehg1039,5,Hard Voting Ensemble,0,0,
+tpehg1139,5,Hard Voting Ensemble,0,0,
+tpehg1167,5,Hard Voting Ensemble,0,0,
+tpehg1202,5,Hard Voting Ensemble,1,0,
+tpehg1205,5,Hard Voting Ensemble,0,0,
+tpehg1241,5,Hard Voting Ensemble,0,0,
+tpehg1250,5,Hard Voting Ensemble,0,0,
+tpehg1280,5,Hard Voting Ensemble,0,0,
+tpehg1338,5,Hard Voting Ensemble,0,0,
+tpehg1441,5,Hard Voting Ensemble,0,0,
+tpehg1476,5,Hard Voting Ensemble,1,0,
+tpehg1518,5,Hard Voting Ensemble,0,0,
+tpehg1537,5,Hard Voting Ensemble,0,0,
+tpehg1544,5,Hard Voting Ensemble,1,0,
+tpehg1589,5,Hard Voting Ensemble,0,0,
+tpehg1607,5,Hard Voting Ensemble,0,0,
+tpehg1630,5,Hard Voting Ensemble,0,0,
+tpehg1631,5,Hard Voting Ensemble,0,0,
+tpehg1659,5,Hard Voting Ensemble,0,0,
+tpehg1666,5,Hard Voting Ensemble,0,0,
+tpehg1676,5,Hard Voting Ensemble,0,0,
+tpehg1709,5,Hard Voting Ensemble,0,0,
+tpehg1732,5,Hard Voting Ensemble,0,0,
+tpehg572,5,Hard Voting Ensemble,0,0,
+tpehg593,5,Hard Voting Ensemble,0,0,
+tpehg617,5,Hard Voting Ensemble,1,0,
+tpehg649,5,Hard Voting Ensemble,0,0,
+tpehg680,5,Hard Voting Ensemble,0,0,
+tpehg735,5,Hard Voting Ensemble,0,0,
+tpehg902,5,Hard Voting Ensemble,0,0,
+tpehg1137,6,Hard Voting Ensemble,0,0,
+tpehg1151,6,Hard Voting Ensemble,0,0,
+tpehg1169,6,Hard Voting Ensemble,0,0,
+tpehg1228,6,Hard Voting Ensemble,0,0,
+tpehg1301,6,Hard Voting Ensemble,0,0,
+tpehg1326,6,Hard Voting Ensemble,0,0,
+tpehg1344,6,Hard Voting Ensemble,0,0,
+tpehg1367,6,Hard Voting Ensemble,0,0,
+tpehg1395,6,Hard Voting Ensemble,0,0,
+tpehg1425,6,Hard Voting Ensemble,0,0,
+tpehg1457,6,Hard Voting Ensemble,0,0,
+tpehg1478,6,Hard Voting Ensemble,1,0,
+tpehg1485,6,Hard Voting Ensemble,0,0,
+tpehg1492,6,Hard Voting Ensemble,0,0,
+tpehg1511,6,Hard Voting Ensemble,0,0,
+tpehg1522,6,Hard Voting Ensemble,0,0,
+tpehg1552,6,Hard Voting Ensemble,0,0,
+tpehg1650,6,Hard Voting Ensemble,0,0,
+tpehg1689,6,Hard Voting Ensemble,0,0,
+tpehg1734,6,Hard Voting Ensemble,1,0,
+tpehg546,6,Hard Voting Ensemble,1,0,
+tpehg608,6,Hard Voting Ensemble,0,0,
+tpehg667,6,Hard Voting Ensemble,0,0,
+tpehg745,6,Hard Voting Ensemble,1,0,
+tpehg767,6,Hard Voting Ensemble,0,0,
+tpehg840,6,Hard Voting Ensemble,0,0,
+tpehg851,6,Hard Voting Ensemble,0,0,
+tpehg855,6,Hard Voting Ensemble,0,0,
+tpehg962,6,Hard Voting Ensemble,0,0,
+tpehg966,6,Hard Voting Ensemble,0,0,
+tpehg1027,7,Hard Voting Ensemble,0,0,
+tpehg1097,7,Hard Voting Ensemble,0,0,
+tpehg1113,7,Hard Voting Ensemble,0,0,
+tpehg1121,7,Hard Voting Ensemble,0,0,
+tpehg1142,7,Hard Voting Ensemble,0,0,
+tpehg1163,7,Hard Voting Ensemble,1,0,
+tpehg1203,7,Hard Voting Ensemble,1,0,
+tpehg1212,7,Hard Voting Ensemble,0,0,
+tpehg1219,7,Hard Voting Ensemble,0,0,
+tpehg1261,7,Hard Voting Ensemble,0,0,
+tpehg1363,7,Hard Voting Ensemble,0,0,
+tpehg1484,7,Hard Voting Ensemble,0,0,
+tpehg1486,7,Hard Voting Ensemble,0,0,
+tpehg1548,7,Hard Voting Ensemble,0,0,
+tpehg1601,7,Hard Voting Ensemble,0,0,
+tpehg1602,7,Hard Voting Ensemble,0,0,
+tpehg1616,7,Hard Voting Ensemble,0,0,
+tpehg1720,7,Hard Voting Ensemble,1,0,
+tpehg1726,7,Hard Voting Ensemble,0,0,
+tpehg1749,7,Hard Voting Ensemble,0,0,
+tpehg642,7,Hard Voting Ensemble,0,0,
+tpehg661,7,Hard Voting Ensemble,0,0,
+tpehg679,7,Hard Voting Ensemble,0,0,
+tpehg690,7,Hard Voting Ensemble,0,0,
+tpehg746,7,Hard Voting Ensemble,0,0,
+tpehg796,7,Hard Voting Ensemble,0,0,
+tpehg808,7,Hard Voting Ensemble,0,0,
+tpehg854,7,Hard Voting Ensemble,0,0,
+tpehg877,7,Hard Voting Ensemble,1,0,
+tpehg930,7,Hard Voting Ensemble,0,0,
+tpehg1029,8,Hard Voting Ensemble,0,0,
+tpehg1093,8,Hard Voting Ensemble,0,0,
+tpehg1150,8,Hard Voting Ensemble,0,0,
+tpehg1152,8,Hard Voting Ensemble,0,0,
+tpehg1201,8,Hard Voting Ensemble,0,0,
+tpehg1265,8,Hard Voting Ensemble,0,0,
+tpehg1314,8,Hard Voting Ensemble,0,0,
+tpehg1318,8,Hard Voting Ensemble,1,0,
+tpehg1346,8,Hard Voting Ensemble,0,0,
+tpehg1348,8,Hard Voting Ensemble,0,0,
+tpehg1377,8,Hard Voting Ensemble,0,0,
+tpehg1391,8,Hard Voting Ensemble,1,0,
+tpehg1424,8,Hard Voting Ensemble,0,0,
+tpehg1437,8,Hard Voting Ensemble,0,0,
+tpehg1443,8,Hard Voting Ensemble,0,0,
+tpehg1446,8,Hard Voting Ensemble,0,0,
+tpehg1463,8,Hard Voting Ensemble,0,0,
+tpehg1504,8,Hard Voting Ensemble,0,0,
+tpehg1536,8,Hard Voting Ensemble,0,0,
+tpehg1585,8,Hard Voting Ensemble,0,0,
+tpehg1606,8,Hard Voting Ensemble,0,0,
+tpehg1664,8,Hard Voting Ensemble,0,0,
+tpehg1746,8,Hard Voting Ensemble,0,0,
+tpehg583,8,Hard Voting Ensemble,0,0,
+tpehg641,8,Hard Voting Ensemble,1,0,
+tpehg676,8,Hard Voting Ensemble,0,0,
+tpehg734,8,Hard Voting Ensemble,0,0,
+tpehg773,8,Hard Voting Ensemble,0,0,
+tpehg786,8,Hard Voting Ensemble,1,0,
+tpehg821,8,Hard Voting Ensemble,0,0,
+tpehg1065,9,Hard Voting Ensemble,0,0,
+tpehg1120,9,Hard Voting Ensemble,0,0,
+tpehg1136,9,Hard Voting Ensemble,0,0,
+tpehg1149,9,Hard Voting Ensemble,0,0,
+tpehg1177,9,Hard Voting Ensemble,0,0,
+tpehg1192,9,Hard Voting Ensemble,0,0,
+tpehg1246,9,Hard Voting Ensemble,0,0,
+tpehg1252,9,Hard Voting Ensemble,0,0,
+tpehg1299,9,Hard Voting Ensemble,0,0,
+tpehg1360,9,Hard Voting Ensemble,0,0,
+tpehg1438,9,Hard Voting Ensemble,1,0,
+tpehg1498,9,Hard Voting Ensemble,0,0,
+tpehg1543,9,Hard Voting Ensemble,0,0,
+tpehg1653,9,Hard Voting Ensemble,0,0,
+tpehg1675,9,Hard Voting Ensemble,0,0,
+tpehg1679,9,Hard Voting Ensemble,0,0,
+tpehg1690,9,Hard Voting Ensemble,0,0,
+tpehg1735,9,Hard Voting Ensemble,0,0,
+tpehg1747,9,Hard Voting Ensemble,0,1,
+tpehg1756,9,Hard Voting Ensemble,1,0,
+tpehg584,9,Hard Voting Ensemble,0,0,
+tpehg615,9,Hard Voting Ensemble,0,0,
+tpehg753,9,Hard Voting Ensemble,0,0,
+tpehg797,9,Hard Voting Ensemble,1,0,
+tpehg800,9,Hard Voting Ensemble,0,0,
+tpehg803,9,Hard Voting Ensemble,0,0,
+tpehg827,9,Hard Voting Ensemble,0,0,
+tpehg933,9,Hard Voting Ensemble,0,0,
+tpehg947,9,Hard Voting Ensemble,0,0,
+tpehg949,9,Hard Voting Ensemble,0,0,
+tpehg1007,10,Hard Voting Ensemble,1,0,
+tpehg1021,10,Hard Voting Ensemble,0,0,
+tpehg1089,10,Hard Voting Ensemble,0,0,
+tpehg1118,10,Hard Voting Ensemble,0,0,
+tpehg1147,10,Hard Voting Ensemble,0,0,
+tpehg1161,10,Hard Voting Ensemble,0,0,
+tpehg1197,10,Hard Voting Ensemble,0,0,
+tpehg1240,10,Hard Voting Ensemble,0,0,
+tpehg1270,10,Hard Voting Ensemble,0,0,
+tpehg1369,10,Hard Voting Ensemble,0,0,
+tpehg1470,10,Hard Voting Ensemble,0,0,
+tpehg1501,10,Hard Voting Ensemble,0,0,
+tpehg1532,10,Hard Voting Ensemble,1,0,
+tpehg1554,10,Hard Voting Ensemble,0,0,
+tpehg1566,10,Hard Voting Ensemble,0,0,
+tpehg1574,10,Hard Voting Ensemble,0,0,
+tpehg1577,10,Hard Voting Ensemble,0,0,
+tpehg1600,10,Hard Voting Ensemble,1,0,
+tpehg1701,10,Hard Voting Ensemble,0,0,
+tpehg1703,10,Hard Voting Ensemble,0,0,
+tpehg603,10,Hard Voting Ensemble,0,0,
+tpehg605,10,Hard Voting Ensemble,0,0,
+tpehg623,10,Hard Voting Ensemble,0,0,
+tpehg688,10,Hard Voting Ensemble,0,0,
+tpehg697,10,Hard Voting Ensemble,0,0,
+tpehg832,10,Hard Voting Ensemble,0,0,
+tpehg878,10,Hard Voting Ensemble,0,0,
+tpehg927,10,Hard Voting Ensemble,0,0,
+tpehg991,10,Hard Voting Ensemble,0,0,
+tpehg994,10,Hard Voting Ensemble,0,0,
+tpehg1088,1,Logistic Regression,0,1,0.5072929392508737
+tpehg1132,1,Logistic Regression,0,0,0.200839656966632
+tpehg1188,1,Logistic Regression,0,0,0.3800431087704285
+tpehg1217,1,Logistic Regression,0,0,0.396135142245608
+tpehg1273,1,Logistic Regression,0,1,0.516127375128381
+tpehg1276,1,Logistic Regression,0,1,0.6075276222225583
+tpehg1284,1,Logistic Regression,0,0,0.4571610006898585
+tpehg1300,1,Logistic Regression,0,1,0.5628044959040063
+tpehg1460,1,Logistic Regression,0,0,0.4809920148483014
+tpehg1490,1,Logistic Regression,1,0,0.3358531823426783
+tpehg1507,1,Logistic Regression,0,1,0.527085124458964
+tpehg1564,1,Logistic Regression,0,1,0.520778128789869
+tpehg1593,1,Logistic Regression,0,0,0.4635212538060885
+tpehg1618,1,Logistic Regression,0,0,0.3471227915085075
+tpehg1628,1,Logistic Regression,0,0,0.4454428373098462
+tpehg1737,1,Logistic Regression,0,1,0.5654943681501051
+tpehg1751,1,Logistic Regression,1,0,0.4947427756568456
+tpehg552,1,Logistic Regression,0,1,0.5437571892250505
+tpehg567,1,Logistic Regression,1,1,0.5709103837801789
+tpehg597,1,Logistic Regression,0,0,0.3680239608972599
+tpehg625,1,Logistic Regression,0,0,0.4785993914000999
+tpehg660,1,Logistic Regression,0,0,0.2509296946257262
+tpehg675,1,Logistic Regression,0,0,0.2173905886244184
+tpehg716,1,Logistic Regression,0,1,0.5060143322609452
+tpehg718,1,Logistic Regression,0,1,0.5152520124587161
+tpehg820,1,Logistic Regression,0,0,0.1165904318487239
+tpehg848,1,Logistic Regression,0,1,0.6268306290472749
+tpehg888,1,Logistic Regression,0,0,0.1740028343700837
+tpehg939,1,Logistic Regression,1,1,0.8274848585449042
+tpehg980,1,Logistic Regression,0,0,0.0699788193764717
+tpehg1022,2,Logistic Regression,0,1,0.6608035182981655
+tpehg1031,2,Logistic Regression,0,1,0.6059046402614617
+tpehg1130,2,Logistic Regression,0,0,0.4057583449587641
+tpehg1216,2,Logistic Regression,0,1,0.5915911264775086
+tpehg1274,2,Logistic Regression,0,0,0.4780562336842521
+tpehg1283,2,Logistic Regression,0,1,0.5359276134045118
+tpehg1342,2,Logistic Regression,0,1,0.7559971750140956
+tpehg1343,2,Logistic Regression,0,0,0.2180477031084409
+tpehg1414,2,Logistic Regression,0,1,0.8446832772575178
+tpehg1459,2,Logistic Regression,0,1,0.521521663167116
+tpehg1495,2,Logistic Regression,0,1,0.8371776033805816
+tpehg1499,2,Logistic Regression,1,1,0.6816775023266812
+tpehg1534,2,Logistic Regression,0,1,0.6287593490514637
+tpehg1546,2,Logistic Regression,0,0,0.3783040567437239
+tpehg1612,2,Logistic Regression,0,1,0.620219265629078
+tpehg1614,2,Logistic Regression,0,0,0.4604999543468603
+tpehg1660,2,Logistic Regression,0,1,0.545150831682334
+tpehg1662,2,Logistic Regression,0,1,0.6069288737406181
+tpehg1663,2,Logistic Regression,0,1,0.5845872697545357
+tpehg1688,2,Logistic Regression,0,0,0.1627493351145104
+tpehg1748,2,Logistic Regression,1,0,0.4370887065727882
+tpehg614,2,Logistic Regression,1,1,0.52578092255778
+tpehg674,2,Logistic Regression,0,0,0.4548360381878765
+tpehg737,2,Logistic Regression,0,0,0.4593213985911997
+tpehg766,2,Logistic Regression,0,1,0.6906071319782493
+tpehg914,2,Logistic Regression,1,0,0.4809789671087299
+tpehg916,2,Logistic Regression,0,0,0.4697946333545319
+tpehg920,2,Logistic Regression,0,1,0.6304418591244234
+tpehg938,2,Logistic Regression,0,0,0.4362488832125767
+tpehg961,2,Logistic Regression,0,0,0.1315696296835649
+tpehg1119,3,Logistic Regression,0,1,0.5934290860748584
+tpehg1134,3,Logistic Regression,0,0,0.3058004733281548
+tpehg1138,3,Logistic Regression,0,1,0.5437403051009198
+tpehg1226,3,Logistic Regression,0,0,0.2331607654353149
+tpehg1263,3,Logistic Regression,0,0,0.32915912298606
+tpehg1264,3,Logistic Regression,0,1,0.6607439933102818
+tpehg1298,3,Logistic Regression,1,1,0.5087014732961189
+tpehg1302,3,Logistic Regression,1,1,0.741980754134797
+tpehg1378,3,Logistic Regression,0,0,0.4008198128597173
+tpehg1389,3,Logistic Regression,0,1,0.6052477045670362
+tpehg1412,3,Logistic Regression,0,1,0.6088567543874717
+tpehg1467,3,Logistic Regression,1,1,0.5452023938309734
+tpehg1526,3,Logistic Regression,1,1,0.6341667562119043
+tpehg1626,3,Logistic Regression,0,0,0.272184727874837
+tpehg1642,3,Logistic Regression,0,0,0.4467812343721318
+tpehg1687,3,Logistic Regression,0,1,0.5086584483601183
+tpehg1717,3,Logistic Regression,0,1,0.5432046091968555
+tpehg1723,3,Logistic Regression,0,0,0.3356512176394283
+tpehg1741,3,Logistic Regression,0,1,0.5980708881611959
+tpehg1745,3,Logistic Regression,0,1,0.6727001207167368
+tpehg553,3,Logistic Regression,0,1,0.5797229118430675
+tpehg710,3,Logistic Regression,0,1,0.5761538293976937
+tpehg725,3,Logistic Regression,0,0,0.2780633539924997
+tpehg768,3,Logistic Regression,0,0,0.3832271741591508
+tpehg778,3,Logistic Regression,0,0,0.4738762992251847
+tpehg814,3,Logistic Regression,0,0,0.4599168832254683
+tpehg867,3,Logistic Regression,0,0,0.4408972292945202
+tpehg891,3,Logistic Regression,0,0,0.3299649243207921
+tpehg926,3,Logistic Regression,0,0,0.4124844430209083
+tpehg929,3,Logistic Regression,0,0,0.27298891559248
+tpehg1070,4,Logistic Regression,0,1,0.7022762226541464
+tpehg1116,4,Logistic Regression,0,0,0.1965268458450469
+tpehg1128,4,Logistic Regression,0,0,0.1162950483152844
+tpehg1183,4,Logistic Regression,0,1,0.5982038532749189
+tpehg1282,4,Logistic Regression,0,0,0.315993822153277
+tpehg1335,4,Logistic Regression,0,0,0.336812100269922
+tpehg1368,4,Logistic Regression,0,1,0.6243878743756566
+tpehg1372,4,Logistic Regression,0,1,0.5150067983882863
+tpehg1436,4,Logistic Regression,1,0,0.3430139959036476
+tpehg1520,4,Logistic Regression,0,1,0.6296212217490992
+tpehg1575,4,Logistic Regression,0,0,0.2269259637143957
+tpehg1579,4,Logistic Regression,0,1,0.6401662916770693
+tpehg1587,4,Logistic Regression,0,1,0.6588221745666494
+tpehg1619,4,Logistic Regression,0,0,0.4154392370506801
+tpehg1649,4,Logistic Regression,0,0,0.3967145974686227
+tpehg1674,4,Logistic Regression,0,1,0.5406563827840241
+tpehg1719,4,Logistic Regression,1,1,0.5680502226418281
+tpehg586,4,Logistic Regression,1,1,0.6528248212790417
+tpehg601,4,Logistic Regression,0,1,0.7371595466076416
+tpehg604,4,Logistic Regression,0,0,0.274052879589418
+tpehg610,4,Logistic Regression,0,0,0.2015215415319871
+tpehg618,4,Logistic Regression,0,0,0.3236323685921385
+tpehg639,4,Logistic Regression,0,1,0.5894020900518406
+tpehg644,4,Logistic Regression,0,0,0.2295162230978586
+tpehg681,4,Logistic Regression,0,1,0.5348541269113221
+tpehg715,4,Logistic Regression,0,0,0.4958656010248014
+tpehg751,4,Logistic Regression,0,1,0.5211985591039516
+tpehg858,4,Logistic Regression,1,0,0.4453246698353657
+tpehg873,4,Logistic Regression,0,0,0.3635538046079841
+tpehg895,4,Logistic Regression,0,1,0.5928582910302754
+tpehg1039,5,Logistic Regression,0,1,0.5344276303028007
+tpehg1139,5,Logistic Regression,0,1,0.5638677136542368
+tpehg1167,5,Logistic Regression,0,1,0.5965763566240007
+tpehg1202,5,Logistic Regression,1,0,0.4439110431089512
+tpehg1205,5,Logistic Regression,0,0,0.3062763703775532
+tpehg1241,5,Logistic Regression,0,1,0.5751742947992817
+tpehg1250,5,Logistic Regression,0,1,0.5106491056464424
+tpehg1280,5,Logistic Regression,0,0,0.4263394187951044
+tpehg1338,5,Logistic Regression,0,1,0.5580235396280745
+tpehg1441,5,Logistic Regression,0,1,0.7330112184045751
+tpehg1476,5,Logistic Regression,1,1,0.6744131467883646
+tpehg1518,5,Logistic Regression,0,0,0.4396980136521067
+tpehg1537,5,Logistic Regression,0,0,0.4452862665108266
+tpehg1544,5,Logistic Regression,1,1,0.5841992989839869
+tpehg1589,5,Logistic Regression,0,0,0.1811298669527536
+tpehg1607,5,Logistic Regression,0,1,0.6172034334415256
+tpehg1630,5,Logistic Regression,0,1,0.5926005924532545
+tpehg1631,5,Logistic Regression,0,0,0.0184923495086828
+tpehg1659,5,Logistic Regression,0,1,0.5060162302968171
+tpehg1666,5,Logistic Regression,0,1,0.6770259167129753
+tpehg1676,5,Logistic Regression,0,1,0.6979850985378873
+tpehg1709,5,Logistic Regression,0,0,0.4216239552268938
+tpehg1732,5,Logistic Regression,0,0,0.4874602318136557
+tpehg572,5,Logistic Regression,0,0,0.4612210582590065
+tpehg593,5,Logistic Regression,0,1,0.5641576404225604
+tpehg617,5,Logistic Regression,1,0,0.0700625916407025
+tpehg649,5,Logistic Regression,0,0,0.3971556986374318
+tpehg680,5,Logistic Regression,0,0,0.4732712046308823
+tpehg735,5,Logistic Regression,0,0,0.4132074859550342
+tpehg902,5,Logistic Regression,0,1,0.6427375920131164
+tpehg1137,6,Logistic Regression,0,0,0.0441115159207908
+tpehg1151,6,Logistic Regression,0,0,0.1359904900054008
+tpehg1169,6,Logistic Regression,0,1,0.6203506892613114
+tpehg1228,6,Logistic Regression,0,0,0.1920353125440146
+tpehg1301,6,Logistic Regression,0,0,0.4142423751052816
+tpehg1326,6,Logistic Regression,0,1,0.5868058405259878
+tpehg1344,6,Logistic Regression,0,0,0.1882112718242193
+tpehg1367,6,Logistic Regression,0,0,0.4012740503232679
+tpehg1395,6,Logistic Regression,0,1,0.5991736145184321
+tpehg1425,6,Logistic Regression,0,1,0.6496279589232511
+tpehg1457,6,Logistic Regression,0,0,0.3440959775667301
+tpehg1478,6,Logistic Regression,1,0,0.1121864230469389
+tpehg1485,6,Logistic Regression,0,1,0.5815850865614796
+tpehg1492,6,Logistic Regression,0,0,0.3437049613838668
+tpehg1511,6,Logistic Regression,0,0,0.195194424451661
+tpehg1522,6,Logistic Regression,0,1,0.5600611411146963
+tpehg1552,6,Logistic Regression,0,0,0.2636533330876084
+tpehg1650,6,Logistic Regression,0,0,3.3973664952861743e-06
+tpehg1689,6,Logistic Regression,0,1,0.6569785454253174
+tpehg1734,6,Logistic Regression,1,0,0.4476331924155225
+tpehg546,6,Logistic Regression,1,0,0.1691686329384383
+tpehg608,6,Logistic Regression,0,1,0.6896565407431922
+tpehg667,6,Logistic Regression,0,1,0.5730955196887646
+tpehg745,6,Logistic Regression,1,1,0.5891681717884449
+tpehg767,6,Logistic Regression,0,1,0.5561258124652712
+tpehg840,6,Logistic Regression,0,0,0.3732506691541408
+tpehg851,6,Logistic Regression,0,1,0.582073794696637
+tpehg855,6,Logistic Regression,0,0,0.1702593243060192
+tpehg962,6,Logistic Regression,0,0,0.012818447258423
+tpehg966,6,Logistic Regression,0,0,0.4944681328566092
+tpehg1027,7,Logistic Regression,0,0,0.0396449448771147
+tpehg1097,7,Logistic Regression,0,1,0.581261323714196
+tpehg1113,7,Logistic Regression,0,1,0.579626984165778
+tpehg1121,7,Logistic Regression,0,1,0.6736861867957341
+tpehg1142,7,Logistic Regression,0,1,0.6597272328941144
+tpehg1163,7,Logistic Regression,1,0,0.4500232248446982
+tpehg1203,7,Logistic Regression,1,0,0.4668479030052875
+tpehg1212,7,Logistic Regression,0,0,0.3882759723464916
+tpehg1219,7,Logistic Regression,0,0,0.1824059553785468
+tpehg1261,7,Logistic Regression,0,0,0.0674573002360002
+tpehg1363,7,Logistic Regression,0,0,0.4415841723525203
+tpehg1484,7,Logistic Regression,0,1,0.7097774198225962
+tpehg1486,7,Logistic Regression,0,0,0.4622063679689743
+tpehg1548,7,Logistic Regression,0,0,0.4619942232326585
+tpehg1601,7,Logistic Regression,0,0,0.0357662181114126
+tpehg1602,7,Logistic Regression,0,1,0.7232912212953398
+tpehg1616,7,Logistic Regression,0,1,0.5432049206717184
+tpehg1720,7,Logistic Regression,1,1,0.548099661246804
+tpehg1726,7,Logistic Regression,0,0,0.4406715780625969
+tpehg1749,7,Logistic Regression,0,1,0.5098119967320268
+tpehg642,7,Logistic Regression,0,1,0.5694908020028737
+tpehg661,7,Logistic Regression,0,0,0.2547258220762383
+tpehg679,7,Logistic Regression,0,1,0.5152664766116073
+tpehg690,7,Logistic Regression,0,0,0.2777400042276333
+tpehg746,7,Logistic Regression,0,0,0.1950720313475966
+tpehg796,7,Logistic Regression,0,1,0.7030527976830068
+tpehg808,7,Logistic Regression,0,0,0.4482065277136503
+tpehg854,7,Logistic Regression,0,0,0.2886203191489874
+tpehg877,7,Logistic Regression,1,1,0.6024739828425548
+tpehg930,7,Logistic Regression,0,0,0.0104716838987403
+tpehg1029,8,Logistic Regression,0,1,0.614934392753806
+tpehg1093,8,Logistic Regression,0,1,0.5082924278071298
+tpehg1150,8,Logistic Regression,0,1,0.7933632759535616
+tpehg1152,8,Logistic Regression,0,1,0.579916640808193
+tpehg1201,8,Logistic Regression,0,1,0.564466097952608
+tpehg1265,8,Logistic Regression,0,1,0.5572693276701138
+tpehg1314,8,Logistic Regression,0,0,0.0076922734633643
+tpehg1318,8,Logistic Regression,1,1,0.5269666531821702
+tpehg1346,8,Logistic Regression,0,0,0.3604877523353739
+tpehg1348,8,Logistic Regression,0,0,0.3615925721805536
+tpehg1377,8,Logistic Regression,0,0,0.4525051023888707
+tpehg1391,8,Logistic Regression,1,0,0.2619131380988483
+tpehg1424,8,Logistic Regression,0,0,0.0459235006015941
+tpehg1437,8,Logistic Regression,0,1,0.7284133218366157
+tpehg1443,8,Logistic Regression,0,0,0.3335027274492406
+tpehg1446,8,Logistic Regression,0,0,0.4086082960774253
+tpehg1463,8,Logistic Regression,0,1,0.5430724973789968
+tpehg1504,8,Logistic Regression,0,0,0.0257410153560126
+tpehg1536,8,Logistic Regression,0,1,0.5482233038396499
+tpehg1585,8,Logistic Regression,0,0,0.4429107880377499
+tpehg1606,8,Logistic Regression,0,0,0.0757120372050097
+tpehg1664,8,Logistic Regression,0,0,0.4914790959115023
+tpehg1746,8,Logistic Regression,0,0,0.3835979405887041
+tpehg583,8,Logistic Regression,0,0,0.3606060929930169
+tpehg641,8,Logistic Regression,1,0,0.2103505805579824
+tpehg676,8,Logistic Regression,0,1,0.5424275134632942
+tpehg734,8,Logistic Regression,0,0,0.4170700932131875
+tpehg773,8,Logistic Regression,0,0,0.4167502213256162
+tpehg786,8,Logistic Regression,1,0,0.4185601999370958
+tpehg821,8,Logistic Regression,0,0,0.0420170761677644
+tpehg1065,9,Logistic Regression,0,0,0.0083102775133948
+tpehg1120,9,Logistic Regression,0,1,0.5462813686956084
+tpehg1136,9,Logistic Regression,0,1,0.627947725646912
+tpehg1149,9,Logistic Regression,0,0,0.3981473010241576
+tpehg1177,9,Logistic Regression,0,1,0.678447309663064
+tpehg1192,9,Logistic Regression,0,0,0.2370295374620704
+tpehg1246,9,Logistic Regression,0,0,0.4846053277815166
+tpehg1252,9,Logistic Regression,0,0,0.0252344020992305
+tpehg1299,9,Logistic Regression,0,0,0.1762082891150754
+tpehg1360,9,Logistic Regression,0,1,0.6675289426762125
+tpehg1438,9,Logistic Regression,1,1,0.5102860123468131
+tpehg1498,9,Logistic Regression,0,0,0.4431197016958197
+tpehg1543,9,Logistic Regression,0,0,0.1441251584965278
+tpehg1653,9,Logistic Regression,0,0,0.2495484544237138
+tpehg1675,9,Logistic Regression,0,1,0.6784864579460581
+tpehg1679,9,Logistic Regression,0,0,0.3826059202102794
+tpehg1690,9,Logistic Regression,0,0,0.1595024352299855
+tpehg1735,9,Logistic Regression,0,1,0.6164581424467948
+tpehg1747,9,Logistic Regression,0,1,0.572981467998675
+tpehg1756,9,Logistic Regression,1,1,0.587389003775541
+tpehg584,9,Logistic Regression,0,0,1.1510403907313064e-15
+tpehg615,9,Logistic Regression,0,1,0.5445378782893456
+tpehg753,9,Logistic Regression,0,1,0.620087678065742
+tpehg797,9,Logistic Regression,1,0,0.0439061969492193
+tpehg800,9,Logistic Regression,0,0,0.0804027811673639
+tpehg803,9,Logistic Regression,0,0,0.0828119583506916
+tpehg827,9,Logistic Regression,0,1,0.700172621028272
+tpehg933,9,Logistic Regression,0,0,0.4277009021868298
+tpehg947,9,Logistic Regression,0,1,0.5238269621800306
+tpehg949,9,Logistic Regression,0,1,0.6868072907928527
+tpehg1007,10,Logistic Regression,1,0,0.1301265424163308
+tpehg1021,10,Logistic Regression,0,0,0.4928906568681136
+tpehg1089,10,Logistic Regression,0,0,0.4287855199717345
+tpehg1118,10,Logistic Regression,0,0,0.1953442044657046
+tpehg1147,10,Logistic Regression,0,1,0.6352349014292888
+tpehg1161,10,Logistic Regression,0,0,0.4870781802564435
+tpehg1197,10,Logistic Regression,0,0,0.4886245994716449
+tpehg1240,10,Logistic Regression,0,1,0.6941940067502342
+tpehg1270,10,Logistic Regression,0,1,0.6697311508815933
+tpehg1369,10,Logistic Regression,0,0,0.3971321080033208
+tpehg1470,10,Logistic Regression,0,1,0.521125036047017
+tpehg1501,10,Logistic Regression,0,1,0.6366717547280751
+tpehg1532,10,Logistic Regression,1,1,0.6236114237495098
+tpehg1554,10,Logistic Regression,0,0,0.4149155039659844
+tpehg1566,10,Logistic Regression,0,1,0.5890025858372341
+tpehg1574,10,Logistic Regression,0,1,0.5171487181272085
+tpehg1577,10,Logistic Regression,0,1,0.6505867208984606
+tpehg1600,10,Logistic Regression,1,0,0.4576677454933739
+tpehg1701,10,Logistic Regression,0,0,0.4644717271049892
+tpehg1703,10,Logistic Regression,0,1,0.6428073055325043
+tpehg603,10,Logistic Regression,0,0,0.4681031146625139
+tpehg605,10,Logistic Regression,0,1,0.6031922456612535
+tpehg623,10,Logistic Regression,0,1,0.6137342799449623
+tpehg688,10,Logistic Regression,0,1,0.6204239587837084
+tpehg697,10,Logistic Regression,0,1,0.5191285116721088
+tpehg832,10,Logistic Regression,0,1,0.9156827751194464
+tpehg878,10,Logistic Regression,0,1,0.6504205823237547
+tpehg927,10,Logistic Regression,0,1,0.656226076087579
+tpehg991,10,Logistic Regression,0,1,0.688008112637164
+tpehg994,10,Logistic Regression,0,0,0.4051924741522312
+tpehg1088,1,Meta Bagging,0,0,0.2583973377607018
+tpehg1132,1,Meta Bagging,0,0,0.0133333333333333
+tpehg1188,1,Meta Bagging,0,0,0.0794959229058561
+tpehg1217,1,Meta Bagging,0,0,0.1447530983538937
+tpehg1273,1,Meta Bagging,0,0,0.3682273702685928
+tpehg1276,1,Meta Bagging,0,0,0.0585271073304914
+tpehg1284,1,Meta Bagging,0,0,0.0809221812268349
+tpehg1300,1,Meta Bagging,0,0,0.3571373696391763
+tpehg1460,1,Meta Bagging,0,0,0.1396668383033575
+tpehg1490,1,Meta Bagging,1,0,0.1739310164103536
+tpehg1507,1,Meta Bagging,0,0,0.2984791361807822
+tpehg1564,1,Meta Bagging,0,0,0.3214554106535828
+tpehg1593,1,Meta Bagging,0,0,0.3929353666397602
+tpehg1618,1,Meta Bagging,0,0,0.2526687328911103
+tpehg1628,1,Meta Bagging,0,0,0.0499753086419753
+tpehg1737,1,Meta Bagging,0,0,0.0786914373089065
+tpehg1751,1,Meta Bagging,1,0,0.4603253032100626
+tpehg552,1,Meta Bagging,0,0,0.0673097190825149
+tpehg567,1,Meta Bagging,1,0,0.0921721446264567
+tpehg597,1,Meta Bagging,0,0,0.1854278518172473
+tpehg625,1,Meta Bagging,0,0,0.0643912977419469
+tpehg660,1,Meta Bagging,0,0,0.0366419753086419
+tpehg675,1,Meta Bagging,0,0,0.0202736600485193
+tpehg716,1,Meta Bagging,0,0,0.0831729277208473
+tpehg718,1,Meta Bagging,0,0,0.2704845617423867
+tpehg820,1,Meta Bagging,0,0,0.1061194249346004
+tpehg848,1,Meta Bagging,0,0,0.4396406079560325
+tpehg888,1,Meta Bagging,0,0,0.1113038228958396
+tpehg939,1,Meta Bagging,1,1,0.6151735860000792
+tpehg980,1,Meta Bagging,0,0,0.0209639856819344
+tpehg1022,2,Meta Bagging,0,0,0.167754778125532
+tpehg1031,2,Meta Bagging,0,0,0.1036443342911004
+tpehg1130,2,Meta Bagging,0,0,0.0917423768861775
+tpehg1216,2,Meta Bagging,0,0,0.331175458533532
+tpehg1274,2,Meta Bagging,0,0,0.1247225710582007
+tpehg1283,2,Meta Bagging,0,0,0.1010626647448648
+tpehg1342,2,Meta Bagging,0,0,0.3007864628794556
+tpehg1343,2,Meta Bagging,0,0,0.0361216281811247
+tpehg1414,2,Meta Bagging,0,0,0.4255686135933706
+tpehg1459,2,Meta Bagging,0,0,0.1745293718550513
+tpehg1495,2,Meta Bagging,0,0,0.0383209876543209
+tpehg1499,2,Meta Bagging,1,0,0.3552971669136369
+tpehg1534,2,Meta Bagging,0,0,0.2643149870090976
+tpehg1546,2,Meta Bagging,0,0,0.1821096152723237
+tpehg1612,2,Meta Bagging,0,0,0.1840544645636079
+tpehg1614,2,Meta Bagging,0,0,0.2260599648923395
+tpehg1660,2,Meta Bagging,0,0,0.2187563165397295
+tpehg1662,2,Meta Bagging,0,0,0.1817608540390646
+tpehg1663,2,Meta Bagging,0,0,0.2806622107982254
+tpehg1688,2,Meta Bagging,0,0,0.0382081686429512
+tpehg1748,2,Meta Bagging,1,0,0.1370731006377895
+tpehg614,2,Meta Bagging,1,0,0.1252290123456685
+tpehg674,2,Meta Bagging,0,0,0.3796803340662786
+tpehg737,2,Meta Bagging,0,0,0.0581091816877687
+tpehg766,2,Meta Bagging,0,0,0.4247198730515654
+tpehg914,2,Meta Bagging,1,0,0.4639511935270213
+tpehg916,2,Meta Bagging,0,0,0.2645088330777565
+tpehg920,2,Meta Bagging,0,0,0.1295584723164342
+tpehg938,2,Meta Bagging,0,0,0.0544250951279816
+tpehg961,2,Meta Bagging,0,0,0.0694055787984087
+tpehg1119,3,Meta Bagging,0,0,0.1579885481653821
+tpehg1134,3,Meta Bagging,0,0,0.1093149645602475
+tpehg1138,3,Meta Bagging,0,0,0.2852104333974058
+tpehg1226,3,Meta Bagging,0,0,0.1259694644159439
+tpehg1263,3,Meta Bagging,0,0,0.2025462332962012
+tpehg1264,3,Meta Bagging,0,0,0.2916342883148936
+tpehg1298,3,Meta Bagging,1,0,0.4240229250927323
+tpehg1302,3,Meta Bagging,1,0,0.2694662921435931
+tpehg1378,3,Meta Bagging,0,0,0.0116543209876543
+tpehg1389,3,Meta Bagging,0,0,0.4574980878864325
+tpehg1412,3,Meta Bagging,0,1,0.5025660775844489
+tpehg1467,3,Meta Bagging,1,0,0.1918457471846429
+tpehg1526,3,Meta Bagging,1,1,0.51944786305098
+tpehg1626,3,Meta Bagging,0,0,0.0982716049382716
+tpehg1642,3,Meta Bagging,0,0,0.2803448399660104
+tpehg1687,3,Meta Bagging,0,0,0.2849751555381922
+tpehg1717,3,Meta Bagging,0,0,0.375191294617632
+tpehg1723,3,Meta Bagging,0,0,0.0812497842084883
+tpehg1741,3,Meta Bagging,0,0,0.4787302956307512
+tpehg1745,3,Meta Bagging,0,0,0.1561799785969012
+tpehg553,3,Meta Bagging,0,0,0.4784014092430569
+tpehg710,3,Meta Bagging,0,0,0.236228670047408
+tpehg725,3,Meta Bagging,0,0,0.0
+tpehg768,3,Meta Bagging,0,0,0.0133333333333333
+tpehg778,3,Meta Bagging,0,0,0.1890644533918397
+tpehg814,3,Meta Bagging,0,0,0.1510822646318917
+tpehg867,3,Meta Bagging,0,0,0.1707435377940819
+tpehg891,3,Meta Bagging,0,0,0.2119614893698039
+tpehg926,3,Meta Bagging,0,0,0.3177268410049693
+tpehg929,3,Meta Bagging,0,0,0.1220538603579261
+tpehg1070,4,Meta Bagging,0,0,0.1186275988163246
+tpehg1116,4,Meta Bagging,0,0,0.119380887440384
+tpehg1128,4,Meta Bagging,0,0,0.0788726343614319
+tpehg1183,4,Meta Bagging,0,0,0.2513880435328303
+tpehg1282,4,Meta Bagging,0,0,0.0388316151202749
+tpehg1335,4,Meta Bagging,0,0,0.1130764722603591
+tpehg1368,4,Meta Bagging,0,0,0.2069609455732021
+tpehg1372,4,Meta Bagging,0,0,0.0524213487733068
+tpehg1436,4,Meta Bagging,1,0,0.1039931466008331
+tpehg1520,4,Meta Bagging,0,0,0.2224452216258648
+tpehg1575,4,Meta Bagging,0,0,0.1685857117074377
+tpehg1579,4,Meta Bagging,0,0,0.0484405470043047
+tpehg1587,4,Meta Bagging,0,0,0.0103508771929824
+tpehg1619,4,Meta Bagging,0,0,0.1437228194678121
+tpehg1649,4,Meta Bagging,0,0,0.0851932698031685
+tpehg1674,4,Meta Bagging,0,0,0.1433398361016614
+tpehg1719,4,Meta Bagging,1,0,0.1906450073335716
+tpehg586,4,Meta Bagging,1,0,0.0361784442929637
+tpehg601,4,Meta Bagging,0,0,0.4244460402422672
+tpehg604,4,Meta Bagging,0,0,0.0640917386424632
+tpehg610,4,Meta Bagging,0,0,0.0992539569025563
+tpehg618,4,Meta Bagging,0,0,0.0552385503783353
+tpehg639,4,Meta Bagging,0,0,0.1252578372564146
+tpehg644,4,Meta Bagging,0,0,0.0238192694412625
+tpehg681,4,Meta Bagging,0,0,0.1310651135460212
+tpehg715,4,Meta Bagging,0,0,0.0833110726674631
+tpehg751,4,Meta Bagging,0,0,0.2012711218235278
+tpehg858,4,Meta Bagging,1,0,0.3265187208415132
+tpehg873,4,Meta Bagging,0,0,0.0757290396265182
+tpehg895,4,Meta Bagging,0,0,0.1287320028367336
+tpehg1039,5,Meta Bagging,0,0,0.2247732639406398
+tpehg1139,5,Meta Bagging,0,0,0.2143757964471187
+tpehg1167,5,Meta Bagging,0,0,0.311446129262596
+tpehg1202,5,Meta Bagging,1,0,0.1256482751095848
+tpehg1205,5,Meta Bagging,0,0,0.1664488529584296
+tpehg1241,5,Meta Bagging,0,0,0.0710258136593659
+tpehg1250,5,Meta Bagging,0,0,0.2606264260636756
+tpehg1280,5,Meta Bagging,0,0,0.3865260770432561
+tpehg1338,5,Meta Bagging,0,0,0.3384101650508653
+tpehg1441,5,Meta Bagging,0,0,0.3322237815996274
+tpehg1476,5,Meta Bagging,1,0,0.0844214206083825
+tpehg1518,5,Meta Bagging,0,0,0.3948209905739266
+tpehg1537,5,Meta Bagging,0,0,0.1177486823806198
+tpehg1544,5,Meta Bagging,1,0,0.3522463103258499
+tpehg1589,5,Meta Bagging,0,0,0.1711100168686072
+tpehg1607,5,Meta Bagging,0,0,0.2934357810005158
+tpehg1630,5,Meta Bagging,0,0,0.1869296486693791
+tpehg1631,5,Meta Bagging,0,0,0.0767483125459001
+tpehg1659,5,Meta Bagging,0,0,0.2135614013078581
+tpehg1666,5,Meta Bagging,0,0,0.1440340510763164
+tpehg1676,5,Meta Bagging,0,0,0.1738140055260293
+tpehg1709,5,Meta Bagging,0,0,0.2380371320228191
+tpehg1732,5,Meta Bagging,0,0,0.0767907682597814
+tpehg572,5,Meta Bagging,0,0,0.1105723814486026
+tpehg593,5,Meta Bagging,0,0,0.2531346015544233
+tpehg617,5,Meta Bagging,1,0,0.2225907639835938
+tpehg649,5,Meta Bagging,0,0,0.2975726811079221
+tpehg680,5,Meta Bagging,0,0,0.1455618941882883
+tpehg735,5,Meta Bagging,0,0,0.306265064201864
+tpehg902,5,Meta Bagging,0,0,0.0383209876543209
+tpehg1137,6,Meta Bagging,0,0,0.1135332123183752
+tpehg1151,6,Meta Bagging,0,0,0.0482962962962963
+tpehg1169,6,Meta Bagging,0,0,0.2216240834374766
+tpehg1228,6,Meta Bagging,0,0,0.0349629629629629
+tpehg1301,6,Meta Bagging,0,0,0.0723062730685402
+tpehg1326,6,Meta Bagging,0,0,0.0834217443249701
+tpehg1344,6,Meta Bagging,0,0,0.0703990094023751
+tpehg1367,6,Meta Bagging,0,0,0.034966512671939
+tpehg1395,6,Meta Bagging,0,0,0.1307186210186665
+tpehg1425,6,Meta Bagging,0,0,0.4927469804793935
+tpehg1457,6,Meta Bagging,0,0,0.1273134350567783
+tpehg1478,6,Meta Bagging,1,0,0.0455580017701369
+tpehg1485,6,Meta Bagging,0,0,0.1722920257000666
+tpehg1492,6,Meta Bagging,0,0,0.0641787971519877
+tpehg1511,6,Meta Bagging,0,0,0.4437889221106127
+tpehg1522,6,Meta Bagging,0,0,0.2369714535622769
+tpehg1552,6,Meta Bagging,0,0,0.0328681470942925
+tpehg1650,6,Meta Bagging,0,0,0.0801199284211602
+tpehg1689,6,Meta Bagging,0,0,0.4183894137187149
+tpehg1734,6,Meta Bagging,1,0,0.0962062050107266
+tpehg546,6,Meta Bagging,1,0,0.0124374176548089
+tpehg608,6,Meta Bagging,0,0,0.4510034689027074
+tpehg667,6,Meta Bagging,0,0,0.3514209941586304
+tpehg745,6,Meta Bagging,1,0,0.2667363868319479
+tpehg767,6,Meta Bagging,0,0,0.1487049392235249
+tpehg840,6,Meta Bagging,0,0,0.0249876543209876
+tpehg851,6,Meta Bagging,0,0,0.3840087655857091
+tpehg855,6,Meta Bagging,0,0,0.1667432113050268
+tpehg962,6,Meta Bagging,0,0,0.0
+tpehg966,6,Meta Bagging,0,0,0.2839284714849783
+tpehg1027,7,Meta Bagging,0,0,0.0840423559264138
+tpehg1097,7,Meta Bagging,0,0,0.3768065681184817
+tpehg1113,7,Meta Bagging,0,0,0.3537598163335756
+tpehg1121,7,Meta Bagging,0,0,0.28236152676351
+tpehg1142,7,Meta Bagging,0,0,0.1004332026964914
+tpehg1163,7,Meta Bagging,1,0,0.2505976760347722
+tpehg1203,7,Meta Bagging,1,0,0.3041802529738003
+tpehg1212,7,Meta Bagging,0,0,0.1911825332500206
+tpehg1219,7,Meta Bagging,0,0,0.1219574720191929
+tpehg1261,7,Meta Bagging,0,0,0.0723829138549175
+tpehg1363,7,Meta Bagging,0,0,0.0778643601604158
+tpehg1484,7,Meta Bagging,0,0,0.0116543209876543
+tpehg1486,7,Meta Bagging,0,0,0.4638523542036467
+tpehg1548,7,Meta Bagging,0,0,0.4076097551764548
+tpehg1601,7,Meta Bagging,0,0,0.0364065824939707
+tpehg1602,7,Meta Bagging,0,0,0.2500502686223118
+tpehg1616,7,Meta Bagging,0,0,0.2559931771283997
+tpehg1720,7,Meta Bagging,1,0,0.1528968813943746
+tpehg1726,7,Meta Bagging,0,0,0.1492076088872586
+tpehg1749,7,Meta Bagging,0,0,0.0980185998044524
+tpehg642,7,Meta Bagging,0,0,0.1342669035564238
+tpehg661,7,Meta Bagging,0,0,0.2066726500548051
+tpehg679,7,Meta Bagging,0,0,0.1432529499296709
+tpehg690,7,Meta Bagging,0,0,0.246253897092958
+tpehg746,7,Meta Bagging,0,0,0.0931389118766012
+tpehg796,7,Meta Bagging,0,0,0.1897445671245264
+tpehg808,7,Meta Bagging,0,0,0.2734109430376966
+tpehg854,7,Meta Bagging,0,0,0.1351496071925186
+tpehg877,7,Meta Bagging,1,0,0.1532012894106292
+tpehg930,7,Meta Bagging,0,0,0.0249876543209876
+tpehg1029,8,Meta Bagging,0,0,0.1196962030204976
+tpehg1093,8,Meta Bagging,0,0,0.4066148300014542
+tpehg1150,8,Meta Bagging,0,0,0.3301287312549295
+tpehg1152,8,Meta Bagging,0,0,0.0709392943239097
+tpehg1201,8,Meta Bagging,0,0,0.1510778942632038
+tpehg1265,8,Meta Bagging,0,0,0.1941633897664132
+tpehg1314,8,Meta Bagging,0,0,0.0
+tpehg1318,8,Meta Bagging,1,0,0.3863160649817317
+tpehg1346,8,Meta Bagging,0,0,0.1345653684208726
+tpehg1348,8,Meta Bagging,0,0,0.0340350877192982
+tpehg1377,8,Meta Bagging,0,0,0.2096451192421465
+tpehg1391,8,Meta Bagging,1,0,0.0
+tpehg1424,8,Meta Bagging,0,0,0.1484356610889114
+tpehg1437,8,Meta Bagging,0,0,0.3894402918532994
+tpehg1443,8,Meta Bagging,0,0,0.0349418560226489
+tpehg1446,8,Meta Bagging,0,0,0.0488461336786018
+tpehg1463,8,Meta Bagging,0,0,0.1364517097553619
+tpehg1504,8,Meta Bagging,0,0,0.1134428136409805
+tpehg1536,8,Meta Bagging,0,0,0.3817562797690195
+tpehg1585,8,Meta Bagging,0,0,0.2127778874799364
+tpehg1606,8,Meta Bagging,0,0,0.0116543209876543
+tpehg1664,8,Meta Bagging,0,0,0.3866164965070277
+tpehg1746,8,Meta Bagging,0,0,0.0
+tpehg583,8,Meta Bagging,0,0,0.3509510890926298
+tpehg641,8,Meta Bagging,1,0,0.1392927377723795
+tpehg676,8,Meta Bagging,0,0,0.2918562125940659
+tpehg734,8,Meta Bagging,0,0,0.0642619478315486
+tpehg773,8,Meta Bagging,0,0,0.3954371572681072
+tpehg786,8,Meta Bagging,1,0,0.4023661699690766
+tpehg821,8,Meta Bagging,0,0,0.0
+tpehg1065,9,Meta Bagging,0,0,0.0514851485148514
+tpehg1120,9,Meta Bagging,0,0,0.1661872455154437
+tpehg1136,9,Meta Bagging,0,0,0.2047560560343929
+tpehg1149,9,Meta Bagging,0,0,0.1234341360248551
+tpehg1177,9,Meta Bagging,0,0,0.4463293477852046
+tpehg1192,9,Meta Bagging,0,0,0.3786632986995873
+tpehg1246,9,Meta Bagging,0,0,0.1988471998712235
+tpehg1252,9,Meta Bagging,0,0,0.0133333333333333
+tpehg1299,9,Meta Bagging,0,0,0.0751955506641618
+tpehg1360,9,Meta Bagging,0,0,0.1630059042432575
+tpehg1438,9,Meta Bagging,1,0,0.4170174297500416
+tpehg1498,9,Meta Bagging,0,0,0.0860881225634727
+tpehg1543,9,Meta Bagging,0,0,0.0092156862745098
+tpehg1653,9,Meta Bagging,0,0,0.1127263227117624
+tpehg1675,9,Meta Bagging,0,0,0.2763704243085403
+tpehg1679,9,Meta Bagging,0,0,0.1575804201670316
+tpehg1690,9,Meta Bagging,0,0,0.034153957879448
+tpehg1735,9,Meta Bagging,0,1,0.5798291927094219
+tpehg1747,9,Meta Bagging,0,1,0.5316308052905548
+tpehg1756,9,Meta Bagging,1,1,0.5170102608459574
+tpehg584,9,Meta Bagging,0,0,0.0450980392156862
+tpehg615,9,Meta Bagging,0,0,0.1409635133407496
+tpehg753,9,Meta Bagging,0,0,0.0854719332651948
+tpehg797,9,Meta Bagging,1,0,0.0632098765432098
+tpehg800,9,Meta Bagging,0,0,0.0955714291709859
+tpehg803,9,Meta Bagging,0,0,0.0717460839865464
+tpehg827,9,Meta Bagging,0,0,0.0860660135328749
+tpehg933,9,Meta Bagging,0,0,0.1114852684982201
+tpehg947,9,Meta Bagging,0,0,0.1454645687032263
+tpehg949,9,Meta Bagging,0,1,0.5395078818714028
+tpehg1007,10,Meta Bagging,1,0,0.0427390135233272
+tpehg1021,10,Meta Bagging,0,0,0.0468566605821507
+tpehg1089,10,Meta Bagging,0,0,0.1237548170272456
+tpehg1118,10,Meta Bagging,0,0,0.0453721161274093
+tpehg1147,10,Meta Bagging,0,0,0.4126675061297112
+tpehg1161,10,Meta Bagging,0,0,0.2294128732332392
+tpehg1197,10,Meta Bagging,0,0,0.1942846835613641
+tpehg1240,10,Meta Bagging,0,0,0.3033024739321984
+tpehg1270,10,Meta Bagging,0,0,0.2308211570278177
+tpehg1369,10,Meta Bagging,0,0,0.0613956971677559
+tpehg1470,10,Meta Bagging,0,0,0.1931732543565273
+tpehg1501,10,Meta Bagging,0,0,0.3645512054483302
+tpehg1532,10,Meta Bagging,1,0,0.2980323570659867
+tpehg1554,10,Meta Bagging,0,0,0.3788800202752213
+tpehg1566,10,Meta Bagging,0,0,0.0797592690220957
+tpehg1574,10,Meta Bagging,0,0,0.0809108811341825
+tpehg1577,10,Meta Bagging,0,0,0.1107839091254166
+tpehg1600,10,Meta Bagging,1,0,0.2071069923671211
+tpehg1701,10,Meta Bagging,0,0,0.1176470470362154
+tpehg1703,10,Meta Bagging,0,0,0.1582530714427107
+tpehg603,10,Meta Bagging,0,0,0.2186729899608853
+tpehg605,10,Meta Bagging,0,0,0.1980785854367003
+tpehg623,10,Meta Bagging,0,0,0.2109449340188719
+tpehg688,10,Meta Bagging,0,0,0.1427576409674089
+tpehg697,10,Meta Bagging,0,0,0.2586810405347453
+tpehg832,10,Meta Bagging,0,0,0.2065934869801867
+tpehg878,10,Meta Bagging,0,0,0.0220872048779112
+tpehg927,10,Meta Bagging,0,0,0.3127635022713143
+tpehg991,10,Meta Bagging,0,0,0.0616170514614708
+tpehg994,10,Meta Bagging,0,0,0.2733131534915696
+tpehg1088,1,Naive Bayes,0,1,0.9999999999998828
+tpehg1132,1,Naive Bayes,0,1,0.9999855373308778
+tpehg1188,1,Naive Bayes,0,1,0.9999999999996768
+tpehg1217,1,Naive Bayes,0,1,0.9999999999997726
+tpehg1273,1,Naive Bayes,0,1,0.9999999999999218
+tpehg1276,1,Naive Bayes,0,1,1.0
+tpehg1284,1,Naive Bayes,0,1,0.9999999999999004
+tpehg1300,1,Naive Bayes,0,1,0.9999999999998614
+tpehg1460,1,Naive Bayes,0,1,0.9999999999999184
+tpehg1490,1,Naive Bayes,1,1,0.9999999993590408
+tpehg1507,1,Naive Bayes,0,1,0.9999999999999432
+tpehg1564,1,Naive Bayes,0,1,0.9999999999999112
+tpehg1593,1,Naive Bayes,0,1,0.9999999999998757
+tpehg1618,1,Naive Bayes,0,1,0.999999999998984
+tpehg1628,1,Naive Bayes,0,1,0.9999999999997372
+tpehg1737,1,Naive Bayes,0,1,0.999999999999936
+tpehg1751,1,Naive Bayes,1,1,0.9999999999999432
+tpehg552,1,Naive Bayes,0,1,0.9999999999999112
+tpehg567,1,Naive Bayes,1,1,0.9999999999999004
+tpehg597,1,Naive Bayes,0,1,1.0
+tpehg625,1,Naive Bayes,0,1,0.9999999999999004
+tpehg660,1,Naive Bayes,0,1,0.9999999917114232
+tpehg675,1,Naive Bayes,0,1,0.999999938251408
+tpehg716,1,Naive Bayes,0,1,0.9999999482057852
+tpehg718,1,Naive Bayes,0,1,0.9999999999998828
+tpehg820,1,Naive Bayes,0,0,0.0
+tpehg848,1,Naive Bayes,0,1,0.9999999999999716
+tpehg888,1,Naive Bayes,0,1,0.9999999999999432
+tpehg939,1,Naive Bayes,1,1,1.0
+tpehg980,1,Naive Bayes,0,0,2.3248485827898333e-16
+tpehg1022,2,Naive Bayes,0,1,1.0
+tpehg1031,2,Naive Bayes,0,1,1.0
+tpehg1130,2,Naive Bayes,0,1,1.0
+tpehg1216,2,Naive Bayes,0,1,1.0
+tpehg1274,2,Naive Bayes,0,1,1.0
+tpehg1283,2,Naive Bayes,0,1,1.0
+tpehg1342,2,Naive Bayes,0,1,1.0
+tpehg1343,2,Naive Bayes,0,1,0.9999999999999788
+tpehg1414,2,Naive Bayes,0,1,1.0
+tpehg1459,2,Naive Bayes,0,1,0.9999999999996289
+tpehg1495,2,Naive Bayes,0,1,1.0
+tpehg1499,2,Naive Bayes,1,1,1.0
+tpehg1534,2,Naive Bayes,0,1,1.0
+tpehg1546,2,Naive Bayes,0,1,0.9999994342224297
+tpehg1612,2,Naive Bayes,0,1,1.0
+tpehg1614,2,Naive Bayes,0,1,1.0
+tpehg1660,2,Naive Bayes,0,1,1.0
+tpehg1662,2,Naive Bayes,0,1,1.0
+tpehg1663,2,Naive Bayes,0,1,1.0
+tpehg1688,2,Naive Bayes,0,1,0.9999999999999112
+tpehg1748,2,Naive Bayes,1,1,0.9999999999980318
+tpehg614,2,Naive Bayes,1,1,1.0
+tpehg674,2,Naive Bayes,0,1,1.0
+tpehg737,2,Naive Bayes,0,1,0.9999999989810728
+tpehg766,2,Naive Bayes,0,1,0.9999999999999928
+tpehg914,2,Naive Bayes,1,1,1.0
+tpehg916,2,Naive Bayes,0,1,1.0
+tpehg920,2,Naive Bayes,0,1,0.9999999999999964
+tpehg938,2,Naive Bayes,0,1,0.999999999204018
+tpehg961,2,Naive Bayes,0,0,0.03853371086096
+tpehg1119,3,Naive Bayes,0,1,0.9999999999998828
+tpehg1134,3,Naive Bayes,0,1,0.703480653065252
+tpehg1138,3,Naive Bayes,0,1,0.9999999999999608
+tpehg1226,3,Naive Bayes,0,1,0.999999999999872
+tpehg1263,3,Naive Bayes,0,1,0.9999999999993036
+tpehg1264,3,Naive Bayes,0,1,0.9999999999999218
+tpehg1298,3,Naive Bayes,1,1,0.9999999999999504
+tpehg1302,3,Naive Bayes,1,1,1.0
+tpehg1378,3,Naive Bayes,0,1,0.9999999999660982
+tpehg1389,3,Naive Bayes,0,1,0.999999999999968
+tpehg1412,3,Naive Bayes,0,1,0.9999999999999716
+tpehg1467,3,Naive Bayes,1,1,0.999999999999826
+tpehg1526,3,Naive Bayes,1,1,0.999999999999872
+tpehg1626,3,Naive Bayes,0,1,0.9999999930725344
+tpehg1642,3,Naive Bayes,0,1,0.999999999999897
+tpehg1687,3,Naive Bayes,0,1,0.999999999999968
+tpehg1717,3,Naive Bayes,0,1,0.999999999999968
+tpehg1723,3,Naive Bayes,0,1,0.9999999999921982
+tpehg1741,3,Naive Bayes,0,1,0.999999999999968
+tpehg1745,3,Naive Bayes,0,1,0.9999999999999752
+tpehg553,3,Naive Bayes,0,1,0.9999999999999752
+tpehg710,3,Naive Bayes,0,1,0.9999999999999608
+tpehg725,3,Naive Bayes,0,1,0.9999999999995524
+tpehg768,3,Naive Bayes,0,1,0.9999999921330414
+tpehg778,3,Naive Bayes,0,1,0.9999999999998864
+tpehg814,3,Naive Bayes,0,1,0.9999999999998934
+tpehg867,3,Naive Bayes,0,1,0.9999999999998614
+tpehg891,3,Naive Bayes,0,1,0.9999999999998296
+tpehg926,3,Naive Bayes,0,1,0.9999999999999218
+tpehg929,3,Naive Bayes,0,1,0.9999999997596234
+tpehg1070,4,Naive Bayes,0,1,1.0
+tpehg1116,4,Naive Bayes,0,1,0.999999999999936
+tpehg1128,4,Naive Bayes,0,1,0.9999999998520944
+tpehg1183,4,Naive Bayes,0,1,1.0
+tpehg1282,4,Naive Bayes,0,1,0.9999999231110828
+tpehg1335,4,Naive Bayes,0,1,0.9999999828705184
+tpehg1368,4,Naive Bayes,0,1,1.0
+tpehg1372,4,Naive Bayes,0,1,0.9999999999997976
+tpehg1436,4,Naive Bayes,1,1,1.0
+tpehg1520,4,Naive Bayes,0,1,1.0
+tpehg1575,4,Naive Bayes,0,1,0.9999999999999964
+tpehg1579,4,Naive Bayes,0,1,1.0
+tpehg1587,4,Naive Bayes,0,1,1.0
+tpehg1619,4,Naive Bayes,0,1,1.0
+tpehg1649,4,Naive Bayes,0,1,1.0
+tpehg1674,4,Naive Bayes,0,1,1.0
+tpehg1719,4,Naive Bayes,1,1,1.0
+tpehg586,4,Naive Bayes,1,1,1.0
+tpehg601,4,Naive Bayes,0,1,1.0
+tpehg604,4,Naive Bayes,0,1,0.9999999999999112
+tpehg610,4,Naive Bayes,0,1,0.9999999999997692
+tpehg618,4,Naive Bayes,0,0,7.063988434915875e-16
+tpehg639,4,Naive Bayes,0,1,1.0
+tpehg644,4,Naive Bayes,0,1,0.999999999999968
+tpehg681,4,Naive Bayes,0,1,1.0
+tpehg715,4,Naive Bayes,0,1,1.0
+tpehg751,4,Naive Bayes,0,1,1.0
+tpehg858,4,Naive Bayes,1,1,1.0
+tpehg873,4,Naive Bayes,0,1,1.0
+tpehg895,4,Naive Bayes,0,1,1.0
+tpehg1039,5,Naive Bayes,0,1,0.9999999999999538
+tpehg1139,5,Naive Bayes,0,1,0.9999999999999644
+tpehg1167,5,Naive Bayes,0,1,0.9999999999999822
+tpehg1202,5,Naive Bayes,1,1,0.9999999999999112
+tpehg1205,5,Naive Bayes,0,1,0.999999999999897
+tpehg1241,5,Naive Bayes,0,1,0.999999999995989
+tpehg1250,5,Naive Bayes,0,1,0.9999999999999788
+tpehg1280,5,Naive Bayes,0,1,0.9999999999999538
+tpehg1338,5,Naive Bayes,0,1,0.9999999999986232
+tpehg1441,5,Naive Bayes,0,1,0.9999999999996376
+tpehg1476,5,Naive Bayes,1,1,0.9999999999999218
+tpehg1518,5,Naive Bayes,0,1,0.999999999999936
+tpehg1537,5,Naive Bayes,0,1,0.9999999999997726
+tpehg1544,5,Naive Bayes,1,1,0.9999999999999644
+tpehg1589,5,Naive Bayes,0,1,0.999999999992646
+tpehg1607,5,Naive Bayes,0,1,0.9999999999999218
+tpehg1630,5,Naive Bayes,0,1,0.9999999999999822
+tpehg1631,5,Naive Bayes,0,0,6.914483309257166e-09
+tpehg1659,5,Naive Bayes,0,1,0.9999999999999538
+tpehg1666,5,Naive Bayes,0,1,0.9999999999999324
+tpehg1676,5,Naive Bayes,0,1,0.9999999999999538
+tpehg1709,5,Naive Bayes,0,1,0.9999999999991598
+tpehg1732,5,Naive Bayes,0,1,0.9999999999999324
+tpehg572,5,Naive Bayes,0,1,0.9999999999999468
+tpehg593,5,Naive Bayes,0,1,1.0
+tpehg617,5,Naive Bayes,1,1,0.9999999351576776
+tpehg649,5,Naive Bayes,0,1,0.99999999998985
+tpehg680,5,Naive Bayes,0,1,0.9999999999999218
+tpehg735,5,Naive Bayes,0,1,0.999999999999872
+tpehg902,5,Naive Bayes,0,1,0.9999999999999734
+tpehg1137,6,Naive Bayes,0,0,0.0
+tpehg1151,6,Naive Bayes,0,1,1.0
+tpehg1169,6,Naive Bayes,0,1,1.0
+tpehg1228,6,Naive Bayes,0,1,1.0
+tpehg1301,6,Naive Bayes,0,1,1.0
+tpehg1326,6,Naive Bayes,0,1,1.0
+tpehg1344,6,Naive Bayes,0,1,1.0
+tpehg1367,6,Naive Bayes,0,1,1.0
+tpehg1395,6,Naive Bayes,0,1,1.0
+tpehg1425,6,Naive Bayes,0,1,1.0
+tpehg1457,6,Naive Bayes,0,1,1.0
+tpehg1478,6,Naive Bayes,1,0,0.0
+tpehg1485,6,Naive Bayes,0,1,1.0
+tpehg1492,6,Naive Bayes,0,1,1.0
+tpehg1511,6,Naive Bayes,0,0,0.0
+tpehg1522,6,Naive Bayes,0,1,1.0
+tpehg1552,6,Naive Bayes,0,1,1.0
+tpehg1650,6,Naive Bayes,0,0,0.0
+tpehg1689,6,Naive Bayes,0,1,1.0
+tpehg1734,6,Naive Bayes,1,1,1.0
+tpehg546,6,Naive Bayes,1,1,1.0
+tpehg608,6,Naive Bayes,0,1,1.0
+tpehg667,6,Naive Bayes,0,1,1.0
+tpehg745,6,Naive Bayes,1,1,1.0
+tpehg767,6,Naive Bayes,0,1,1.0
+tpehg840,6,Naive Bayes,0,1,1.0
+tpehg851,6,Naive Bayes,0,1,1.0
+tpehg855,6,Naive Bayes,0,1,1.0
+tpehg962,6,Naive Bayes,0,0,0.0736383705861643
+tpehg966,6,Naive Bayes,0,1,1.0
+tpehg1027,7,Naive Bayes,0,1,0.722483415153194
+tpehg1097,7,Naive Bayes,0,1,1.0
+tpehg1113,7,Naive Bayes,0,1,1.0
+tpehg1121,7,Naive Bayes,0,1,1.0
+tpehg1142,7,Naive Bayes,0,1,1.0
+tpehg1163,7,Naive Bayes,1,1,1.0
+tpehg1203,7,Naive Bayes,1,1,1.0
+tpehg1212,7,Naive Bayes,0,1,1.0
+tpehg1219,7,Naive Bayes,0,0,0.0
+tpehg1261,7,Naive Bayes,0,1,0.9999999575863604
+tpehg1363,7,Naive Bayes,0,1,0.9999999999030784
+tpehg1484,7,Naive Bayes,0,1,1.0
+tpehg1486,7,Naive Bayes,0,0,0.0
+tpehg1548,7,Naive Bayes,0,1,1.0
+tpehg1601,7,Naive Bayes,0,1,0.9984195306633482
+tpehg1602,7,Naive Bayes,0,1,1.0
+tpehg1616,7,Naive Bayes,0,1,1.0
+tpehg1720,7,Naive Bayes,1,1,1.0
+tpehg1726,7,Naive Bayes,0,1,1.0
+tpehg1749,7,Naive Bayes,0,1,1.0
+tpehg642,7,Naive Bayes,0,1,1.0
+tpehg661,7,Naive Bayes,0,1,0.9999999999812772
+tpehg679,7,Naive Bayes,0,1,0.9999999980693772
+tpehg690,7,Naive Bayes,0,1,0.999999999999929
+tpehg746,7,Naive Bayes,0,1,0.999999853826246
+tpehg796,7,Naive Bayes,0,1,1.0
+tpehg808,7,Naive Bayes,0,1,1.0
+tpehg854,7,Naive Bayes,0,1,0.9999999999999468
+tpehg877,7,Naive Bayes,1,1,1.0
+tpehg930,7,Naive Bayes,0,0,4.108078840214535e-20
+tpehg1029,8,Naive Bayes,0,1,0.9999999999999716
+tpehg1093,8,Naive Bayes,0,1,0.9999999999998082
+tpehg1150,8,Naive Bayes,0,1,1.0
+tpehg1152,8,Naive Bayes,0,1,0.9999999999995984
+tpehg1201,8,Naive Bayes,0,1,0.9999999999994992
+tpehg1265,8,Naive Bayes,0,1,0.9999999999999184
+tpehg1314,8,Naive Bayes,0,0,1.7560287982691404e-16
+tpehg1318,8,Naive Bayes,1,1,0.9999999999997692
+tpehg1346,8,Naive Bayes,0,0,0.0
+tpehg1348,8,Naive Bayes,0,1,0.999999999850921
+tpehg1377,8,Naive Bayes,0,1,0.9999999999996624
+tpehg1391,8,Naive Bayes,1,1,0.9999999999974244
+tpehg1424,8,Naive Bayes,0,1,0.9994684886952786
+tpehg1437,8,Naive Bayes,0,1,1.0
+tpehg1443,8,Naive Bayes,0,1,0.999999999999556
+tpehg1446,8,Naive Bayes,0,1,1.0
+tpehg1463,8,Naive Bayes,0,1,0.99999999999984
+tpehg1504,8,Naive Bayes,0,0,0.0004281953132001
+tpehg1536,8,Naive Bayes,0,1,0.999999999999826
+tpehg1585,8,Naive Bayes,0,1,0.9999999999995488
+tpehg1606,8,Naive Bayes,0,1,0.91868867299697
+tpehg1664,8,Naive Bayes,0,1,0.9999988037804072
+tpehg1746,8,Naive Bayes,0,1,0.9999999999792272
+tpehg583,8,Naive Bayes,0,1,0.9999999999974136
+tpehg641,8,Naive Bayes,1,1,0.9999999999994138
+tpehg676,8,Naive Bayes,0,1,0.999999999999826
+tpehg734,8,Naive Bayes,0,1,0.999999999999794
+tpehg773,8,Naive Bayes,0,1,0.9999999999997478
+tpehg786,8,Naive Bayes,1,1,0.9999999999996588
+tpehg821,8,Naive Bayes,0,1,0.9808868167507606
+tpehg1065,9,Naive Bayes,0,0,2.45785296706496e-19
+tpehg1120,9,Naive Bayes,0,1,1.0
+tpehg1136,9,Naive Bayes,0,1,0.9999999999999964
+tpehg1149,9,Naive Bayes,0,1,0.9999999999995026
+tpehg1177,9,Naive Bayes,0,1,1.0
+tpehg1192,9,Naive Bayes,0,1,0.9999999999999004
+tpehg1246,9,Naive Bayes,0,1,0.9999999999999644
+tpehg1252,9,Naive Bayes,0,0,0.0001484004264619
+tpehg1299,9,Naive Bayes,0,1,0.999999987417653
+tpehg1360,9,Naive Bayes,0,1,0.9999999999998366
+tpehg1438,9,Naive Bayes,1,1,1.0
+tpehg1498,9,Naive Bayes,0,1,1.0
+tpehg1543,9,Naive Bayes,0,1,0.9999999999995416
+tpehg1653,9,Naive Bayes,0,1,0.9999999995976392
+tpehg1675,9,Naive Bayes,0,1,1.0
+tpehg1679,9,Naive Bayes,0,1,0.9999999999999928
+tpehg1690,9,Naive Bayes,0,1,0.9999910867110386
+tpehg1735,9,Naive Bayes,0,1,1.0
+tpehg1747,9,Naive Bayes,0,1,1.0
+tpehg1756,9,Naive Bayes,1,1,1.0
+tpehg584,9,Naive Bayes,0,0,0.0
+tpehg615,9,Naive Bayes,0,1,1.0
+tpehg753,9,Naive Bayes,0,1,0.9999999999999964
+tpehg797,9,Naive Bayes,1,1,0.9999999980668044
+tpehg800,9,Naive Bayes,0,0,9.656457264287646e-59
+tpehg803,9,Naive Bayes,0,1,0.9293884795351828
+tpehg827,9,Naive Bayes,0,1,1.0
+tpehg933,9,Naive Bayes,0,1,1.0
+tpehg947,9,Naive Bayes,0,1,1.0
+tpehg949,9,Naive Bayes,0,1,1.0
+tpehg1007,10,Naive Bayes,1,0,4.863691004152078e-16
+tpehg1021,10,Naive Bayes,0,0,0.2140509094073861
+tpehg1089,10,Naive Bayes,0,1,1.0
+tpehg1118,10,Naive Bayes,0,1,0.9999999999996092
+tpehg1147,10,Naive Bayes,0,1,1.0
+tpehg1161,10,Naive Bayes,0,1,1.0
+tpehg1197,10,Naive Bayes,0,1,1.0
+tpehg1240,10,Naive Bayes,0,1,1.0
+tpehg1270,10,Naive Bayes,0,1,0.9999999999999608
+tpehg1369,10,Naive Bayes,0,1,1.0
+tpehg1470,10,Naive Bayes,0,1,0.9999999999999964
+tpehg1501,10,Naive Bayes,0,1,1.0
+tpehg1532,10,Naive Bayes,1,1,1.0
+tpehg1554,10,Naive Bayes,0,1,1.0
+tpehg1566,10,Naive Bayes,0,0,0.0
+tpehg1574,10,Naive Bayes,0,1,1.0
+tpehg1577,10,Naive Bayes,0,1,1.0
+tpehg1600,10,Naive Bayes,1,1,0.9999999999998704
+tpehg1701,10,Naive Bayes,0,1,0.99999999209129
+tpehg1703,10,Naive Bayes,0,1,0.999999999996827
+tpehg603,10,Naive Bayes,0,1,1.0
+tpehg605,10,Naive Bayes,0,1,1.0
+tpehg623,10,Naive Bayes,0,1,1.0
+tpehg688,10,Naive Bayes,0,1,1.0
+tpehg697,10,Naive Bayes,0,1,1.0
+tpehg832,10,Naive Bayes,0,1,1.0
+tpehg878,10,Naive Bayes,0,1,1.0
+tpehg927,10,Naive Bayes,0,1,1.0
+tpehg991,10,Naive Bayes,0,1,1.0
+tpehg994,10,Naive Bayes,0,1,0.9999999999999324
+tpehg1088,1,Random Forest,0,0,0.1950385912179712
+tpehg1132,1,Random Forest,0,0,0.0530972539109616
+tpehg1188,1,Random Forest,0,0,0.1880255942593828
+tpehg1217,1,Random Forest,0,0,0.1637463094099811
+tpehg1273,1,Random Forest,0,0,0.3056964486689907
+tpehg1276,1,Random Forest,0,0,0.211832968845797
+tpehg1284,1,Random Forest,0,0,0.1568174310448047
+tpehg1300,1,Random Forest,0,0,0.2970166592852697
+tpehg1460,1,Random Forest,0,0,0.1562968631493299
+tpehg1490,1,Random Forest,1,0,0.2633643525906188
+tpehg1507,1,Random Forest,0,0,0.2610053579195273
+tpehg1564,1,Random Forest,0,0,0.3225938027217853
+tpehg1593,1,Random Forest,0,0,0.3244721658169156
+tpehg1618,1,Random Forest,0,0,0.2662603378042826
+tpehg1628,1,Random Forest,0,0,0.1227636248951473
+tpehg1737,1,Random Forest,0,0,0.2421935130084223
+tpehg1751,1,Random Forest,1,0,0.4602830019441785
+tpehg552,1,Random Forest,0,0,0.1605442142718078
+tpehg567,1,Random Forest,1,0,0.150334749402702
+tpehg597,1,Random Forest,0,0,0.1600918615770164
+tpehg625,1,Random Forest,0,0,0.1793049888039181
+tpehg660,1,Random Forest,0,0,0.0773092475512421
+tpehg675,1,Random Forest,0,0,0.0986215096873352
+tpehg716,1,Random Forest,0,0,0.162117166719127
+tpehg718,1,Random Forest,0,0,0.2894191987643256
+tpehg820,1,Random Forest,0,0,0.0817114521970289
+tpehg848,1,Random Forest,0,0,0.4540377163777163
+tpehg888,1,Random Forest,0,0,0.2440536215812854
+tpehg939,1,Random Forest,1,0,0.4929334817632605
+tpehg980,1,Random Forest,0,0,0.04300317245087
+tpehg1022,2,Random Forest,0,0,0.1019236644550758
+tpehg1031,2,Random Forest,0,0,0.1776724635214465
+tpehg1130,2,Random Forest,0,0,0.1290972639018535
+tpehg1216,2,Random Forest,0,0,0.2355110958323676
+tpehg1274,2,Random Forest,0,0,0.0888678544855526
+tpehg1283,2,Random Forest,0,0,0.1873779978971576
+tpehg1342,2,Random Forest,0,0,0.2541906703705384
+tpehg1343,2,Random Forest,0,0,0.0562524463617394
+tpehg1414,2,Random Forest,0,0,0.2977813674432942
+tpehg1459,2,Random Forest,0,0,0.2370385941077733
+tpehg1495,2,Random Forest,0,0,0.1001778695665969
+tpehg1499,2,Random Forest,1,0,0.2306174337476648
+tpehg1534,2,Random Forest,0,0,0.3486961780452078
+tpehg1546,2,Random Forest,0,0,0.2436090576927598
+tpehg1612,2,Random Forest,0,0,0.1904201831614119
+tpehg1614,2,Random Forest,0,0,0.2510497009739497
+tpehg1660,2,Random Forest,0,0,0.2240668770572055
+tpehg1662,2,Random Forest,0,0,0.1847789832009137
+tpehg1663,2,Random Forest,0,0,0.2178575867238531
+tpehg1688,2,Random Forest,0,0,0.0773823783645954
+tpehg1748,2,Random Forest,1,0,0.2090140715259973
+tpehg614,2,Random Forest,1,0,0.0879119339898001
+tpehg674,2,Random Forest,0,0,0.3928325626489422
+tpehg737,2,Random Forest,0,0,0.1174910207291201
+tpehg766,2,Random Forest,0,0,0.39920907573842
+tpehg914,2,Random Forest,1,0,0.2825760973854278
+tpehg916,2,Random Forest,0,0,0.1810585105582141
+tpehg920,2,Random Forest,0,0,0.0950508371036434
+tpehg938,2,Random Forest,0,0,0.0677656100644568
+tpehg961,2,Random Forest,0,0,0.0638387302037205
+tpehg1119,3,Random Forest,0,0,0.1840412177919744
+tpehg1134,3,Random Forest,0,0,0.2073299466310028
+tpehg1138,3,Random Forest,0,0,0.2210144120226655
+tpehg1226,3,Random Forest,0,0,0.1282910337311253
+tpehg1263,3,Random Forest,0,0,0.1759395933207785
+tpehg1264,3,Random Forest,0,0,0.2911918981109581
+tpehg1298,3,Random Forest,1,0,0.4981247793349631
+tpehg1302,3,Random Forest,1,0,0.239544324114463
+tpehg1378,3,Random Forest,0,0,0.0511188676821456
+tpehg1389,3,Random Forest,0,0,0.4143712501122153
+tpehg1412,3,Random Forest,0,1,0.5570627224575
+tpehg1467,3,Random Forest,1,0,0.1529113019923149
+tpehg1526,3,Random Forest,1,0,0.3556687009741969
+tpehg1626,3,Random Forest,0,0,0.2009066650233454
+tpehg1642,3,Random Forest,0,0,0.2095421195275197
+tpehg1687,3,Random Forest,0,0,0.2892282399451583
+tpehg1717,3,Random Forest,0,0,0.3492329549276212
+tpehg1723,3,Random Forest,0,0,0.1068382046405727
+tpehg1741,3,Random Forest,0,0,0.4693270853687318
+tpehg1745,3,Random Forest,0,0,0.3755638656348213
+tpehg553,3,Random Forest,0,1,0.5365554896657901
+tpehg710,3,Random Forest,0,0,0.2552662171571879
+tpehg725,3,Random Forest,0,0,0.0203709832922239
+tpehg768,3,Random Forest,0,0,0.1186786399089019
+tpehg778,3,Random Forest,0,0,0.2458461866338583
+tpehg814,3,Random Forest,0,0,0.2187616688849808
+tpehg867,3,Random Forest,0,0,0.1881954401288525
+tpehg891,3,Random Forest,0,0,0.1118075058843221
+tpehg926,3,Random Forest,0,0,0.2094922016417075
+tpehg929,3,Random Forest,0,0,0.1311847857659831
+tpehg1070,4,Random Forest,0,0,0.1481613086740629
+tpehg1116,4,Random Forest,0,0,0.0853172166245136
+tpehg1128,4,Random Forest,0,0,0.0750497815523128
+tpehg1183,4,Random Forest,0,0,0.2316939015721268
+tpehg1282,4,Random Forest,0,0,0.0638023461097998
+tpehg1335,4,Random Forest,0,0,0.1485541318449861
+tpehg1368,4,Random Forest,0,0,0.171251555654444
+tpehg1372,4,Random Forest,0,0,0.0589069717083546
+tpehg1436,4,Random Forest,1,0,0.1627360799585041
+tpehg1520,4,Random Forest,0,0,0.2305948552762892
+tpehg1575,4,Random Forest,0,0,0.1856580999731399
+tpehg1579,4,Random Forest,0,0,0.1075266011031103
+tpehg1587,4,Random Forest,0,0,0.0561693217926359
+tpehg1619,4,Random Forest,0,0,0.1947003216564874
+tpehg1649,4,Random Forest,0,0,0.1757193718719205
+tpehg1674,4,Random Forest,0,0,0.1099947944400704
+tpehg1719,4,Random Forest,1,0,0.130560208881948
+tpehg586,4,Random Forest,1,0,0.1104064408824008
+tpehg601,4,Random Forest,0,0,0.3710348623837738
+tpehg604,4,Random Forest,0,0,0.1375419427621743
+tpehg610,4,Random Forest,0,0,0.1027800395771733
+tpehg618,4,Random Forest,0,0,0.0744039688563094
+tpehg639,4,Random Forest,0,0,0.12346629685129
+tpehg644,4,Random Forest,0,0,0.0390681444969459
+tpehg681,4,Random Forest,0,0,0.1455625465792243
+tpehg715,4,Random Forest,0,0,0.0967539005703745
+tpehg751,4,Random Forest,0,0,0.1983457068328372
+tpehg858,4,Random Forest,1,0,0.2520375370261571
+tpehg873,4,Random Forest,0,0,0.1836889963716867
+tpehg895,4,Random Forest,0,0,0.1274021110509191
+tpehg1039,5,Random Forest,0,0,0.2233388172683036
+tpehg1139,5,Random Forest,0,0,0.2094244021072613
+tpehg1167,5,Random Forest,0,0,0.4511098065259662
+tpehg1202,5,Random Forest,1,0,0.1092048312683658
+tpehg1205,5,Random Forest,0,0,0.2595958734534814
+tpehg1241,5,Random Forest,0,0,0.1046928253844176
+tpehg1250,5,Random Forest,0,0,0.2487794641846316
+tpehg1280,5,Random Forest,0,0,0.3566682873028092
+tpehg1338,5,Random Forest,0,0,0.3640540156814958
+tpehg1441,5,Random Forest,0,0,0.2938364332200827
+tpehg1476,5,Random Forest,1,0,0.1406874880229035
+tpehg1518,5,Random Forest,0,0,0.3062672645632959
+tpehg1537,5,Random Forest,0,0,0.116783079612904
+tpehg1544,5,Random Forest,1,0,0.2921653996741234
+tpehg1589,5,Random Forest,0,0,0.1091201151315909
+tpehg1607,5,Random Forest,0,0,0.1853336459566065
+tpehg1630,5,Random Forest,0,0,0.2629361132354272
+tpehg1631,5,Random Forest,0,0,0.0593292548494801
+tpehg1659,5,Random Forest,0,0,0.2125870098782081
+tpehg1666,5,Random Forest,0,0,0.2252266255666112
+tpehg1676,5,Random Forest,0,0,0.1807786696737964
+tpehg1709,5,Random Forest,0,0,0.1362331535168382
+tpehg1732,5,Random Forest,0,0,0.2200326557235005
+tpehg572,5,Random Forest,0,0,0.1637963733225884
+tpehg593,5,Random Forest,0,0,0.3037786889962285
+tpehg617,5,Random Forest,1,0,0.0973734474243554
+tpehg649,5,Random Forest,0,0,0.1578335181379939
+tpehg680,5,Random Forest,0,0,0.1308673260901262
+tpehg735,5,Random Forest,0,0,0.1858600528219454
+tpehg902,5,Random Forest,0,0,0.0771611624355875
+tpehg1137,6,Random Forest,0,0,0.1100930777436487
+tpehg1151,6,Random Forest,0,0,0.1125900018705919
+tpehg1169,6,Random Forest,0,0,0.2183813098369172
+tpehg1228,6,Random Forest,0,0,0.0422427105382913
+tpehg1301,6,Random Forest,0,0,0.1759948905288977
+tpehg1326,6,Random Forest,0,0,0.1097937488342591
+tpehg1344,6,Random Forest,0,0,0.0996431359463995
+tpehg1367,6,Random Forest,0,0,0.0593178890274056
+tpehg1395,6,Random Forest,0,0,0.1200493666863814
+tpehg1425,6,Random Forest,0,0,0.2936681481356897
+tpehg1457,6,Random Forest,0,0,0.1180911462216352
+tpehg1478,6,Random Forest,1,0,0.0773585366559109
+tpehg1485,6,Random Forest,0,0,0.1563482528267938
+tpehg1492,6,Random Forest,0,0,0.1405337160981896
+tpehg1511,6,Random Forest,0,0,0.3785476535641328
+tpehg1522,6,Random Forest,0,0,0.1536772122543471
+tpehg1552,6,Random Forest,0,0,0.0626572275646703
+tpehg1650,6,Random Forest,0,0,0.0581645041044498
+tpehg1689,6,Random Forest,0,0,0.398295755447304
+tpehg1734,6,Random Forest,1,0,0.1398453962941291
+tpehg546,6,Random Forest,1,0,0.0566845658058549
+tpehg608,6,Random Forest,0,0,0.3266559770039792
+tpehg667,6,Random Forest,0,0,0.2509743252962569
+tpehg745,6,Random Forest,1,0,0.2189627055050747
+tpehg767,6,Random Forest,0,0,0.1662231152835314
+tpehg840,6,Random Forest,0,0,0.0408229825612646
+tpehg851,6,Random Forest,0,0,0.282336851722586
+tpehg855,6,Random Forest,0,0,0.1069767652817302
+tpehg962,6,Random Forest,0,0,0.0123255502954519
+tpehg966,6,Random Forest,0,0,0.2628354289770928
+tpehg1027,7,Random Forest,0,0,0.0738097927125558
+tpehg1097,7,Random Forest,0,0,0.338494476045877
+tpehg1113,7,Random Forest,0,0,0.2951388175773611
+tpehg1121,7,Random Forest,0,0,0.3793218279001391
+tpehg1142,7,Random Forest,0,0,0.1311553795665159
+tpehg1163,7,Random Forest,1,0,0.2261071553908367
+tpehg1203,7,Random Forest,1,0,0.1562383290221034
+tpehg1212,7,Random Forest,0,0,0.1373984080976699
+tpehg1219,7,Random Forest,0,0,0.108579420877245
+tpehg1261,7,Random Forest,0,0,0.0854768885703186
+tpehg1363,7,Random Forest,0,0,0.08620526607907
+tpehg1484,7,Random Forest,0,0,0.05230348024844
+tpehg1486,7,Random Forest,0,0,0.3221886992667583
+tpehg1548,7,Random Forest,0,0,0.3386479141077778
+tpehg1601,7,Random Forest,0,0,0.1037921337542549
+tpehg1602,7,Random Forest,0,0,0.2758319415607797
+tpehg1616,7,Random Forest,0,0,0.2662444392432265
+tpehg1720,7,Random Forest,1,0,0.2086438356232898
+tpehg1726,7,Random Forest,0,0,0.200289410969057
+tpehg1749,7,Random Forest,0,0,0.1430339829363839
+tpehg642,7,Random Forest,0,0,0.2140895024897095
+tpehg661,7,Random Forest,0,0,0.1057981978889689
+tpehg679,7,Random Forest,0,0,0.220805573942997
+tpehg690,7,Random Forest,0,0,0.2684103231841078
+tpehg746,7,Random Forest,0,0,0.0825832849412226
+tpehg796,7,Random Forest,0,0,0.2811859632623454
+tpehg808,7,Random Forest,0,0,0.1790274191435769
+tpehg854,7,Random Forest,0,0,0.1241461858293489
+tpehg877,7,Random Forest,1,0,0.213342098893262
+tpehg930,7,Random Forest,0,0,0.0543254661782501
+tpehg1029,8,Random Forest,0,0,0.2279529117922272
+tpehg1093,8,Random Forest,0,0,0.3687688366850152
+tpehg1150,8,Random Forest,0,0,0.4211767542071117
+tpehg1152,8,Random Forest,0,0,0.2124045047478192
+tpehg1201,8,Random Forest,0,0,0.2423955767884406
+tpehg1265,8,Random Forest,0,0,0.2485853662695967
+tpehg1314,8,Random Forest,0,0,0.0333795402512945
+tpehg1318,8,Random Forest,1,0,0.4039849800909696
+tpehg1346,8,Random Forest,0,0,0.2095661369531095
+tpehg1348,8,Random Forest,0,0,0.1121158478179936
+tpehg1377,8,Random Forest,0,0,0.2109379201637131
+tpehg1391,8,Random Forest,1,0,0.0718064775052741
+tpehg1424,8,Random Forest,0,0,0.1373121874290743
+tpehg1437,8,Random Forest,0,0,0.3761482835897781
+tpehg1443,8,Random Forest,0,0,0.1371639533825447
+tpehg1446,8,Random Forest,0,0,0.141997322882732
+tpehg1463,8,Random Forest,0,0,0.2335688142456284
+tpehg1504,8,Random Forest,0,0,0.0901526499025721
+tpehg1536,8,Random Forest,0,0,0.2283026404664938
+tpehg1585,8,Random Forest,0,0,0.2055026773126214
+tpehg1606,8,Random Forest,0,0,0.1091636049724008
+tpehg1664,8,Random Forest,0,0,0.2154077194532189
+tpehg1746,8,Random Forest,0,0,0.0647544491744856
+tpehg583,8,Random Forest,0,0,0.2044787180733704
+tpehg641,8,Random Forest,1,0,0.17761825257371
+tpehg676,8,Random Forest,0,0,0.1781561465052641
+tpehg734,8,Random Forest,0,0,0.2087996547874486
+tpehg773,8,Random Forest,0,0,0.3305114045678808
+tpehg786,8,Random Forest,1,0,0.3854294778456724
+tpehg821,8,Random Forest,0,0,0.0303140792891132
+tpehg1065,9,Random Forest,0,0,0.0763257873677994
+tpehg1120,9,Random Forest,0,0,0.2063835477036753
+tpehg1136,9,Random Forest,0,0,0.2471222257554278
+tpehg1149,9,Random Forest,0,0,0.1603090690281433
+tpehg1177,9,Random Forest,0,0,0.3842702910788989
+tpehg1192,9,Random Forest,0,0,0.2689364130977825
+tpehg1246,9,Random Forest,0,0,0.1775958783834378
+tpehg1252,9,Random Forest,0,0,0.0548783891040649
+tpehg1299,9,Random Forest,0,0,0.1045181996806787
+tpehg1360,9,Random Forest,0,0,0.1981419509363699
+tpehg1438,9,Random Forest,1,0,0.282251916554638
+tpehg1498,9,Random Forest,0,0,0.1004263470479925
+tpehg1543,9,Random Forest,0,0,0.0268718134260937
+tpehg1653,9,Random Forest,0,0,0.1319209286990646
+tpehg1675,9,Random Forest,0,0,0.2290318760002065
+tpehg1679,9,Random Forest,0,0,0.1048225042443189
+tpehg1690,9,Random Forest,0,0,0.0959707085547144
+tpehg1735,9,Random Forest,0,0,0.4394943515006047
+tpehg1747,9,Random Forest,0,0,0.4698620521413727
+tpehg1756,9,Random Forest,1,0,0.4571191200638226
+tpehg584,9,Random Forest,0,0,0.0774354415199489
+tpehg615,9,Random Forest,0,0,0.1782057288730511
+tpehg753,9,Random Forest,0,0,0.088616874805232
+tpehg797,9,Random Forest,1,0,0.0562866213060999
+tpehg800,9,Random Forest,0,0,0.0674961173891647
+tpehg803,9,Random Forest,0,0,0.0961683512140243
+tpehg827,9,Random Forest,0,0,0.1603081239156527
+tpehg933,9,Random Forest,0,0,0.1714001647756571
+tpehg947,9,Random Forest,0,0,0.1869198013887668
+tpehg949,9,Random Forest,0,0,0.2986078314771918
+tpehg1007,10,Random Forest,1,0,0.0897187492858575
+tpehg1021,10,Random Forest,0,0,0.0464441818593367
+tpehg1089,10,Random Forest,0,0,0.1042471937317102
+tpehg1118,10,Random Forest,0,0,0.1355618801478804
+tpehg1147,10,Random Forest,0,0,0.4136001366006653
+tpehg1161,10,Random Forest,0,0,0.2907833205076082
+tpehg1197,10,Random Forest,0,0,0.1463048095509045
+tpehg1240,10,Random Forest,0,0,0.3099322085912223
+tpehg1270,10,Random Forest,0,0,0.2298333602403872
+tpehg1369,10,Random Forest,0,0,0.1050013420508986
+tpehg1470,10,Random Forest,0,0,0.2162096873984522
+tpehg1501,10,Random Forest,0,0,0.2524307216641803
+tpehg1532,10,Random Forest,1,0,0.3298584118244435
+tpehg1554,10,Random Forest,0,0,0.1507883412702861
+tpehg1566,10,Random Forest,0,0,0.1284979406714994
+tpehg1574,10,Random Forest,0,0,0.0960894217150941
+tpehg1577,10,Random Forest,0,0,0.0954676393042511
+tpehg1600,10,Random Forest,1,0,0.2584338035996937
+tpehg1701,10,Random Forest,0,0,0.1546442525012679
+tpehg1703,10,Random Forest,0,0,0.2205769128434377
+tpehg603,10,Random Forest,0,0,0.2636801111421025
+tpehg605,10,Random Forest,0,0,0.1693730547225008
+tpehg623,10,Random Forest,0,0,0.2149918926578716
+tpehg688,10,Random Forest,0,0,0.1465714582234134
+tpehg697,10,Random Forest,0,0,0.2328411162568898
+tpehg832,10,Random Forest,0,0,0.3350967066763442
+tpehg878,10,Random Forest,0,0,0.1707775404347402
+tpehg927,10,Random Forest,0,0,0.2801712551475473
+tpehg991,10,Random Forest,0,0,0.1195303049130099
+tpehg994,10,Random Forest,0,0,0.2162572458978801
+tpehg1088,1,SVM,0,1,0.1070924302343022
+tpehg1132,1,SVM,0,0,0.1443779026055963
+tpehg1188,1,SVM,0,0,0.1320277036385997
+tpehg1217,1,SVM,0,0,0.124335494773122
+tpehg1273,1,SVM,0,1,0.1158711653451232
+tpehg1276,1,SVM,0,0,0.1382308831422442
+tpehg1284,1,SVM,0,0,0.1298586100739896
+tpehg1300,1,SVM,0,1,0.1110568376863404
+tpehg1460,1,SVM,0,0,0.137228719361769
+tpehg1490,1,SVM,1,0,0.1357906394024193
+tpehg1507,1,SVM,0,1,0.1007443829612929
+tpehg1564,1,SVM,0,1,0.1057344982016348
+tpehg1593,1,SVM,0,1,0.1165120528767088
+tpehg1618,1,SVM,0,1,0.1199643258644012
+tpehg1628,1,SVM,0,1,0.1201182300830547
+tpehg1737,1,SVM,0,1,0.103610110436592
+tpehg1751,1,SVM,1,1,0.1072807842916526
+tpehg552,1,SVM,0,0,0.1299570994086668
+tpehg567,1,SVM,1,1,0.1087062207111324
+tpehg597,1,SVM,0,0,0.1368121660234495
+tpehg625,1,SVM,0,0,0.1242772225200692
+tpehg660,1,SVM,0,0,0.15557156407484
+tpehg675,1,SVM,0,0,0.1358848061317134
+tpehg716,1,SVM,0,1,0.1208844612368351
+tpehg718,1,SVM,0,1,0.1174314224243163
+tpehg820,1,SVM,0,0,0.1566154775693567
+tpehg848,1,SVM,0,1,0.0996334577899749
+tpehg888,1,SVM,0,0,0.139681186762077
+tpehg939,1,SVM,1,1,0.0906502851317131
+tpehg980,1,SVM,0,0,0.1507926994655659
+tpehg1022,2,SVM,0,0,0.1339643219788855
+tpehg1031,2,SVM,0,0,0.1315937688384576
+tpehg1130,2,SVM,0,0,0.1489486191859579
+tpehg1216,2,SVM,0,0,0.1280329471472888
+tpehg1274,2,SVM,0,1,0.1201565450016838
+tpehg1283,2,SVM,0,1,0.1195725519064626
+tpehg1342,2,SVM,0,0,0.126443383610265
+tpehg1343,2,SVM,0,0,0.1421621663264689
+tpehg1414,2,SVM,0,0,0.1256604404540086
+tpehg1459,2,SVM,0,1,0.1124828798391433
+tpehg1495,2,SVM,0,0,0.1258865024997211
+tpehg1499,2,SVM,1,1,0.1226176136476898
+tpehg1534,2,SVM,0,1,0.1082987268252294
+tpehg1546,2,SVM,0,0,0.1369433657133789
+tpehg1612,2,SVM,0,1,0.1192234562594864
+tpehg1614,2,SVM,0,0,0.1247927285831923
+tpehg1660,2,SVM,0,1,0.1183277019064139
+tpehg1662,2,SVM,0,0,0.128083744742068
+tpehg1663,2,SVM,0,0,0.1255571375878753
+tpehg1688,2,SVM,0,0,0.1437421848991491
+tpehg1748,2,SVM,1,0,0.1385310685221811
+tpehg614,2,SVM,1,0,0.1242357082461041
+tpehg674,2,SVM,0,0,0.1278393728581104
+tpehg737,2,SVM,0,0,0.1229883356655108
+tpehg766,2,SVM,0,1,0.1227773696909654
+tpehg914,2,SVM,1,0,0.1273294965962139
+tpehg916,2,SVM,0,0,0.1320031089480749
+tpehg920,2,SVM,0,0,0.1331523125206767
+tpehg938,2,SVM,0,0,0.1228901762053261
+tpehg961,2,SVM,0,0,0.1382821542909838
+tpehg1119,3,SVM,0,1,0.1227856325662523
+tpehg1134,3,SVM,0,0,0.1277393502909455
+tpehg1138,3,SVM,0,1,0.1241875295797192
+tpehg1226,3,SVM,0,0,0.1304460435317364
+tpehg1263,3,SVM,0,0,0.1253518702215617
+tpehg1264,3,SVM,0,1,0.1180066743257621
+tpehg1298,3,SVM,1,1,0.119622186613428
+tpehg1302,3,SVM,1,0,0.1307537064114049
+tpehg1378,3,SVM,0,0,0.1324678249877414
+tpehg1389,3,SVM,0,1,0.1169569958012374
+tpehg1412,3,SVM,0,1,0.1154301643002199
+tpehg1467,3,SVM,1,0,0.1248788842682313
+tpehg1526,3,SVM,1,0,0.1275452079827362
+tpehg1626,3,SVM,0,0,0.1302352572657365
+tpehg1642,3,SVM,0,1,0.1245317194402897
+tpehg1687,3,SVM,0,1,0.1194685991942327
+tpehg1717,3,SVM,0,1,0.1175212650586629
+tpehg1723,3,SVM,0,0,0.1301213530926901
+tpehg1741,3,SVM,0,1,0.1170215024332952
+tpehg1745,3,SVM,0,1,0.1220449325118451
+tpehg553,3,SVM,0,1,0.1169120880872574
+tpehg710,3,SVM,0,1,0.1230935742385324
+tpehg725,3,SVM,0,0,0.1327909433640738
+tpehg768,3,SVM,0,0,0.1271713050573339
+tpehg778,3,SVM,0,0,0.1291945164313392
+tpehg814,3,SVM,0,0,0.1279728466052439
+tpehg867,3,SVM,0,1,0.1243856193869472
+tpehg891,3,SVM,0,0,0.1320724506605778
+tpehg926,3,SVM,0,0,0.1279971307205538
+tpehg929,3,SVM,0,0,0.1302323062493693
+tpehg1070,4,SVM,0,1,0.1245972866660051
+tpehg1116,4,SVM,0,0,0.1325308618050805
+tpehg1128,4,SVM,0,0,0.1309099006316309
+tpehg1183,4,SVM,0,0,0.1289516034791726
+tpehg1282,4,SVM,0,1,0.1246956973190765
+tpehg1335,4,SVM,0,0,0.1287097546194075
+tpehg1368,4,SVM,0,1,0.1249562319992667
+tpehg1372,4,SVM,0,0,0.1276026188107186
+tpehg1436,4,SVM,1,0,0.1282711443992802
+tpehg1520,4,SVM,0,1,0.1238577507644646
+tpehg1575,4,SVM,0,0,0.1265222041605455
+tpehg1579,4,SVM,0,0,0.1254329171821022
+tpehg1587,4,SVM,0,1,0.1218149575000444
+tpehg1619,4,SVM,0,1,0.1236981656143269
+tpehg1649,4,SVM,0,0,0.1283484404636618
+tpehg1674,4,SVM,0,1,0.1237971392075001
+tpehg1719,4,SVM,1,1,0.1234488485689523
+tpehg586,4,SVM,1,1,0.1242319400459444
+tpehg601,4,SVM,0,1,0.1227804800286353
+tpehg604,4,SVM,0,0,0.1317987560508664
+tpehg610,4,SVM,0,0,0.1319326335599613
+tpehg618,4,SVM,0,0,0.1262831281976951
+tpehg639,4,SVM,0,1,0.1224991751360482
+tpehg644,4,SVM,0,0,0.1313625971110552
+tpehg681,4,SVM,0,0,0.1255667319197814
+tpehg715,4,SVM,0,0,0.1296474851258489
+tpehg751,4,SVM,0,0,0.1277404802575367
+tpehg858,4,SVM,1,1,0.1252997468285017
+tpehg873,4,SVM,0,0,0.1290064684839119
+tpehg895,4,SVM,0,0,0.1254547547424364
+tpehg1039,5,SVM,0,0,0.1110210618255649
+tpehg1139,5,SVM,0,1,0.0876090413515442
+tpehg1167,5,SVM,0,1,0.0754080406815135
+tpehg1202,5,SVM,1,0,0.1463938910307018
+tpehg1205,5,SVM,0,0,0.1668384533002674
+tpehg1241,5,SVM,0,1,0.0848350643819711
+tpehg1250,5,SVM,0,1,0.0751383283755292
+tpehg1280,5,SVM,0,1,0.1004587187971608
+tpehg1338,5,SVM,0,1,0.0994970399484285
+tpehg1441,5,SVM,0,1,0.0722713941683878
+tpehg1476,5,SVM,1,1,0.101855985909923
+tpehg1518,5,SVM,0,1,0.0914689133788363
+tpehg1537,5,SVM,0,1,0.0919982668383399
+tpehg1544,5,SVM,1,1,0.1013180902471219
+tpehg1589,5,SVM,0,0,0.1947493256046523
+tpehg1607,5,SVM,0,1,0.0810316573142229
+tpehg1630,5,SVM,0,1,0.0853061221184695
+tpehg1631,5,SVM,0,0,0.2632217224781315
+tpehg1659,5,SVM,0,0,0.1073914911501053
+tpehg1666,5,SVM,0,1,0.0766221548969257
+tpehg1676,5,SVM,0,1,0.0792124928914914
+tpehg1709,5,SVM,0,0,0.1260028064861759
+tpehg1732,5,SVM,0,1,0.0703394795624095
+tpehg572,5,SVM,0,0,0.1106785408105638
+tpehg593,5,SVM,0,0,0.1273489324979381
+tpehg617,5,SVM,1,0,0.1891380005053052
+tpehg649,5,SVM,0,0,0.1189173736204249
+tpehg680,5,SVM,0,0,0.1081103326184151
+tpehg735,5,SVM,0,1,0.0917682993757532
+tpehg902,5,SVM,0,0,0.1177461169002389
+tpehg1137,6,SVM,0,0,0.1136114986598538
+tpehg1151,6,SVM,0,0,0.1095376758216016
+tpehg1169,6,SVM,0,0,0.1262509603857241
+tpehg1228,6,SVM,0,0,0.1115227907890414
+tpehg1301,6,SVM,0,1,0.1337457356639168
+tpehg1326,6,SVM,0,1,0.1296665810065476
+tpehg1344,6,SVM,0,0,0.1174235882976172
+tpehg1367,6,SVM,0,0,0.1219788199868873
+tpehg1395,6,SVM,0,0,0.1232297267485392
+tpehg1425,6,SVM,0,1,0.1306767641681728
+tpehg1457,6,SVM,0,0,0.1157182392496141
+tpehg1478,6,SVM,1,0,0.1202258852504549
+tpehg1485,6,SVM,0,1,0.1326971056042002
+tpehg1492,6,SVM,0,0,0.1167357317005031
+tpehg1511,6,SVM,0,1,0.1305701730989008
+tpehg1522,6,SVM,0,1,0.1442225977594443
+tpehg1552,6,SVM,0,0,0.1157701224419355
+tpehg1650,6,SVM,0,0,0.1165696256793947
+tpehg1689,6,SVM,0,1,0.1506655925172811
+tpehg1734,6,SVM,1,1,0.1320393223306579
+tpehg546,6,SVM,1,0,0.1032863026563771
+tpehg608,6,SVM,0,1,0.1438691972119455
+tpehg667,6,SVM,0,1,0.1418257589218569
+tpehg745,6,SVM,1,1,0.1347054153133471
+tpehg767,6,SVM,0,1,0.1299331049173311
+tpehg840,6,SVM,0,0,0.1169831905759243
+tpehg851,6,SVM,0,1,0.1364393735558975
+tpehg855,6,SVM,0,0,0.1089155673626359
+tpehg962,6,SVM,0,0,0.1046667331093936
+tpehg966,6,SVM,0,1,0.1356137050491289
+tpehg1027,7,SVM,0,0,0.1052198210051935
+tpehg1097,7,SVM,0,1,0.1317735052795058
+tpehg1113,7,SVM,0,1,0.1403998868552491
+tpehg1121,7,SVM,0,1,0.1406706088970615
+tpehg1142,7,SVM,0,1,0.1488093914641599
+tpehg1163,7,SVM,1,0,0.1158040872184342
+tpehg1203,7,SVM,1,0,0.1101049713375674
+tpehg1212,7,SVM,0,0,0.123547913280403
+tpehg1219,7,SVM,0,0,0.1263488033443681
+tpehg1261,7,SVM,0,0,0.1058878809643489
+tpehg1363,7,SVM,0,0,0.1107257223587198
+tpehg1484,7,SVM,0,0,0.1202098903552997
+tpehg1486,7,SVM,0,1,0.1299125738737693
+tpehg1548,7,SVM,0,1,0.1342432309271108
+tpehg1601,7,SVM,0,0,0.1039342039907244
+tpehg1602,7,SVM,0,1,0.157503028571077
+tpehg1616,7,SVM,0,1,0.1533508666864537
+tpehg1720,7,SVM,1,1,0.1394020267283861
+tpehg1726,7,SVM,0,1,0.1390702926903634
+tpehg1749,7,SVM,0,1,0.1476231494894527
+tpehg642,7,SVM,0,1,0.1495612853403311
+tpehg661,7,SVM,0,0,0.1147208745282447
+tpehg679,7,SVM,0,1,0.1440092373749066
+tpehg690,7,SVM,0,1,0.1346385876096478
+tpehg746,7,SVM,0,0,0.1140958341089215
+tpehg796,7,SVM,0,0,0.1239190682789922
+tpehg808,7,SVM,0,0,0.1280115657064362
+tpehg854,7,SVM,0,0,0.1259087345928491
+tpehg877,7,SVM,1,1,0.1584314993883636
+tpehg930,7,SVM,0,0,0.1053912026211436
+tpehg1029,8,SVM,0,0,0.1222194704639669
+tpehg1093,8,SVM,0,0,0.1279385054838978
+tpehg1150,8,SVM,0,1,0.1404091939871888
+tpehg1152,8,SVM,0,1,0.1358318764952647
+tpehg1201,8,SVM,0,1,0.144752249804548
+tpehg1265,8,SVM,0,0,0.1220190241302064
+tpehg1314,8,SVM,0,0,0.1114442025555004
+tpehg1318,8,SVM,1,1,0.1343820475758159
+tpehg1346,8,SVM,0,0,0.1173386308038802
+tpehg1348,8,SVM,0,1,0.1301719886734263
+tpehg1377,8,SVM,0,1,0.1340837112079098
+tpehg1391,8,SVM,1,0,0.117028706664832
+tpehg1424,8,SVM,0,0,0.1097648505110725
+tpehg1437,8,SVM,0,1,0.129430322407991
+tpehg1443,8,SVM,0,0,0.1187819772054208
+tpehg1446,8,SVM,0,0,0.1131334249623631
+tpehg1463,8,SVM,0,1,0.141195272003097
+tpehg1504,8,SVM,0,0,0.1092057636172714
+tpehg1536,8,SVM,0,1,0.1404513043371218
+tpehg1585,8,SVM,0,0,0.1277999181915135
+tpehg1606,8,SVM,0,0,0.115069562314249
+tpehg1664,8,SVM,0,0,0.1177720267906739
+tpehg1746,8,SVM,0,0,0.1143981676310797
+tpehg583,8,SVM,0,0,0.1240580208554605
+tpehg641,8,SVM,1,0,0.1072976198450698
+tpehg676,8,SVM,0,1,0.1402163305918409
+tpehg734,8,SVM,0,1,0.1310911228514118
+tpehg773,8,SVM,0,0,0.1276527827536225
+tpehg786,8,SVM,1,0,0.1182893821480187
+tpehg821,8,SVM,0,0,0.1065666779646755
+tpehg1065,9,SVM,0,0,0.1264465623211234
+tpehg1120,9,SVM,0,1,0.131811374677662
+tpehg1136,9,SVM,0,1,0.130606459704616
+tpehg1149,9,SVM,0,0,0.1301039871500224
+tpehg1177,9,SVM,0,1,0.1332898892787518
+tpehg1192,9,SVM,0,0,0.128509915236064
+tpehg1246,9,SVM,0,1,0.1326039678463423
+tpehg1252,9,SVM,0,0,0.1250230508095133
+tpehg1299,9,SVM,0,0,0.126646700835166
+tpehg1360,9,SVM,0,1,0.1315462923839301
+tpehg1438,9,SVM,1,1,0.1318175241408423
+tpehg1498,9,SVM,0,1,0.1320072687335569
+tpehg1543,9,SVM,0,0,0.1267497470264136
+tpehg1653,9,SVM,0,0,0.1279641442022693
+tpehg1675,9,SVM,0,1,0.1307065548265661
+tpehg1679,9,SVM,0,0,0.1296013630318406
+tpehg1690,9,SVM,0,0,0.127374066746165
+tpehg1735,9,SVM,0,1,0.1315346574718799
+tpehg1747,9,SVM,0,1,0.1328489297766411
+tpehg1756,9,SVM,1,1,0.1308486092299802
+tpehg584,9,SVM,0,0,0.1277444479572551
+tpehg615,9,SVM,0,1,0.1323513798965125
+tpehg753,9,SVM,0,0,0.128849434303567
+tpehg797,9,SVM,1,0,0.1275431601468651
+tpehg800,9,SVM,0,0,0.1272899577629202
+tpehg803,9,SVM,0,0,0.1265728660723863
+tpehg827,9,SVM,0,0,0.1266587012839512
+tpehg933,9,SVM,0,0,0.1285173761670926
+tpehg947,9,SVM,0,1,0.1304805952298011
+tpehg949,9,SVM,0,1,0.1326980299854058
+tpehg1007,10,SVM,1,0,0.1193191524494048
+tpehg1021,10,SVM,0,0,0.126688660769154
+tpehg1089,10,SVM,0,0,0.1155267213465502
+tpehg1118,10,SVM,0,0,0.1097294523725434
+tpehg1147,10,SVM,0,1,0.1548797926361719
+tpehg1161,10,SVM,0,1,0.1411188955106906
+tpehg1197,10,SVM,0,1,0.1379575388399702
+tpehg1240,10,SVM,0,1,0.1553148492722676
+tpehg1270,10,SVM,0,1,0.1428516009968587
+tpehg1369,10,SVM,0,1,0.1426185800010296
+tpehg1470,10,SVM,0,1,0.1372310379912231
+tpehg1501,10,SVM,0,1,0.1472071101059516
+tpehg1532,10,SVM,1,1,0.1395703344751639
+tpehg1554,10,SVM,0,0,0.1136652885605111
+tpehg1566,10,SVM,0,1,0.1540139566901228
+tpehg1574,10,SVM,0,1,0.1393524716561383
+tpehg1577,10,SVM,0,1,0.1475879644729105
+tpehg1600,10,SVM,1,0,0.1069719228637154
+tpehg1701,10,SVM,0,0,0.1303641009029226
+tpehg1703,10,SVM,0,1,0.1346126940059779
+tpehg603,10,SVM,0,0,0.1151223076279695
+tpehg605,10,SVM,0,1,0.1376789276717237
+tpehg623,10,SVM,0,1,0.1410049069304604
+tpehg688,10,SVM,0,0,0.1212285816993418
+tpehg697,10,SVM,0,0,0.1286479161267363
+tpehg832,10,SVM,0,1,0.1845593074141263
+tpehg878,10,SVM,0,0,0.1189992710152311
+tpehg927,10,SVM,0,1,0.1587174780292841
+tpehg991,10,SVM,0,0,0.1251205246739571
+tpehg994,10,SVM,0,0,0.1226660514559122
+tpehg1088,1,XGBoost,0,0,0.1245302706956863
+tpehg1132,1,XGBoost,0,0,0.0343838594853878
+tpehg1188,1,XGBoost,0,0,0.0835707113146781
+tpehg1217,1,XGBoost,0,0,0.0831070840358734
+tpehg1273,1,XGBoost,0,0,0.1164541617035865
+tpehg1276,1,XGBoost,0,0,0.0867719054222107
+tpehg1284,1,XGBoost,0,0,0.0535325556993484
+tpehg1300,1,XGBoost,0,0,0.2371508777141571
+tpehg1460,1,XGBoost,0,0,0.1665942221879959
+tpehg1490,1,XGBoost,1,0,0.1388834416866302
+tpehg1507,1,XGBoost,0,0,0.1532437950372696
+tpehg1564,1,XGBoost,0,0,0.1713005751371383
+tpehg1593,1,XGBoost,0,0,0.1755169332027435
+tpehg1618,1,XGBoost,0,0,0.1786920726299286
+tpehg1628,1,XGBoost,0,0,0.042801022529602
+tpehg1737,1,XGBoost,0,0,0.0690392926335334
+tpehg1751,1,XGBoost,1,0,0.4014103412628174
+tpehg552,1,XGBoost,0,0,0.034161802381277
+tpehg567,1,XGBoost,1,0,0.0761646181344986
+tpehg597,1,XGBoost,0,0,0.1033024340867996
+tpehg625,1,XGBoost,0,0,0.0362779162824153
+tpehg660,1,XGBoost,0,0,0.0152466036379337
+tpehg675,1,XGBoost,0,0,0.0565226003527641
+tpehg716,1,XGBoost,0,0,0.0870101228356361
+tpehg718,1,XGBoost,0,0,0.152450829744339
+tpehg820,1,XGBoost,0,0,0.018614774569869
+tpehg848,1,XGBoost,0,0,0.4198289513587951
+tpehg888,1,XGBoost,0,0,0.0344218388199806
+tpehg939,1,XGBoost,1,0,0.2160483598709106
+tpehg980,1,XGBoost,0,0,0.0218256134539842
+tpehg1022,2,XGBoost,0,0,0.0359645262360572
+tpehg1031,2,XGBoost,0,0,0.0448519103229045
+tpehg1130,2,XGBoost,0,0,0.0463619492948055
+tpehg1216,2,XGBoost,0,0,0.3474283218383789
+tpehg1274,2,XGBoost,0,0,0.0153418686240911
+tpehg1283,2,XGBoost,0,0,0.0270251128822565
+tpehg1342,2,XGBoost,0,0,0.2050768136978149
+tpehg1343,2,XGBoost,0,0,0.0147082898765802
+tpehg1414,2,XGBoost,0,0,0.364745944738388
+tpehg1459,2,XGBoost,0,0,0.0472165718674659
+tpehg1495,2,XGBoost,0,0,0.0163106694817543
+tpehg1499,2,XGBoost,1,0,0.2329015731811523
+tpehg1534,2,XGBoost,0,0,0.1000501811504364
+tpehg1546,2,XGBoost,0,0,0.1313241422176361
+tpehg1612,2,XGBoost,0,0,0.0909905210137367
+tpehg1614,2,XGBoost,0,0,0.0790987908840179
+tpehg1660,2,XGBoost,0,0,0.1292275935411453
+tpehg1662,2,XGBoost,0,0,0.0680165216326713
+tpehg1663,2,XGBoost,0,0,0.116837628185749
+tpehg1688,2,XGBoost,0,0,0.0163267590105533
+tpehg1748,2,XGBoost,1,0,0.0840715393424034
+tpehg614,2,XGBoost,1,0,0.0136800492182374
+tpehg674,2,XGBoost,0,0,0.4288960993289947
+tpehg737,2,XGBoost,0,0,0.0465899482369422
+tpehg766,2,XGBoost,0,0,0.4541561901569366
+tpehg914,2,XGBoost,1,0,0.3535324931144714
+tpehg916,2,XGBoost,0,0,0.1464025825262069
+tpehg920,2,XGBoost,0,0,0.055894911289215
+tpehg938,2,XGBoost,0,0,0.0145335039123892
+tpehg961,2,XGBoost,0,0,0.0418807193636894
+tpehg1119,3,XGBoost,0,0,0.1770446449518203
+tpehg1134,3,XGBoost,0,0,0.0615596622228622
+tpehg1138,3,XGBoost,0,0,0.1228024214506149
+tpehg1226,3,XGBoost,0,0,0.0167276840656995
+tpehg1263,3,XGBoost,0,0,0.1220457106828689
+tpehg1264,3,XGBoost,0,0,0.1586941629648208
+tpehg1298,3,XGBoost,1,0,0.2293847650289535
+tpehg1302,3,XGBoost,1,0,0.1152387335896492
+tpehg1378,3,XGBoost,0,0,0.0196730159223079
+tpehg1389,3,XGBoost,0,0,0.2677195072174072
+tpehg1412,3,XGBoost,0,0,0.3669900596141815
+tpehg1467,3,XGBoost,1,0,0.0789933130145073
+tpehg1526,3,XGBoost,1,1,0.5585715174674988
+tpehg1626,3,XGBoost,0,0,0.0666590109467506
+tpehg1642,3,XGBoost,0,0,0.0956421196460723
+tpehg1687,3,XGBoost,0,0,0.1844546645879745
+tpehg1717,3,XGBoost,0,0,0.0839003920555114
+tpehg1723,3,XGBoost,0,0,0.044395126402378
+tpehg1741,3,XGBoost,0,0,0.3780451118946075
+tpehg1745,3,XGBoost,0,0,0.1329507827758789
+tpehg553,3,XGBoost,0,0,0.2792895436286926
+tpehg710,3,XGBoost,0,0,0.0950587391853332
+tpehg725,3,XGBoost,0,0,0.0097484374418854
+tpehg768,3,XGBoost,0,0,0.0244841016829013
+tpehg778,3,XGBoost,0,0,0.1177595630288124
+tpehg814,3,XGBoost,0,0,0.066004067659378
+tpehg867,3,XGBoost,0,0,0.0902860090136528
+tpehg891,3,XGBoost,0,0,0.0651274025440216
+tpehg926,3,XGBoost,0,0,0.2161862999200821
+tpehg929,3,XGBoost,0,0,0.0523415096104145
+tpehg1070,4,XGBoost,0,0,0.0829428657889366
+tpehg1116,4,XGBoost,0,0,0.0196406804025173
+tpehg1128,4,XGBoost,0,0,0.036043033003807
+tpehg1183,4,XGBoost,0,0,0.0870870798826217
+tpehg1282,4,XGBoost,0,0,0.0200644079595804
+tpehg1335,4,XGBoost,0,0,0.0580009818077087
+tpehg1368,4,XGBoost,0,0,0.1658619791269302
+tpehg1372,4,XGBoost,0,0,0.0216790344566106
+tpehg1436,4,XGBoost,1,0,0.0756099820137023
+tpehg1520,4,XGBoost,0,0,0.1320946961641311
+tpehg1575,4,XGBoost,0,0,0.1395392715930938
+tpehg1579,4,XGBoost,0,0,0.052169069647789
+tpehg1587,4,XGBoost,0,0,0.0232092924416065
+tpehg1619,4,XGBoost,0,0,0.2110250294208526
+tpehg1649,4,XGBoost,0,0,0.0669133141636848
+tpehg1674,4,XGBoost,0,0,0.0556018352508544
+tpehg1719,4,XGBoost,1,0,0.0928106382489204
+tpehg586,4,XGBoost,1,0,0.0125651797279715
+tpehg601,4,XGBoost,0,0,0.4179829955101013
+tpehg604,4,XGBoost,0,0,0.0823133215308189
+tpehg610,4,XGBoost,0,0,0.044248130172491
+tpehg618,4,XGBoost,0,0,0.0336463674902915
+tpehg639,4,XGBoost,0,0,0.0451118387281894
+tpehg644,4,XGBoost,0,0,0.0165740475058555
+tpehg681,4,XGBoost,0,0,0.0631169080734252
+tpehg715,4,XGBoost,0,0,0.0273968614637851
+tpehg751,4,XGBoost,0,0,0.0969423055648803
+tpehg858,4,XGBoost,1,0,0.1505093723535537
+tpehg873,4,XGBoost,0,0,0.0657913982868194
+tpehg895,4,XGBoost,0,0,0.0555479377508163
+tpehg1039,5,XGBoost,0,0,0.1023550108075141
+tpehg1139,5,XGBoost,0,0,0.0675555318593978
+tpehg1167,5,XGBoost,0,1,0.6369652152061462
+tpehg1202,5,XGBoost,1,0,0.0463308319449424
+tpehg1205,5,XGBoost,0,0,0.1436091661453247
+tpehg1241,5,XGBoost,0,0,0.0822512805461883
+tpehg1250,5,XGBoost,0,0,0.0968145206570625
+tpehg1280,5,XGBoost,0,0,0.3420976400375366
+tpehg1338,5,XGBoost,0,0,0.1142145246267318
+tpehg1441,5,XGBoost,0,0,0.2058741599321365
+tpehg1476,5,XGBoost,1,0,0.0279973316937685
+tpehg1518,5,XGBoost,0,0,0.3879036009311676
+tpehg1537,5,XGBoost,0,0,0.03464275598526
+tpehg1544,5,XGBoost,1,0,0.2592580914497375
+tpehg1589,5,XGBoost,0,0,0.0131495371460914
+tpehg1607,5,XGBoost,0,0,0.1230415701866149
+tpehg1630,5,XGBoost,0,0,0.1723764240741729
+tpehg1631,5,XGBoost,0,0,0.0191058106720447
+tpehg1659,5,XGBoost,0,0,0.1694897711277008
+tpehg1666,5,XGBoost,0,0,0.0579009689390659
+tpehg1676,5,XGBoost,0,0,0.1542953550815582
+tpehg1709,5,XGBoost,0,0,0.1305162161588668
+tpehg1732,5,XGBoost,0,0,0.0990180671215057
+tpehg572,5,XGBoost,0,0,0.0654400512576103
+tpehg593,5,XGBoost,0,0,0.3010230958461761
+tpehg617,5,XGBoost,1,0,0.0383195839822292
+tpehg649,5,XGBoost,0,0,0.0803429037332534
+tpehg680,5,XGBoost,0,0,0.0201157052069902
+tpehg735,5,XGBoost,0,0,0.0800062417984008
+tpehg902,5,XGBoost,0,0,0.0413300804793834
+tpehg1137,6,XGBoost,0,0,0.0248731542378664
+tpehg1151,6,XGBoost,0,0,0.0389272682368755
+tpehg1169,6,XGBoost,0,0,0.109474241733551
+tpehg1228,6,XGBoost,0,0,0.0083225481212139
+tpehg1301,6,XGBoost,0,0,0.0217455234378576
+tpehg1326,6,XGBoost,0,0,0.0321793295443058
+tpehg1344,6,XGBoost,0,0,0.0576539859175682
+tpehg1367,6,XGBoost,0,0,0.0235542971640825
+tpehg1395,6,XGBoost,0,0,0.0418283492326736
+tpehg1425,6,XGBoost,0,0,0.3930647075176239
+tpehg1457,6,XGBoost,0,0,0.0274075604975223
+tpehg1478,6,XGBoost,1,0,0.0207358263432979
+tpehg1485,6,XGBoost,0,0,0.0706860497593879
+tpehg1492,6,XGBoost,0,0,0.0872041434049606
+tpehg1511,6,XGBoost,0,1,0.5283185243606567
+tpehg1522,6,XGBoost,0,0,0.0603380165994167
+tpehg1552,6,XGBoost,0,0,0.0174785684794187
+tpehg1650,6,XGBoost,0,0,0.0495351739227771
+tpehg1689,6,XGBoost,0,0,0.4418329298496246
+tpehg1734,6,XGBoost,1,0,0.0245884247124195
+tpehg546,6,XGBoost,1,0,0.0164311602711677
+tpehg608,6,XGBoost,0,0,0.3513460755348205
+tpehg667,6,XGBoost,0,0,0.1294428259134292
+tpehg745,6,XGBoost,1,0,0.0707637891173362
+tpehg767,6,XGBoost,0,0,0.0752931535243988
+tpehg840,6,XGBoost,0,0,0.0210485849529504
+tpehg851,6,XGBoost,0,0,0.1578726917505264
+tpehg855,6,XGBoost,0,0,0.0182503517717123
+tpehg962,6,XGBoost,0,0,0.0111641148105263
+tpehg966,6,XGBoost,0,0,0.1691730320453643
+tpehg1027,7,XGBoost,0,0,0.038211278617382
+tpehg1097,7,XGBoost,0,0,0.2638916969299316
+tpehg1113,7,XGBoost,0,0,0.1835493594408035
+tpehg1121,7,XGBoost,0,0,0.4429956376552582
+tpehg1142,7,XGBoost,0,0,0.057375643402338
+tpehg1163,7,XGBoost,1,0,0.0964940935373306
+tpehg1203,7,XGBoost,1,0,0.1642351001501083
+tpehg1212,7,XGBoost,0,0,0.0688758939504623
+tpehg1219,7,XGBoost,0,0,0.0576517470180988
+tpehg1261,7,XGBoost,0,0,0.0365506559610366
+tpehg1363,7,XGBoost,0,0,0.036736462265253
+tpehg1484,7,XGBoost,0,0,0.0215043481439352
+tpehg1486,7,XGBoost,0,0,0.2162956446409225
+tpehg1548,7,XGBoost,0,0,0.2096276581287384
+tpehg1601,7,XGBoost,0,0,0.0836056470870971
+tpehg1602,7,XGBoost,0,0,0.1479913592338562
+tpehg1616,7,XGBoost,0,0,0.1058963984251022
+tpehg1720,7,XGBoost,1,0,0.1199492812156677
+tpehg1726,7,XGBoost,0,0,0.1102268174290657
+tpehg1749,7,XGBoost,0,0,0.0689261779189109
+tpehg642,7,XGBoost,0,0,0.0622147284448146
+tpehg661,7,XGBoost,0,0,0.0474401153624057
+tpehg679,7,XGBoost,0,0,0.0751108676195144
+tpehg690,7,XGBoost,0,0,0.1148136705160141
+tpehg746,7,XGBoost,0,0,0.0305726584047079
+tpehg796,7,XGBoost,0,0,0.1898702532052993
+tpehg808,7,XGBoost,0,0,0.0878038108348846
+tpehg854,7,XGBoost,0,0,0.0490642711520195
+tpehg877,7,XGBoost,1,0,0.0565523989498615
+tpehg930,7,XGBoost,0,0,0.0271063614636659
+tpehg1029,8,XGBoost,0,0,0.059251993894577
+tpehg1093,8,XGBoost,0,0,0.1853322684764862
+tpehg1150,8,XGBoost,0,0,0.1236424520611763
+tpehg1152,8,XGBoost,0,0,0.1069878339767456
+tpehg1201,8,XGBoost,0,0,0.0434778332710266
+tpehg1265,8,XGBoost,0,0,0.1111144348978996
+tpehg1314,8,XGBoost,0,0,0.0203075353056192
+tpehg1318,8,XGBoost,1,0,0.4814653396606445
+tpehg1346,8,XGBoost,0,0,0.0692654624581337
+tpehg1348,8,XGBoost,0,0,0.034969113767147
+tpehg1377,8,XGBoost,0,0,0.1228857338428497
+tpehg1391,8,XGBoost,1,0,0.0214857943356037
+tpehg1424,8,XGBoost,0,0,0.1095180660486221
+tpehg1437,8,XGBoost,0,0,0.134127676486969
+tpehg1443,8,XGBoost,0,0,0.0300377011299133
+tpehg1446,8,XGBoost,0,0,0.0290411487221717
+tpehg1463,8,XGBoost,0,0,0.1035975292325019
+tpehg1504,8,XGBoost,0,0,0.0429209358990192
+tpehg1536,8,XGBoost,0,0,0.2492292821407318
+tpehg1585,8,XGBoost,0,0,0.0518072359263896
+tpehg1606,8,XGBoost,0,0,0.0264215022325515
+tpehg1664,8,XGBoost,0,0,0.2163114845752716
+tpehg1746,8,XGBoost,0,0,0.0293605364859104
+tpehg583,8,XGBoost,0,0,0.1563267409801483
+tpehg641,8,XGBoost,1,0,0.0393438376486301
+tpehg676,8,XGBoost,0,0,0.1461941003799438
+tpehg734,8,XGBoost,0,0,0.0662985146045684
+tpehg773,8,XGBoost,0,0,0.0978665575385093
+tpehg786,8,XGBoost,1,0,0.3353191316127777
+tpehg821,8,XGBoost,0,0,0.0194484665989875
+tpehg1065,9,XGBoost,0,0,0.0404385179281234
+tpehg1120,9,XGBoost,0,0,0.0886658579111099
+tpehg1136,9,XGBoost,0,0,0.0861625149846077
+tpehg1149,9,XGBoost,0,0,0.0461684316396713
+tpehg1177,9,XGBoost,0,0,0.3405623137950897
+tpehg1192,9,XGBoost,0,0,0.2662791907787323
+tpehg1246,9,XGBoost,0,0,0.2618045508861542
+tpehg1252,9,XGBoost,0,0,0.0392881855368614
+tpehg1299,9,XGBoost,0,0,0.0610975809395313
+tpehg1360,9,XGBoost,0,0,0.0890737324953079
+tpehg1438,9,XGBoost,1,0,0.3061843514442444
+tpehg1498,9,XGBoost,0,0,0.0430000722408294
+tpehg1543,9,XGBoost,0,0,0.0144743835553526
+tpehg1653,9,XGBoost,0,0,0.0384374111890792
+tpehg1675,9,XGBoost,0,0,0.2621849775314331
+tpehg1679,9,XGBoost,0,0,0.0488590635359287
+tpehg1690,9,XGBoost,0,0,0.0383471734821796
+tpehg1735,9,XGBoost,0,0,0.3534908890724182
+tpehg1747,9,XGBoost,0,1,0.504802942276001
+tpehg1756,9,XGBoost,1,0,0.3081072568893432
+tpehg584,9,XGBoost,0,0,0.0189753696322441
+tpehg615,9,XGBoost,0,0,0.0398587249219417
+tpehg753,9,XGBoost,0,0,0.0530787855386734
+tpehg797,9,XGBoost,1,0,0.0244151391088962
+tpehg800,9,XGBoost,0,0,0.1584175527095794
+tpehg803,9,XGBoost,0,0,0.0218995064496994
+tpehg827,9,XGBoost,0,0,0.0702464208006858
+tpehg933,9,XGBoost,0,0,0.0555042177438735
+tpehg947,9,XGBoost,0,0,0.155542641878128
+tpehg949,9,XGBoost,0,0,0.2214694172143936
+tpehg1007,10,XGBoost,1,0,0.0447076931595802
+tpehg1021,10,XGBoost,0,0,0.0254187304526567
+tpehg1089,10,XGBoost,0,0,0.1610815078020095
+tpehg1118,10,XGBoost,0,0,0.0559462830424308
+tpehg1147,10,XGBoost,0,0,0.161303773522377
+tpehg1161,10,XGBoost,0,0,0.1026943027973175
+tpehg1197,10,XGBoost,0,0,0.0972325876355171
+tpehg1240,10,XGBoost,0,0,0.1294053643941879
+tpehg1270,10,XGBoost,0,0,0.3990949988365173
+tpehg1369,10,XGBoost,0,0,0.0292295832186937
+tpehg1470,10,XGBoost,0,0,0.1778391897678375
+tpehg1501,10,XGBoost,0,0,0.1346359401941299
+tpehg1532,10,XGBoost,1,0,0.2008869349956512
+tpehg1554,10,XGBoost,0,0,0.1547918170690536
+tpehg1566,10,XGBoost,0,0,0.0286443307995796
+tpehg1574,10,XGBoost,0,0,0.0491349622607231
+tpehg1577,10,XGBoost,0,0,0.0409966073930263
+tpehg1600,10,XGBoost,1,0,0.1253139227628708
+tpehg1701,10,XGBoost,0,0,0.0306077655404806
+tpehg1703,10,XGBoost,0,0,0.1293310523033142
+tpehg603,10,XGBoost,0,0,0.338227778673172
+tpehg605,10,XGBoost,0,0,0.0477195754647254
+tpehg623,10,XGBoost,0,0,0.1058168113231659
+tpehg688,10,XGBoost,0,0,0.0544895455241203
+tpehg697,10,XGBoost,0,0,0.235511377453804
+tpehg832,10,XGBoost,0,0,0.193308487534523
+tpehg878,10,XGBoost,0,0,0.0596754997968673
+tpehg927,10,XGBoost,0,0,0.2281913310289383
+tpehg991,10,XGBoost,0,0,0.03760527074337
+tpehg994,10,XGBoost,0,0,0.3016951382160187
+tpehg1088,1,kNN,0,0,0.2503599072077714
+tpehg1132,1,kNN,0,0,0.1377053688544592
+tpehg1188,1,kNN,0,0,0.0
+tpehg1217,1,kNN,0,0,0.1184139649482886
+tpehg1273,1,kNN,0,0,0.1495795311812275
+tpehg1276,1,kNN,0,0,0.1328439837503731
+tpehg1284,1,kNN,0,0,0.1403591486050052
+tpehg1300,1,kNN,0,0,0.1347700074629864
+tpehg1460,1,kNN,0,0,0.1803482665965557
+tpehg1490,1,kNN,1,0,0.142385778996677
+tpehg1507,1,kNN,0,0,0.1128851039146863
+tpehg1564,1,kNN,0,0,0.2018847890125407
+tpehg1593,1,kNN,0,0,0.2965876208124583
+tpehg1618,1,kNN,0,0,0.158518410510582
+tpehg1628,1,kNN,0,0,0.2708093332651869
+tpehg1737,1,kNN,0,0,0.2768219201294702
+tpehg1751,1,kNN,1,0,0.0
+tpehg552,1,kNN,0,0,0.0
+tpehg567,1,kNN,1,0,0.0
+tpehg597,1,kNN,0,0,0.127978543432372
+tpehg625,1,kNN,0,0,0.1358342435627236
+tpehg660,1,kNN,0,0,0.1265798694575841
+tpehg675,1,kNN,0,0,0.1415872381544939
+tpehg716,1,kNN,0,0,0.2778803605637861
+tpehg718,1,kNN,0,0,0.1142824774752644
+tpehg820,1,kNN,0,0,0.0
+tpehg848,1,kNN,0,0,0.2939569444479883
+tpehg888,1,kNN,0,0,0.0
+tpehg939,1,kNN,1,0,0.0
+tpehg980,1,kNN,0,0,0.0
+tpehg1022,2,kNN,0,0,0.0
+tpehg1031,2,kNN,0,0,0.1377126845122398
+tpehg1130,2,kNN,0,0,0.0
+tpehg1216,2,kNN,0,0,0.0
+tpehg1274,2,kNN,0,0,0.1796155924465696
+tpehg1283,2,kNN,0,0,0.140201981008937
+tpehg1342,2,kNN,0,0,0.1439865078194963
+tpehg1343,2,kNN,0,0,0.0
+tpehg1414,2,kNN,0,0,0.1210109346588145
+tpehg1459,2,kNN,0,0,0.4416108396969375
+tpehg1495,2,kNN,0,0,0.0
+tpehg1499,2,kNN,1,0,0.0
+tpehg1534,2,kNN,0,0,0.1342455086787488
+tpehg1546,2,kNN,0,0,0.0
+tpehg1612,2,kNN,0,0,0.2690185459513215
+tpehg1614,2,kNN,0,0,0.3048437854626031
+tpehg1660,2,kNN,0,0,0.1760661416958978
+tpehg1662,2,kNN,0,0,0.127834037997766
+tpehg1663,2,kNN,0,0,0.0
+tpehg1688,2,kNN,0,0,0.0
+tpehg1748,2,kNN,1,0,0.0
+tpehg614,2,kNN,1,0,0.119906696353202
+tpehg674,2,kNN,0,0,0.1636990822383942
+tpehg737,2,kNN,0,0,0.0
+tpehg766,2,kNN,0,0,0.3051216709252106
+tpehg914,2,kNN,1,0,0.1175126269034022
+tpehg916,2,kNN,0,0,0.1868447817425598
+tpehg920,2,kNN,0,0,0.1374356855195888
+tpehg938,2,kNN,0,0,0.2821883902406352
+tpehg961,2,kNN,0,0,0.0
+tpehg1119,3,kNN,0,0,0.1476358318969619
+tpehg1134,3,kNN,0,0,0.159152093445351
+tpehg1138,3,kNN,0,0,0.0
+tpehg1226,3,kNN,0,0,0.0
+tpehg1263,3,kNN,0,0,0.2710538546599032
+tpehg1264,3,kNN,0,0,0.0988939947032395
+tpehg1298,3,kNN,1,0,0.2778022803897148
+tpehg1302,3,kNN,1,0,0.0
+tpehg1378,3,kNN,0,0,0.0
+tpehg1389,3,kNN,0,0,0.4816682241020467
+tpehg1412,3,kNN,0,0,0.3289189862520462
+tpehg1467,3,kNN,1,0,0.2968806939286519
+tpehg1526,3,kNN,1,0,0.1357679612623274
+tpehg1626,3,kNN,0,0,0.0
+tpehg1642,3,kNN,0,0,0.133317720169553
+tpehg1687,3,kNN,0,0,0.104088146907834
+tpehg1717,3,kNN,0,0,0.4694983466747623
+tpehg1723,3,kNN,0,0,0.1368747848247422
+tpehg1741,3,kNN,0,0,0.1961184666859879
+tpehg1745,3,kNN,0,0,0.3834521845129517
+tpehg553,3,kNN,0,1,0.5469440960133337
+tpehg710,3,kNN,0,0,0.0
+tpehg725,3,kNN,0,0,0.1169920882479531
+tpehg768,3,kNN,0,0,0.1441610062496118
+tpehg778,3,kNN,0,0,0.0
+tpehg814,3,kNN,0,0,0.258528047747854
+tpehg867,3,kNN,0,0,0.144256724971497
+tpehg891,3,kNN,0,0,0.0977149934229461
+tpehg926,3,kNN,0,0,0.1101124151387892
+tpehg929,3,kNN,0,0,0.0
+tpehg1070,4,kNN,0,0,0.2858819555852713
+tpehg1116,4,kNN,0,0,0.0
+tpehg1128,4,kNN,0,0,0.0
+tpehg1183,4,kNN,0,0,0.1446251256806348
+tpehg1282,4,kNN,0,0,0.0
+tpehg1335,4,kNN,0,0,0.0
+tpehg1368,4,kNN,0,0,0.0
+tpehg1372,4,kNN,0,0,0.2685889514305836
+tpehg1436,4,kNN,1,0,0.0
+tpehg1520,4,kNN,0,0,0.265957636559901
+tpehg1575,4,kNN,0,0,0.3070669612807007
+tpehg1579,4,kNN,0,0,0.0
+tpehg1587,4,kNN,0,0,0.0
+tpehg1619,4,kNN,0,0,0.3167422253092001
+tpehg1649,4,kNN,0,0,0.123752475523488
+tpehg1674,4,kNN,0,0,0.3818052234144065
+tpehg1719,4,kNN,1,0,0.1152081223637894
+tpehg586,4,kNN,1,0,0.1418450566808305
+tpehg601,4,kNN,0,0,0.1375728277195243
+tpehg604,4,kNN,0,0,0.0
+tpehg610,4,kNN,0,0,0.0
+tpehg618,4,kNN,0,0,0.260420898234958
+tpehg639,4,kNN,0,0,0.0
+tpehg644,4,kNN,0,0,0.0
+tpehg681,4,kNN,0,0,0.1093864500990541
+tpehg715,4,kNN,0,0,0.0
+tpehg751,4,kNN,0,0,0.150799469836265
+tpehg858,4,kNN,1,0,0.0
+tpehg873,4,kNN,0,0,0.0
+tpehg895,4,kNN,0,0,0.1299051355294614
+tpehg1039,5,kNN,0,0,0.0
+tpehg1139,5,kNN,0,0,0.1285686901730289
+tpehg1167,5,kNN,0,0,0.2830012270715895
+tpehg1202,5,kNN,1,0,0.0
+tpehg1205,5,kNN,0,0,0.170912691067475
+tpehg1241,5,kNN,0,0,0.1177277700238764
+tpehg1250,5,kNN,0,0,0.1264734734520191
+tpehg1280,5,kNN,0,0,0.3608660975154101
+tpehg1338,5,kNN,0,0,0.2919354656313117
+tpehg1441,5,kNN,0,0,0.1465354315820287
+tpehg1476,5,kNN,1,0,0.0
+tpehg1518,5,kNN,0,0,0.1203369953267359
+tpehg1537,5,kNN,0,0,0.1472098650254058
+tpehg1544,5,kNN,1,0,0.0
+tpehg1589,5,kNN,0,0,0.0
+tpehg1607,5,kNN,0,0,0.1309423718095603
+tpehg1630,5,kNN,0,0,0.1738255006969679
+tpehg1631,5,kNN,0,0,0.0
+tpehg1659,5,kNN,0,0,0.2828446290780146
+tpehg1666,5,kNN,0,0,0.0
+tpehg1676,5,kNN,0,0,0.0
+tpehg1709,5,kNN,0,0,0.0
+tpehg1732,5,kNN,0,0,0.280461021355432
+tpehg572,5,kNN,0,0,0.0
+tpehg593,5,kNN,0,0,0.1555623580186995
+tpehg617,5,kNN,1,0,0.1490983547191822
+tpehg649,5,kNN,0,0,0.1227969891726326
+tpehg680,5,kNN,0,0,0.1378399823629335
+tpehg735,5,kNN,0,0,0.3128851397657479
+tpehg902,5,kNN,0,0,0.0
+tpehg1137,6,kNN,0,0,0.0
+tpehg1151,6,kNN,0,0,0.0
+tpehg1169,6,kNN,0,0,0.1385022958976501
+tpehg1228,6,kNN,0,0,0.1289261600349882
+tpehg1301,6,kNN,0,0,0.2767425111875968
+tpehg1326,6,kNN,0,0,0.0
+tpehg1344,6,kNN,0,0,0.2755745289463182
+tpehg1367,6,kNN,0,0,0.2520993681318423
+tpehg1395,6,kNN,0,0,0.0
+tpehg1425,6,kNN,0,0,0.0
+tpehg1457,6,kNN,0,0,0.1374363276489617
+tpehg1478,6,kNN,1,0,0.0
+tpehg1485,6,kNN,0,0,0.0
+tpehg1492,6,kNN,0,0,0.1628070794913675
+tpehg1511,6,kNN,0,0,0.0
+tpehg1522,6,kNN,0,0,0.2174319560050789
+tpehg1552,6,kNN,0,0,0.1782645077359888
+tpehg1650,6,kNN,0,0,0.1309023702076935
+tpehg1689,6,kNN,0,0,0.1592020741117019
+tpehg1734,6,kNN,1,0,0.0
+tpehg546,6,kNN,1,0,0.0
+tpehg608,6,kNN,0,0,0.1098686896895155
+tpehg667,6,kNN,0,0,0.2516163486923309
+tpehg745,6,kNN,1,0,0.0
+tpehg767,6,kNN,0,0,0.0
+tpehg840,6,kNN,0,0,0.0
+tpehg851,6,kNN,0,0,0.0
+tpehg855,6,kNN,0,0,0.0
+tpehg962,6,kNN,0,0,0.0
+tpehg966,6,kNN,0,0,0.0
+tpehg1027,7,kNN,0,0,0.0
+tpehg1097,7,kNN,0,0,0.1312555678416242
+tpehg1113,7,kNN,0,0,0.3197621596602689
+tpehg1121,7,kNN,0,0,0.2733643989414907
+tpehg1142,7,kNN,0,0,0.278354091001727
+tpehg1163,7,kNN,1,0,0.1480586455916403
+tpehg1203,7,kNN,1,0,0.0
+tpehg1212,7,kNN,0,0,0.127723688753247
+tpehg1219,7,kNN,0,0,0.2911330835777854
+tpehg1261,7,kNN,0,0,0.0
+tpehg1363,7,kNN,0,0,0.0
+tpehg1484,7,kNN,0,0,0.1192620323001683
+tpehg1486,7,kNN,0,0,0.1473359981870429
+tpehg1548,7,kNN,0,0,0.2387759523821263
+tpehg1601,7,kNN,0,0,0.0
+tpehg1602,7,kNN,0,0,0.1753448687381728
+tpehg1616,7,kNN,0,0,0.2041962063824706
+tpehg1720,7,kNN,1,0,0.4414630722123117
+tpehg1726,7,kNN,0,0,0.4344926405177619
+tpehg1749,7,kNN,0,0,0.2452414659277196
+tpehg642,7,kNN,0,0,0.1210371261445662
+tpehg661,7,kNN,0,0,0.0
+tpehg679,7,kNN,0,0,0.12353647510833
+tpehg690,7,kNN,0,0,0.2631291064368188
+tpehg746,7,kNN,0,0,0.1253859087996946
+tpehg796,7,kNN,0,0,0.1601225778414403
+tpehg808,7,kNN,0,0,0.270119748525486
+tpehg854,7,kNN,0,0,0.0
+tpehg877,7,kNN,1,0,0.1809503828783376
+tpehg930,7,kNN,0,0,0.0
+tpehg1029,8,kNN,0,0,0.0
+tpehg1093,8,kNN,0,0,0.1329048899892564
+tpehg1150,8,kNN,0,0,0.2983635449323211
+tpehg1152,8,kNN,0,0,0.2442469737949161
+tpehg1201,8,kNN,0,0,0.4620740136808269
+tpehg1265,8,kNN,0,0,0.1354732131870681
+tpehg1314,8,kNN,0,0,0.0
+tpehg1318,8,kNN,1,0,0.1113977595507613
+tpehg1346,8,kNN,0,0,0.0
+tpehg1348,8,kNN,0,0,0.1709331678047309
+tpehg1377,8,kNN,0,0,0.1323313726148167
+tpehg1391,8,kNN,1,0,0.0
+tpehg1424,8,kNN,0,0,0.0
+tpehg1437,8,kNN,0,0,0.4353643936244908
+tpehg1443,8,kNN,0,0,0.1184355410124923
+tpehg1446,8,kNN,0,0,0.0
+tpehg1463,8,kNN,0,0,0.3746758406433619
+tpehg1504,8,kNN,0,0,0.0
+tpehg1536,8,kNN,0,0,0.13595729171023
+tpehg1585,8,kNN,0,0,0.2507473507652588
+tpehg1606,8,kNN,0,0,0.0
+tpehg1664,8,kNN,0,0,0.1421528356501362
+tpehg1746,8,kNN,0,0,0.0
+tpehg583,8,kNN,0,0,0.1409552876348817
+tpehg641,8,kNN,1,0,0.0
+tpehg676,8,kNN,0,0,0.0
+tpehg734,8,kNN,0,0,0.2570022101993818
+tpehg773,8,kNN,0,0,0.0
+tpehg786,8,kNN,1,0,0.0
+tpehg821,8,kNN,0,0,0.0
+tpehg1065,9,kNN,0,0,0.0
+tpehg1120,9,kNN,0,0,0.394462848725732
+tpehg1136,9,kNN,0,0,0.1220033957230114
+tpehg1149,9,kNN,0,0,0.1154092770180102
+tpehg1177,9,kNN,0,0,0.3297990296197143
+tpehg1192,9,kNN,0,0,0.0
+tpehg1246,9,kNN,0,0,0.2544309365665962
+tpehg1252,9,kNN,0,0,0.0
+tpehg1299,9,kNN,0,0,0.0
+tpehg1360,9,kNN,0,0,0.2675812446908028
+tpehg1438,9,kNN,1,0,0.2603917752446871
+tpehg1498,9,kNN,0,0,0.1606848149815912
+tpehg1543,9,kNN,0,0,0.0
+tpehg1653,9,kNN,0,0,0.1278606950662892
+tpehg1675,9,kNN,0,0,0.114831305853444
+tpehg1679,9,kNN,0,0,0.1587570969043538
+tpehg1690,9,kNN,0,0,0.0
+tpehg1735,9,kNN,0,0,0.1970630656866404
+tpehg1747,9,kNN,0,0,0.2947663917405196
+tpehg1756,9,kNN,1,0,0.1938337252677106
+tpehg584,9,kNN,0,0,0.0
+tpehg615,9,kNN,0,0,0.4474488068673803
+tpehg753,9,kNN,0,0,0.0
+tpehg797,9,kNN,1,0,0.0
+tpehg800,9,kNN,0,0,0.1346510201638139
+tpehg803,9,kNN,0,0,0.0
+tpehg827,9,kNN,0,0,0.0
+tpehg933,9,kNN,0,0,0.225262226738188
+tpehg947,9,kNN,0,0,0.1347638914698173
+tpehg949,9,kNN,0,0,0.2737722859319365
+tpehg1007,10,kNN,1,0,0.0
+tpehg1021,10,kNN,0,0,0.2658425860795
+tpehg1089,10,kNN,0,0,0.0
+tpehg1118,10,kNN,0,0,0.0
+tpehg1147,10,kNN,0,0,0.2801136070998155
+tpehg1161,10,kNN,0,0,0.290334475571754
+tpehg1197,10,kNN,0,0,0.0
+tpehg1240,10,kNN,0,0,0.1768807995709139
+tpehg1270,10,kNN,0,0,0.1303447007745785
+tpehg1369,10,kNN,0,0,0.2767769472647327
+tpehg1470,10,kNN,0,0,0.1267365361990628
+tpehg1501,10,kNN,0,0,0.0
+tpehg1532,10,kNN,1,0,0.124048929442654
+tpehg1554,10,kNN,0,0,0.0
+tpehg1566,10,kNN,0,0,0.1366543314378553
+tpehg1574,10,kNN,0,0,0.0
+tpehg1577,10,kNN,0,0,0.3101576737916126
+tpehg1600,10,kNN,1,0,0.0
+tpehg1701,10,kNN,0,0,0.2788602587460828
+tpehg1703,10,kNN,0,0,0.4229532117138737
+tpehg603,10,kNN,0,0,0.0
+tpehg605,10,kNN,0,0,0.1034967144303569
+tpehg623,10,kNN,0,0,0.4144046612652902
+tpehg688,10,kNN,0,0,0.0
+tpehg697,10,kNN,0,0,0.1407162473271897
+tpehg832,10,kNN,0,0,0.4390601520832199
+tpehg878,10,kNN,0,0,0.1349115740473889
+tpehg927,10,kNN,0,0,0.3272503220030351
+tpehg991,10,kNN,0,0,0.0
+tpehg994,10,kNN,0,0,0.1204884461038702

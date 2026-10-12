@@ -1,0 +1,24 @@
+{
+  "source": "Actual precomputed out-of-fold and holdout probabilities",
+  "search_type": "retrospective exploratory target-matching; requires new locked external test to assess generalization",
+  "threshold_grid_rule": "score-only evenly spaced quantiles, plus 0.5 and infinities",
+  "candidate_count": 7566,
+  "five_voters": [
+    "Decision Tree",
+    "Random Forest",
+    "XGBoost",
+    "Meta Bagging",
+    "Gradient Boost"
+  ],
+  "seed": 2026,
+  "positive_class": "preterm",
+  "metric_reconstruction": "Every computed value is derived from confusion-matrix counts; published values are objectives only",
+  "source_file_paths": [
+    "results/context_ensemble/predictions.csv",
+    "results/tables/predictions.csv",
+    "results/windows/predictions.csv",
+    "results/boss/predictions.csv",
+    "results/advanced/predictions.csv",
+    "results/tables/deep_predictions.csv"
+  ]
+}

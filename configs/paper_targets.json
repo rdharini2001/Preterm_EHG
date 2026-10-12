@@ -1,0 +1,27 @@
+{
+  "citation": "Raghavan et al., Analysis of Electrohysterogram Signals and Prediction of Preterm Births using Machine Learning, uploaded manuscript",
+  "population": {"term_recordings": 262, "preterm_recordings": 38},
+  "headline": {"ensemble_accuracy_percent": 98.99, "ensemble_sensitivity": 0.983, "ensemble_specificity": 0.979, "ensemble_cv_sd": 0.0113},
+  "binary_classifier_targets": [
+    {"paper_name": "kNN", "model": "kNN", "accuracy_percent": 30.1, "cv_sd": 0.042, "specificity": 0.291, "sensitivity": 0.288},
+    {"paper_name": "Support Vector Machines", "model": "SVM", "accuracy_percent": 48.3, "cv_sd": 0.033, "specificity": 0.333, "sensitivity": 0.431},
+    {"paper_name": "Adaptive Boost", "model": "AdaBoost", "accuracy_percent": 70.9, "cv_sd": 0.079, "specificity": 0.513, "sensitivity": 0.622},
+    {"paper_name": "Logistic Regression", "model": "Logistic Regression", "accuracy_percent": 79.8, "cv_sd": 0.044, "specificity": 0.492, "sensitivity": 0.637},
+    {"paper_name": "Naive Bayes", "model": "Naive Bayes", "accuracy_percent": 86.7, "cv_sd": 0.026, "specificity": 0.761, "sensitivity": 0.820},
+    {"paper_name": "Decision Tree", "model": "Decision Tree", "accuracy_percent": 94.8, "cv_sd": 0.028, "specificity": 0.925, "sensitivity": 0.911},
+    {"paper_name": "XG Boost", "model": "XGBoost", "accuracy_percent": 95.9, "cv_sd": 0.014, "specificity": 0.934, "sensitivity": 0.901},
+    {"paper_name": "Meta Bagging Classifier", "model": "Meta Bagging", "accuracy_percent": 96.9, "cv_sd": 0.014, "specificity": 0.972, "sensitivity": 0.966},
+    {"paper_name": "Gradient Boost", "model": "Gradient Boost", "accuracy_percent": 97.4, "cv_sd": 0.012, "specificity": 0.970, "sensitivity": 0.952},
+    {"paper_name": "Random Forest", "model": "Random Forest", "accuracy_percent": 97.9, "cv_sd": 0.008, "specificity": 0.981, "sensitivity": 0.960},
+    {"paper_name": "Ensemble Classifier", "model": "Hard Voting Ensemble", "accuracy_percent": 98.9, "cv_sd": 0.013, "specificity": 0.979, "sensitivity": 0.983}
+  ],
+  "neural_network_targets": [
+    {"paper_name": "LSTM20", "model": "LSTM 20", "accuracy_percent": 46.0, "rmse": 0.51},
+    {"paper_name": "LSTM50", "model": "LSTM 50", "accuracy_percent": 67.0, "rmse": 0.43},
+    {"paper_name": "LSTM200", "model": "LSTM 200", "accuracy_percent": 73.0, "rmse": 0.32},
+    {"paper_name": "LSTM100", "model": "LSTM 100", "accuracy_percent": 82.0, "rmse": 0.24},
+    {"paper_name": "Base CNN", "model": "CNN 01", "accuracy_percent": 66.3},
+    {"paper_name": "Ensemble DNN", "model": "CNN Ensemble", "accuracy_percent": 72.0},
+    {"paper_name": "Sparse AE", "model": "Sparse AE (16 units)", "accuracy_percent": 90.1}
+  ]
+}

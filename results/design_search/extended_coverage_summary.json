@@ -1,0 +1,9 @@
+{
+  "existing_numerical_matches": 22,
+  "new_search_numerical_matches": 1,
+  "combined_numerical_matches": 22,
+  "total_in_study_targets": 75,
+  "newly_matched_target_ids": [],
+  "new_search_full_classifier_rows": 0,
+  "warning": "Different rows may rely on different experimental protocols. Matching paper numbers is retrospective; some experiment variants are explicitly leakage diagnostics."
+}

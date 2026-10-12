@@ -1,0 +1,12 @@
+{
+  "exact": 36,
+  "near": 25,
+  "unmatched": 14,
+  "total": 75,
+  "selection": "retrospective",
+  "near_tolerances": {
+    "accuracy_percentage_points": 0.2,
+    "class_rates": 0.005,
+    "cv_sd": 0.003
+  }
+}

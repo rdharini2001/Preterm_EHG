@@ -1,0 +1,8 @@
+{
+  "architecture": "36->64->16->64->36",
+  "loss": "MSE+L1 activations+L2 weights",
+  "folds": 5,
+  "epochs": 10,
+  "seed": 2026,
+  "unit": "within-record windows (record overlap between folds)"
+}

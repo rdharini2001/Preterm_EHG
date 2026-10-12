@@ -1,0 +1,17 @@
+name: Tests and result verification
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Dependencies
+        run: pip install -e '.[test]'
+      - name: Unit tests
+        run: python -m pytest -q
+      - name: Verify checked-in results
+        run: python -m tpehg.cli verify

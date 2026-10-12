@@ -1,0 +1,4 @@
+model,n,TN,FP,FN,TP,accuracy,balanced_accuracy,sensitivity,specificity,precision,f1,auc,folds,evaluation,word_length,alphabet,window_samples,window_shift_samples
+SFA/BOSS + Random Forest,300,262,0,38,0,0.87333333,0.50000000,0.00000000,1.00000000,0.00000000,0.00000000,0.52028927,10,stratified recording-disjoint CV,4,4,64,32
+SFA/BOSS + 1-NN,300,197,65,30,8,0.68333333,0.48121736,0.21052632,0.75190840,0.10958904,0.14414414,0.48121736,10,stratified recording-disjoint CV,4,4,64,32
+SFA/BOSS + LR,300,246,16,38,0,0.82000000,0.46946565,0.00000000,0.93893130,0.00000000,0.00000000,0.48292487,10,stratified recording-disjoint CV,4,4,64,32

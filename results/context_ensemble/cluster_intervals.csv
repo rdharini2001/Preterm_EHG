@@ -1,0 +1,37 @@
+protocol,model,metric,n_boot,cluster,lower_95,upper_95
+unseen_recordings,Decision Tree,accuracy,2000,independent EHG recording,0.77666667,0.84333333
+unseen_recordings,Decision Tree,sensitivity,2000,independent EHG recording,0.02631579,0.23684211
+unseen_recordings,Decision Tree,specificity,2000,independent EHG recording,0.87404580,0.94274809
+unseen_recordings,Gradient Boost,accuracy,2000,independent EHG recording,0.85000000,0.87333333
+unseen_recordings,Gradient Boost,sensitivity,2000,independent EHG recording,0.00000000,0.00000000
+unseen_recordings,Gradient Boost,specificity,2000,independent EHG recording,0.97328244,1.00000000
+unseen_recordings,Hard Voting Ensemble,accuracy,2000,independent EHG recording,0.85000000,0.87333333
+unseen_recordings,Hard Voting Ensemble,sensitivity,2000,independent EHG recording,0.00000000,0.00000000
+unseen_recordings,Hard Voting Ensemble,specificity,2000,independent EHG recording,0.97328244,1.00000000
+unseen_recordings,Meta Bagging,accuracy,2000,independent EHG recording,0.80333333,0.85008333
+unseen_recordings,Meta Bagging,sensitivity,2000,independent EHG recording,0.00000000,0.07894737
+unseen_recordings,Meta Bagging,specificity,2000,independent EHG recording,0.91603053,0.96946565
+unseen_recordings,Random Forest,accuracy,2000,independent EHG recording,0.85333333,0.88000000
+unseen_recordings,Random Forest,sensitivity,2000,independent EHG recording,0.00000000,0.07894737
+unseen_recordings,Random Forest,specificity,2000,independent EHG recording,0.97328244,1.00000000
+unseen_recordings,XGBoost,accuracy,2000,independent EHG recording,0.85666667,0.87333333
+unseen_recordings,XGBoost,sensitivity,2000,independent EHG recording,0.00000000,0.00000000
+unseen_recordings,XGBoost,specificity,2000,independent EHG recording,0.98091603,1.00000000
+within_record_windows,Decision Tree,accuracy,2000,independent EHG recording,0.95180208,0.98444792
+within_record_windows,Decision Tree,sensitivity,2000,independent EHG recording,0.67212171,0.90243969
+within_record_windows,Decision Tree,specificity,2000,independent EHG recording,0.98520992,1.00000000
+within_record_windows,Gradient Boost,accuracy,2000,independent EHG recording,0.99791667,1.00000000
+within_record_windows,Gradient Boost,sensitivity,2000,independent EHG recording,0.98355263,1.00000000
+within_record_windows,Gradient Boost,specificity,2000,independent EHG recording,1.00000000,1.00000000
+within_record_windows,Hard Voting Ensemble,accuracy,2000,independent EHG recording,0.98666319,0.99805556
+within_record_windows,Hard Voting Ensemble,sensitivity,2000,independent EHG recording,0.89470943,0.98464912
+within_record_windows,Hard Voting Ensemble,specificity,2000,independent EHG recording,1.00000000,1.00000000
+within_record_windows,Meta Bagging,accuracy,2000,independent EHG recording,0.95986111,0.98777778
+within_record_windows,Meta Bagging,sensitivity,2000,independent EHG recording,0.68311404,0.90350877
+within_record_windows,Meta Bagging,specificity,2000,independent EHG recording,1.00000000,1.00000000
+within_record_windows,Random Forest,accuracy,2000,independent EHG recording,0.97833333,0.99542014
+within_record_windows,Random Forest,sensitivity,2000,independent EHG recording,0.82894737,0.96384320
+within_record_windows,Random Forest,specificity,2000,independent EHG recording,1.00000000,1.00000000
+within_record_windows,XGBoost,accuracy,2000,independent EHG recording,0.99375000,1.00000000
+within_record_windows,XGBoost,sensitivity,2000,independent EHG recording,0.95065789,1.00000000
+within_record_windows,XGBoost,specificity,2000,independent EHG recording,1.00000000,1.00000000

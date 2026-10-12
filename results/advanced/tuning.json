@@ -1,0 +1,832 @@
+[
+  {
+    "fold": 1,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": null,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.6359294421003282,
+    "threshold": 0.5028974358974359,
+    "inner_balanced_accuracy": 0.621011964107677,
+    "inner_sensitivity": 0.4411764705882353,
+    "inner_specificity": 0.8008474576271186
+  },
+  {
+    "fold": 1,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 1
+    },
+    "inner_auc": 0.6470387910261329,
+    "threshold": 0.17777777777777778,
+    "inner_balanced_accuracy": 0.6165254237288136,
+    "inner_sensitivity": 0.5,
+    "inner_specificity": 0.7330508474576272
+  },
+  {
+    "fold": 1,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 0.1
+    },
+    "inner_auc": 0.6148715325930516,
+    "threshold": 0.1489813374441769,
+    "inner_balanced_accuracy": 0.5341475573280159,
+    "inner_sensitivity": 0.4411764705882353,
+    "inner_specificity": 0.6271186440677966
+  },
+  {
+    "fold": 1,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.03
+    },
+    "inner_auc": 0.5474478639035602,
+    "threshold": 0.5554368101306223,
+    "inner_balanced_accuracy": 0.5579511465603191,
+    "inner_sensitivity": 0.3235294117647059,
+    "inner_specificity": 0.7923728813559322
+  },
+  {
+    "fold": 1,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 15
+    },
+    "inner_auc": 0.6917249417249417,
+    "threshold": 0.1474191575547062,
+    "inner_balanced_accuracy": 0.6519192422731805,
+    "inner_sensitivity": 0.6470588235294118,
+    "inner_specificity": 0.6567796610169492
+  },
+  {
+    "fold": 1,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.23951631280636518,
+      "Extra Trees": 0.2716376806675426,
+      "RBF SVM": 0.03890443105178692,
+      "Logistic Regression": 0.08630344874399387,
+      "HistGB + oversampling": 0.3636381267303114
+    },
+    "threshold": 0.26607475483476767,
+    "inner_balanced_accuracy": 0.6416999002991026,
+    "inner_sensitivity": 0.5588235294117647,
+    "inner_specificity": 0.7245762711864406
+  },
+  {
+    "fold": 2,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": null,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.5124543471062458,
+    "threshold": 0.2511282051282051,
+    "inner_balanced_accuracy": 0.5573280159521435,
+    "inner_sensitivity": 0.9705882352941176,
+    "inner_specificity": 0.1440677966101695
+  },
+  {
+    "fold": 2,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 4
+    },
+    "inner_auc": 0.5379197689324272,
+    "threshold": 0.275137234547599,
+    "inner_balanced_accuracy": 0.5737786640079761,
+    "inner_sensitivity": 0.5882352941176471,
+    "inner_specificity": 0.559322033898305
+  },
+  {
+    "fold": 2,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 0.1
+    },
+    "inner_auc": 0.5569616155059193,
+    "threshold": 0.12676455277282778,
+    "inner_balanced_accuracy": 0.5304087736789631,
+    "inner_sensitivity": 0.3235294117647059,
+    "inner_specificity": 0.7372881355932204
+  },
+  {
+    "fold": 2,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.03
+    },
+    "inner_auc": 0.49200049832961223,
+    "threshold": 0.10618601252389845,
+    "inner_balanced_accuracy": 0.5405034895314058,
+    "inner_sensitivity": 0.9411764705882353,
+    "inner_specificity": 0.13983050847457626
+  },
+  {
+    "fold": 2,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 15
+    },
+    "inner_auc": 0.6065519688937411,
+    "threshold": 0.0633136448048057,
+    "inner_balanced_accuracy": 0.6046859421734796,
+    "inner_sensitivity": 0.7941176470588235,
+    "inner_specificity": 0.4152542372881356
+  },
+  {
+    "fold": 2,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.0966490809664908,
+      "Extra Trees": 0.19814025198140237,
+      "RBF SVM": 0.0966490809664908,
+      "Logistic Regression": 0.0966490809664908,
+      "HistGB + oversampling": 0.5119125051191252
+    },
+    "threshold": 0.16715675092012267,
+    "inner_balanced_accuracy": 0.5773928215353938,
+    "inner_sensitivity": 0.7352941176470589,
+    "inner_specificity": 0.4194915254237288
+  },
+  {
+    "fold": 3,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": null,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.5232741648880889,
+    "threshold": 0.4307692307692308,
+    "inner_balanced_accuracy": 0.5672981056829511,
+    "inner_sensitivity": 0.6176470588235294,
+    "inner_specificity": 0.5169491525423728
+  },
+  {
+    "fold": 3,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 4
+    },
+    "inner_auc": 0.5454799537078018,
+    "threshold": 0.18368170447549953,
+    "inner_balanced_accuracy": 0.5596959122632104,
+    "inner_sensitivity": 0.9117647058823529,
+    "inner_specificity": 0.2076271186440678
+  },
+  {
+    "fold": 3,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 0.1
+    },
+    "inner_auc": 0.5719176510315751,
+    "threshold": 0.13636610602362745,
+    "inner_balanced_accuracy": 0.5142073778664008,
+    "inner_sensitivity": 0.14705882352941177,
+    "inner_specificity": 0.8813559322033898
+  },
+  {
+    "fold": 3,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.03
+    },
+    "inner_auc": 0.47347870132680264,
+    "threshold": 0.5,
+    "inner_balanced_accuracy": 0.5280408773678963,
+    "inner_sensitivity": 0.38235294117647056,
+    "inner_specificity": 0.673728813559322
+  },
+  {
+    "fold": 3,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 15
+    },
+    "inner_auc": 0.5227387474222916,
+    "threshold": 0.057257620387301894,
+    "inner_balanced_accuracy": 0.5664257228315055,
+    "inner_sensitivity": 0.8235294117647058,
+    "inner_specificity": 0.3093220338983051
+  },
+  {
+    "fold": 3,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.18603380139577838,
+      "Extra Trees": 0.30795425880770255,
+      "RBF SVM": 0.16867064659883965,
+      "Logistic Regression": 0.16867064659883965,
+      "HistGB + oversampling": 0.16867064659883965
+    },
+    "threshold": 0.3051498298297708,
+    "inner_balanced_accuracy": 0.5572033898305084,
+    "inner_sensitivity": 0.5,
+    "inner_specificity": 0.614406779661017
+  },
+  {
+    "fold": 4,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": null,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.5511892291955584,
+    "threshold": 0.3794871794871795,
+    "inner_balanced_accuracy": 0.5649302093718844,
+    "inner_sensitivity": 0.6764705882352942,
+    "inner_specificity": 0.4533898305084746
+  },
+  {
+    "fold": 4,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 4
+    },
+    "inner_auc": 0.5298337972388606,
+    "threshold": 0.2636992192910502,
+    "inner_balanced_accuracy": 0.5608175473579262,
+    "inner_sensitivity": 0.6470588235294118,
+    "inner_specificity": 0.4745762711864407
+  },
+  {
+    "fold": 4,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 2.0
+    },
+    "inner_auc": 0.5182439454591353,
+    "threshold": 0.10622341896557087,
+    "inner_balanced_accuracy": 0.5164506480558325,
+    "inner_sensitivity": 0.6176470588235294,
+    "inner_specificity": 0.4152542372881356
+  },
+  {
+    "fold": 4,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.5
+    },
+    "inner_auc": 0.4893928738865448,
+    "threshold": 0.002133155488886277,
+    "inner_balanced_accuracy": 0.523678963110668,
+    "inner_sensitivity": 0.9117647058823529,
+    "inner_specificity": 0.13559322033898305
+  },
+  {
+    "fold": 4,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 5
+    },
+    "inner_auc": 0.6266564541880998,
+    "threshold": 0.2044784258447548,
+    "inner_balanced_accuracy": 0.6246261216350948,
+    "inner_sensitivity": 0.5882352941176471,
+    "inner_specificity": 0.6610169491525424
+  },
+  {
+    "fold": 4,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.20788595970210655,
+      "Extra Trees": 0.11250970895965615,
+      "RBF SVM": 0.09165257915657692,
+      "Logistic Regression": 0.09165257915657692,
+      "HistGB + oversampling": 0.4962991730250835
+    },
+    "threshold": 0.27409938713238147,
+    "inner_balanced_accuracy": 0.607801595214357,
+    "inner_sensitivity": 0.5588235294117647,
+    "inner_specificity": 0.6567796610169492
+  },
+  {
+    "fold": 5,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": 4,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.5680264999885253,
+    "threshold": 0.3659434427334093,
+    "inner_balanced_accuracy": 0.5838733798604188,
+    "inner_sensitivity": 0.7058823529411765,
+    "inner_specificity": 0.461864406779661
+  },
+  {
+    "fold": 5,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 4
+    },
+    "inner_auc": 0.5507103655837833,
+    "threshold": 0.3579936905298629,
+    "inner_balanced_accuracy": 0.5747756729810568,
+    "inner_sensitivity": 0.35294117647058826,
+    "inner_specificity": 0.7966101694915254
+  },
+  {
+    "fold": 5,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 2.0
+    },
+    "inner_auc": 0.5584340647631787,
+    "threshold": 0.10515830332130319,
+    "inner_balanced_accuracy": 0.519690927218345,
+    "inner_sensitivity": 0.8529411764705882,
+    "inner_specificity": 0.1864406779661017
+  },
+  {
+    "fold": 5,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.03
+    },
+    "inner_auc": 0.5924094072828251,
+    "threshold": 0.5040522991373036,
+    "inner_balanced_accuracy": 0.607926221335992,
+    "inner_sensitivity": 0.5294117647058824,
+    "inner_specificity": 0.6864406779661016
+  },
+  {
+    "fold": 5,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 5
+    },
+    "inner_auc": 0.6044959494326583,
+    "threshold": 0.2092529279005188,
+    "inner_balanced_accuracy": 0.6186440677966102,
+    "inner_sensitivity": 0.5,
+    "inner_specificity": 0.7372881355932204
+  },
+  {
+    "fold": 5,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.22414592672746944,
+      "Extra Trees": 0.1564236762876428,
+      "RBF SVM": 0.059065580166213966,
+      "Logistic Regression": 0.27144108532267447,
+      "HistGB + oversampling": 0.28892373149599926
+    },
+    "threshold": 0.3533289515090748,
+    "inner_balanced_accuracy": 0.6080508474576272,
+    "inner_sensitivity": 0.5,
+    "inner_specificity": 0.7161016949152542
+  },
+  {
+    "fold": 6,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": 4,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.6388835613519158,
+    "threshold": 0.4617646464646465,
+    "inner_balanced_accuracy": 0.6247507477567298,
+    "inner_sensitivity": 0.5588235294117647,
+    "inner_specificity": 0.690677966101695
+  },
+  {
+    "fold": 6,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 1
+    },
+    "inner_auc": 0.6731826541953124,
+    "threshold": 0.08888888888888889,
+    "inner_balanced_accuracy": 0.644690927218345,
+    "inner_sensitivity": 0.8529411764705882,
+    "inner_specificity": 0.4364406779661017
+  },
+  {
+    "fold": 6,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 0.1
+    },
+    "inner_auc": 0.6390341667240401,
+    "threshold": 0.14398372392447187,
+    "inner_balanced_accuracy": 0.5104685942173479,
+    "inner_sensitivity": 0.029411764705882353,
+    "inner_specificity": 0.9915254237288136
+  },
+  {
+    "fold": 6,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.03
+    },
+    "inner_auc": 0.6198101593671214,
+    "threshold": 0.23081759493566945,
+    "inner_balanced_accuracy": 0.6170239282153539,
+    "inner_sensitivity": 0.8823529411764706,
+    "inner_specificity": 0.3516949152542373
+  },
+  {
+    "fold": 6,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 15
+    },
+    "inner_auc": 0.621015821965189,
+    "threshold": 0.20726965413697496,
+    "inner_balanced_accuracy": 0.6481804586241275,
+    "inner_sensitivity": 0.5294117647058824,
+    "inner_specificity": 0.7669491525423728
+  },
+  {
+    "fold": 6,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.23359293248261379,
+      "Extra Trees": 0.2934380990304388,
+      "RBF SVM": 0.0371526202228046,
+      "Logistic Regression": 0.21333586450220862,
+      "HistGB + oversampling": 0.22248048376193413
+    },
+    "threshold": 0.35972458565215737,
+    "inner_balanced_accuracy": 0.6483050847457628,
+    "inner_sensitivity": 0.5,
+    "inner_specificity": 0.7966101694915254
+  },
+  {
+    "fold": 7,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": 4,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.5728192342116393,
+    "threshold": 0.4590314017235892,
+    "inner_balanced_accuracy": 0.5744017946161515,
+    "inner_sensitivity": 0.4411764705882353,
+    "inner_specificity": 0.7076271186440678
+  },
+  {
+    "fold": 7,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 4
+    },
+    "inner_auc": 0.5288752503942377,
+    "threshold": 0.20285734866932814,
+    "inner_balanced_accuracy": 0.5874875373878364,
+    "inner_sensitivity": 0.8529411764705882,
+    "inner_specificity": 0.3220338983050847
+  },
+  {
+    "fold": 7,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 0.1
+    },
+    "inner_auc": 0.5230674154724787,
+    "threshold": 0.11472671774592931,
+    "inner_balanced_accuracy": 0.5345214356929212,
+    "inner_sensitivity": 0.35294117647058826,
+    "inner_specificity": 0.7161016949152542
+  },
+  {
+    "fold": 7,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.03
+    },
+    "inner_auc": 0.45722848412721834,
+    "threshold": 0.6345139198506484,
+    "inner_balanced_accuracy": 0.5205633100697906,
+    "inner_sensitivity": 0.14705882352941177,
+    "inner_specificity": 0.8940677966101694
+  },
+  {
+    "fold": 7,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 5
+    },
+    "inner_auc": 0.48816385208790275,
+    "threshold": 0.11132358394415742,
+    "inner_balanced_accuracy": 0.5270438683948155,
+    "inner_sensitivity": 0.6176470588235294,
+    "inner_specificity": 0.4364406779661017
+  },
+  {
+    "fold": 7,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.43212318553908924,
+      "Extra Trees": 0.20160676790115947,
+      "RBF SVM": 0.1220900155199171,
+      "Logistic Regression": 0.1220900155199171,
+      "HistGB + oversampling": 0.1220900155199171
+    },
+    "threshold": 0.23080278678002172,
+    "inner_balanced_accuracy": 0.5429960119641076,
+    "inner_sensitivity": 0.8529411764705882,
+    "inner_specificity": 0.2330508474576271
+  },
+  {
+    "fold": 8,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": null,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.6061501496628079,
+    "threshold": 0.33076923076923076,
+    "inner_balanced_accuracy": 0.5811316051844466,
+    "inner_sensitivity": 0.8529411764705882,
+    "inner_specificity": 0.3093220338983051
+  },
+  {
+    "fold": 8,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 4
+    },
+    "inner_auc": 0.6055110501313031,
+    "threshold": 0.3180019667792146,
+    "inner_balanced_accuracy": 0.6015702891326022,
+    "inner_sensitivity": 0.5294117647058824,
+    "inner_specificity": 0.673728813559322
+  },
+  {
+    "fold": 8,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 0.1
+    },
+    "inner_auc": 0.5844398217815939,
+    "threshold": 0.1102097179733458,
+    "inner_balanced_accuracy": 0.5063559322033898,
+    "inner_sensitivity": 1.0,
+    "inner_specificity": 0.012711864406779662
+  },
+  {
+    "fold": 8,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.5
+    },
+    "inner_auc": 0.561866637816005,
+    "threshold": 0.648589411087714,
+    "inner_balanced_accuracy": 0.5706630109670987,
+    "inner_sensitivity": 0.3235294117647059,
+    "inner_specificity": 0.8177966101694916
+  },
+  {
+    "fold": 8,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 5
+    },
+    "inner_auc": 0.5810392139506063,
+    "threshold": 0.3807119829946045,
+    "inner_balanced_accuracy": 0.5877367896311066,
+    "inner_sensitivity": 0.29411764705882354,
+    "inner_specificity": 0.8813559322033898
+  },
+  {
+    "fold": 8,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.2557249635210383,
+      "Extra Trees": 0.29964861082159566,
+      "RBF SVM": 0.05973616032875734,
+      "Logistic Regression": 0.16415532592835255,
+      "HistGB + oversampling": 0.2207349394002561
+    },
+    "threshold": 0.43777335735904904,
+    "inner_balanced_accuracy": 0.5940927218344965,
+    "inner_sensitivity": 0.29411764705882354,
+    "inner_specificity": 0.8940677966101694
+  },
+  {
+    "fold": 9,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": null,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.558354971329655,
+    "threshold": 0.3606923076923077,
+    "inner_balanced_accuracy": 0.5826747720364742,
+    "inner_sensitivity": 0.7142857142857143,
+    "inner_specificity": 0.451063829787234
+  },
+  {
+    "fold": 9,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 4
+    },
+    "inner_auc": 0.5561883030237461,
+    "threshold": 0.24398006421573176,
+    "inner_balanced_accuracy": 0.5990881458966566,
+    "inner_sensitivity": 0.7428571428571429,
+    "inner_specificity": 0.4553191489361702
+  },
+  {
+    "fold": 9,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 0.1
+    },
+    "inner_auc": 0.6130509492851265,
+    "threshold": 0.09933784785618506,
+    "inner_balanced_accuracy": 0.5234042553191489,
+    "inner_sensitivity": 1.0,
+    "inner_specificity": 0.04680851063829787
+  },
+  {
+    "fold": 9,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.03
+    },
+    "inner_auc": 0.5346601359259587,
+    "threshold": 0.425939325744629,
+    "inner_balanced_accuracy": 0.558662613981763,
+    "inner_sensitivity": 0.5428571428571428,
+    "inner_specificity": 0.574468085106383
+  },
+  {
+    "fold": 9,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 5
+    },
+    "inner_auc": 0.5967915113484733,
+    "threshold": 0.1763393812345463,
+    "inner_balanced_accuracy": 0.6054711246200608,
+    "inner_sensitivity": 0.5428571428571428,
+    "inner_specificity": 0.6680851063829787
+  },
+  {
+    "fold": 9,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.21788729180926286,
+      "Extra Trees": 0.21149897330595469,
+      "RBF SVM": 0.0750627424138718,
+      "Logistic Regression": 0.11111111111111152,
+      "HistGB + oversampling": 0.38443988135979906
+    },
+    "threshold": 0.2860291890266982,
+    "inner_balanced_accuracy": 0.6155015197568389,
+    "inner_sensitivity": 0.5714285714285714,
+    "inner_specificity": 0.6595744680851063
+  },
+  {
+    "fold": 10,
+    "model": "Balanced Random Forest",
+    "best_params": {
+      "model__max_depth": 4,
+      "model__min_samples_leaf": 2
+    },
+    "inner_auc": 0.52221746842,
+    "threshold": 0.2870666854513008,
+    "inner_balanced_accuracy": 0.5492401215805471,
+    "inner_sensitivity": 0.8857142857142857,
+    "inner_specificity": 0.2127659574468085
+  },
+  {
+    "fold": 10,
+    "model": "Extra Trees",
+    "best_params": {
+      "model__min_samples_leaf": 4
+    },
+    "inner_auc": 0.5581603113248682,
+    "threshold": 0.20925392097583748,
+    "inner_balanced_accuracy": 0.5866261398176292,
+    "inner_sensitivity": 0.8285714285714286,
+    "inner_specificity": 0.3446808510638298
+  },
+  {
+    "fold": 10,
+    "model": "RBF SVM",
+    "best_params": {
+      "model__C": 0.1
+    },
+    "inner_auc": 0.6019670086125782,
+    "threshold": 0.13585781594169838,
+    "inner_balanced_accuracy": 0.5282674772036474,
+    "inner_sensitivity": 0.17142857142857143,
+    "inner_specificity": 0.8851063829787233
+  },
+  {
+    "fold": 10,
+    "model": "Logistic Regression",
+    "best_params": {
+      "model__C": 0.03
+    },
+    "inner_auc": 0.538079185231084,
+    "threshold": 0.5566111902877541,
+    "inner_balanced_accuracy": 0.5580547112462007,
+    "inner_sensitivity": 0.37142857142857144,
+    "inner_specificity": 0.7446808510638298
+  },
+  {
+    "fold": 10,
+    "model": "HistGB + oversampling",
+    "best_params": {
+      "model__max_leaf_nodes": 5
+    },
+    "inner_auc": 0.5525204987230303,
+    "threshold": 0.316009361165234,
+    "inner_balanced_accuracy": 0.5592705167173253,
+    "inner_sensitivity": 0.3142857142857143,
+    "inner_specificity": 0.8042553191489362
+  },
+  {
+    "fold": 10,
+    "model": "Calibrated Soft Ensemble",
+    "base_models": [
+      "Balanced Random Forest",
+      "Extra Trees",
+      "RBF SVM",
+      "Logistic Regression",
+      "HistGB + oversampling"
+    ],
+    "weights": {
+      "Balanced Random Forest": 0.11729746637472606,
+      "Extra Trees": 0.3174851423209259,
+      "RBF SVM": 0.10290897716609317,
+      "Logistic Regression": 0.19674695026587455,
+      "HistGB + oversampling": 0.2655614638723802
+    },
+    "threshold": 0.35796350065270455,
+    "inner_balanced_accuracy": 0.5680851063829787,
+    "inner_sensitivity": 0.4,
+    "inner_specificity": 0.7361702127659574
+  }
+]

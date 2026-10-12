@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 240" role="img" aria-label="EHG waveform preprocessing to models to predictions">
+<defs><linearGradient id="sky" x1="0" x2="1"><stop stop-color="#102d4d"/><stop offset="1" stop-color="#1c5974"/></linearGradient></defs>
+<rect width="1050" height="240" rx="20" fill="url(#sky)"/>
+<text x="45" y="48" font-family="Arial" font-weight="bold" font-size="23" fill="white">TPEHG · Preterm Birth Classification</text>
+<text x="45" y="71" font-family="Arial" font-size="13" fill="#c9dceb">300 recordings · 3 EHG channels · 5 feature families · ML &amp; neural networks</text>
+<rect x="34" y="101" width="212" height="98" rx="12" fill="#244c69" stroke="#578c9e"/>
+<text x="56" y="126" font-family="Arial" font-size="15" font-weight="bold" fill="#fff">Electrohysterogram</text>
+<path d="M52 164 L70 164 L80 157 L89 171 L97 144 L105 179 L113 156 L126 163 L148 163 L164 146 L170 181 L180 156 L196 163 L223 163" stroke="#89d3c8" stroke-width="2.4" fill="none"/>
+<path d="M251 148 H284 L274 139 M284 148 L274 157" stroke="#cee7ee" stroke-width="2" fill="none"/>
+<rect x="291" y="101" width="216" height="98" rx="12" fill="#244c69" stroke="#578c9e"/>
+<text x="315" y="127" font-family="Arial" font-size="16" font-weight="bold" fill="#fff">Signal features</text>
+<text x="315" y="150" font-family="Arial" font-size="12.8" fill="#d9e5f1">Median / peak frequency</text>
+<text x="315" y="169" font-family="Arial" font-size="12.8" fill="#d9e5f1">RMS · zero-crossing · variance</text>
+<path d="M514 148 H547 L537 139 M547 148 L537 157" stroke="#cee7ee" stroke-width="2" fill="none"/>
+<rect x="554" y="101" width="216" height="98" rx="12" fill="#244c69" stroke="#578c9e"/>
+<text x="578" y="127" font-family="Arial" font-size="16" font-weight="bold" fill="#fff">Train &amp; validate</text>
+<text x="578" y="151" font-family="Arial" font-size="12.8" fill="#d9e5f1">10-fold ML · Hard voting</text>
+<text x="578" y="170" font-family="Arial" font-size="12.8" fill="#d9e5f1">CNNs · LSTMs · Sparse AE</text>
+<path d="M777 148 H810 L800 139 M810 148 L800 157" stroke="#cee7ee" stroke-width="2" fill="none"/>
+<rect x="817" y="101" width="199" height="98" rx="12" fill="#244c69" stroke="#578c9e"/>
+<text x="842" y="127" font-family="Arial" font-size="16" font-weight="bold" fill="#fff">Predictions</text>
+<text x="842" y="153" font-family="Arial" font-size="14" fill="#94e6d4">Term / Preterm</text>
+<text x="842" y="176" font-family="Arial" font-size="12.5" fill="#d9e5f1">Metrics &amp; ROC curves</text>
+</svg>

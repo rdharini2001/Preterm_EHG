@@ -1,0 +1,11 @@
+{
+  "total_metric_occurrences": 85,
+  "own_experimental_metric_occurrences": 75,
+  "external_literature_metric_occurrences": 10,
+  "target_guided_individual_printed_precision_matches": 22,
+  "unmatched_own_occurrences": 53,
+  "binary_classifier_rows_incompatible_with_one_confusion_matrix": 9,
+  "binary_classifier_rows_incompatible_with_300_record_prevalence": 10,
+  "full_classifier_rows_matched_by_one_computed_candidate": 0,
+  "validation_note": "Numerical matching is retrospective and metric-specific; the output is not a claim of reproduction of the authors original protocol."
+}

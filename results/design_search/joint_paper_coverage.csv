@@ -1,0 +1,91 @@
+paper_model,evaluation,feature_view,match_accuracy,match_sensitivity,match_specificity,match_cv_sd,joint_exact
+Decision Tree,pre_cv_oversampling_diagnostic,paper_five,False,False,False,False,False
+Decision Tree,pre_cv_smote_diagnostic,paper_five,False,False,False,False,False
+Decision Tree,record_cv,paper_five,False,False,False,False,False
+Decision Tree,train_fold_oversampling,paper_five,False,False,False,False,False
+Decision Tree,train_fold_smote,paper_five,False,False,False,False,False
+Decision Tree,pre_cv_oversampling_diagnostic,three_frequency_bands,False,False,False,False,False
+Decision Tree,pre_cv_smote_diagnostic,three_frequency_bands,False,False,False,False,False
+Decision Tree,record_cv,three_frequency_bands,False,False,False,False,False
+Decision Tree,train_fold_oversampling,three_frequency_bands,False,False,False,False,False
+Decision Tree,train_fold_smote,three_frequency_bands,False,False,False,False,False
+Decision Tree,pre_cv_oversampling_diagnostic,trimmed_180s,False,False,False,False,False
+Decision Tree,pre_cv_smote_diagnostic,trimmed_180s,False,False,False,False,False
+Decision Tree,record_cv,trimmed_180s,False,False,False,False,False
+Decision Tree,train_fold_oversampling,trimmed_180s,False,False,False,False,False
+Decision Tree,train_fold_smote,trimmed_180s,False,False,False,False,False
+XG Boost,pre_cv_oversampling_diagnostic,paper_five,False,False,False,False,False
+XG Boost,pre_cv_smote_diagnostic,paper_five,False,False,False,False,False
+XG Boost,record_cv,paper_five,False,False,False,False,False
+XG Boost,train_fold_oversampling,paper_five,False,False,False,False,False
+XG Boost,train_fold_smote,paper_five,False,False,False,False,False
+XG Boost,pre_cv_oversampling_diagnostic,three_frequency_bands,False,False,False,False,False
+XG Boost,pre_cv_smote_diagnostic,three_frequency_bands,False,False,False,False,False
+XG Boost,record_cv,three_frequency_bands,False,False,False,False,False
+XG Boost,train_fold_oversampling,three_frequency_bands,False,False,False,False,False
+XG Boost,train_fold_smote,three_frequency_bands,False,False,False,False,False
+XG Boost,pre_cv_oversampling_diagnostic,trimmed_180s,False,False,False,False,False
+XG Boost,pre_cv_smote_diagnostic,trimmed_180s,False,False,False,False,False
+XG Boost,record_cv,trimmed_180s,False,False,False,False,False
+XG Boost,train_fold_oversampling,trimmed_180s,False,False,False,False,False
+XG Boost,train_fold_smote,trimmed_180s,False,False,False,False,False
+Meta Bagging Classifier,pre_cv_oversampling_diagnostic,paper_five,False,False,False,False,False
+Meta Bagging Classifier,pre_cv_smote_diagnostic,paper_five,False,False,False,False,False
+Meta Bagging Classifier,record_cv,paper_five,False,False,False,False,False
+Meta Bagging Classifier,train_fold_oversampling,paper_five,False,False,False,False,False
+Meta Bagging Classifier,train_fold_smote,paper_five,False,False,False,False,False
+Meta Bagging Classifier,pre_cv_oversampling_diagnostic,three_frequency_bands,False,False,False,False,False
+Meta Bagging Classifier,pre_cv_smote_diagnostic,three_frequency_bands,False,False,False,False,False
+Meta Bagging Classifier,record_cv,three_frequency_bands,False,False,False,False,False
+Meta Bagging Classifier,train_fold_oversampling,three_frequency_bands,False,False,False,False,False
+Meta Bagging Classifier,train_fold_smote,three_frequency_bands,False,False,False,False,False
+Meta Bagging Classifier,pre_cv_oversampling_diagnostic,trimmed_180s,False,False,False,False,False
+Meta Bagging Classifier,pre_cv_smote_diagnostic,trimmed_180s,False,False,False,False,False
+Meta Bagging Classifier,record_cv,trimmed_180s,False,False,False,False,False
+Meta Bagging Classifier,train_fold_oversampling,trimmed_180s,False,False,False,False,False
+Meta Bagging Classifier,train_fold_smote,trimmed_180s,False,False,False,False,False
+Gradient Boost,pre_cv_oversampling_diagnostic,paper_five,False,False,False,False,False
+Gradient Boost,pre_cv_smote_diagnostic,paper_five,False,False,False,False,False
+Gradient Boost,record_cv,paper_five,False,False,False,False,False
+Gradient Boost,train_fold_oversampling,paper_five,False,False,False,False,False
+Gradient Boost,train_fold_smote,paper_five,False,False,False,False,False
+Gradient Boost,pre_cv_oversampling_diagnostic,three_frequency_bands,False,False,False,False,False
+Gradient Boost,pre_cv_smote_diagnostic,three_frequency_bands,False,False,False,False,False
+Gradient Boost,record_cv,three_frequency_bands,False,False,False,False,False
+Gradient Boost,train_fold_oversampling,three_frequency_bands,False,False,False,False,False
+Gradient Boost,train_fold_smote,three_frequency_bands,False,False,False,False,False
+Gradient Boost,pre_cv_oversampling_diagnostic,trimmed_180s,False,False,False,False,False
+Gradient Boost,pre_cv_smote_diagnostic,trimmed_180s,False,False,False,False,False
+Gradient Boost,record_cv,trimmed_180s,False,False,False,False,False
+Gradient Boost,train_fold_oversampling,trimmed_180s,False,False,False,False,False
+Gradient Boost,train_fold_smote,trimmed_180s,False,False,False,False,False
+Random Forest,pre_cv_oversampling_diagnostic,paper_five,False,False,False,False,False
+Random Forest,pre_cv_smote_diagnostic,paper_five,False,False,False,False,False
+Random Forest,record_cv,paper_five,False,False,False,False,False
+Random Forest,train_fold_oversampling,paper_five,False,False,False,False,False
+Random Forest,train_fold_smote,paper_five,False,False,False,False,False
+Random Forest,pre_cv_oversampling_diagnostic,three_frequency_bands,False,False,False,False,False
+Random Forest,pre_cv_smote_diagnostic,three_frequency_bands,False,False,False,False,False
+Random Forest,record_cv,three_frequency_bands,False,False,False,False,False
+Random Forest,train_fold_oversampling,three_frequency_bands,False,False,False,False,False
+Random Forest,train_fold_smote,three_frequency_bands,False,False,False,False,False
+Random Forest,pre_cv_oversampling_diagnostic,trimmed_180s,False,False,False,False,False
+Random Forest,pre_cv_smote_diagnostic,trimmed_180s,False,False,False,False,False
+Random Forest,record_cv,trimmed_180s,False,False,False,False,False
+Random Forest,train_fold_oversampling,trimmed_180s,False,False,False,False,False
+Random Forest,train_fold_smote,trimmed_180s,False,False,False,False,False
+Ensemble Classifier,pre_cv_oversampling_diagnostic,paper_five,False,False,False,False,False
+Ensemble Classifier,pre_cv_smote_diagnostic,paper_five,False,False,False,False,False
+Ensemble Classifier,record_cv,paper_five,False,False,False,True,False
+Ensemble Classifier,train_fold_oversampling,paper_five,False,False,False,False,False
+Ensemble Classifier,train_fold_smote,paper_five,False,False,False,False,False
+Ensemble Classifier,pre_cv_oversampling_diagnostic,three_frequency_bands,False,False,False,False,False
+Ensemble Classifier,pre_cv_smote_diagnostic,three_frequency_bands,False,False,False,False,False
+Ensemble Classifier,record_cv,three_frequency_bands,False,False,False,False,False
+Ensemble Classifier,train_fold_oversampling,three_frequency_bands,False,False,False,False,False
+Ensemble Classifier,train_fold_smote,three_frequency_bands,False,False,False,False,False
+Ensemble Classifier,pre_cv_oversampling_diagnostic,trimmed_180s,False,False,False,False,False
+Ensemble Classifier,pre_cv_smote_diagnostic,trimmed_180s,False,False,False,False,False
+Ensemble Classifier,record_cv,trimmed_180s,False,False,False,False,False
+Ensemble Classifier,train_fold_oversampling,trimmed_180s,False,False,False,False,False
+Ensemble Classifier,train_fold_smote,trimmed_180s,False,False,False,False,False

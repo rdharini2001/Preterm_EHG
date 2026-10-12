@@ -1,0 +1,124 @@
+{
+  "designs": [
+    {
+      "feature_view": "trimmed_180s",
+      "evaluation": "record_cv",
+      "features": [
+        "Fmed_1",
+        "Fmed_2",
+        "Fmed_3",
+        "Fpeak_1",
+        "Fpeak_2",
+        "Fpeak_3",
+        "RMS_1",
+        "RMS_2",
+        "RMS_3",
+        "zero_crossing_1",
+        "zero_crossing_2",
+        "zero_crossing_3",
+        "variance_1",
+        "variance_2",
+        "variance_3"
+      ],
+      "folds": 10,
+      "seed": 2026
+    },
+    {
+      "feature_view": "trimmed_180s",
+      "evaluation": "train_fold_oversampling",
+      "features": [
+        "Fmed_1",
+        "Fmed_2",
+        "Fmed_3",
+        "Fpeak_1",
+        "Fpeak_2",
+        "Fpeak_3",
+        "RMS_1",
+        "RMS_2",
+        "RMS_3",
+        "zero_crossing_1",
+        "zero_crossing_2",
+        "zero_crossing_3",
+        "variance_1",
+        "variance_2",
+        "variance_3"
+      ],
+      "folds": 10,
+      "seed": 2026
+    },
+    {
+      "feature_view": "trimmed_180s",
+      "evaluation": "train_fold_smote",
+      "features": [
+        "Fmed_1",
+        "Fmed_2",
+        "Fmed_3",
+        "Fpeak_1",
+        "Fpeak_2",
+        "Fpeak_3",
+        "RMS_1",
+        "RMS_2",
+        "RMS_3",
+        "zero_crossing_1",
+        "zero_crossing_2",
+        "zero_crossing_3",
+        "variance_1",
+        "variance_2",
+        "variance_3"
+      ],
+      "folds": 10,
+      "seed": 2026
+    },
+    {
+      "feature_view": "trimmed_180s",
+      "evaluation": "pre_cv_oversampling_diagnostic",
+      "features": [
+        "Fmed_1",
+        "Fmed_2",
+        "Fmed_3",
+        "Fpeak_1",
+        "Fpeak_2",
+        "Fpeak_3",
+        "RMS_1",
+        "RMS_2",
+        "RMS_3",
+        "zero_crossing_1",
+        "zero_crossing_2",
+        "zero_crossing_3",
+        "variance_1",
+        "variance_2",
+        "variance_3"
+      ],
+      "folds": 10,
+      "seed": 2026
+    },
+    {
+      "feature_view": "trimmed_180s",
+      "evaluation": "pre_cv_smote_diagnostic",
+      "features": [
+        "Fmed_1",
+        "Fmed_2",
+        "Fmed_3",
+        "Fpeak_1",
+        "Fpeak_2",
+        "Fpeak_3",
+        "RMS_1",
+        "RMS_2",
+        "RMS_3",
+        "zero_crossing_1",
+        "zero_crossing_2",
+        "zero_crossing_3",
+        "variance_1",
+        "variance_2",
+        "variance_3"
+      ],
+      "folds": 10,
+      "seed": 2026
+    }
+  ],
+  "class_label": {
+    "0": "term",
+    "1": "preterm"
+  },
+  "oversampling_order_warning": "pre_cv_oversampling_diagnostic puts duplicates across folds; pre_cv_smote_diagnostic constructs synthetic examples using all records before evaluation. NEITHER estimates performance on unseen pregnancies."
+}

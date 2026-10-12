@@ -1,0 +1,26 @@
+{
+  "paper_experiment_occurrences": 75,
+  "previous_individual_exact": 22,
+  "expanded_catalog_individual_exact": 34,
+  "combined_individual_exact": 36,
+  "newly_exact_matched_ids": [
+    "Abstract / section 3.3:Ensemble:ensemble_cv_sd",
+    "Table 1:Ensemble Classifier:accuracy_percent",
+    "Table 1:Logistic Regression:accuracy_percent",
+    "Table 1:Naive Bayes:cv_sd",
+    "Table 1:Random Forest:accuracy_percent",
+    "Table 1:Support Vector Machines:cv_sd",
+    "Table 2:Meta Bagging Classifier:sensitivity",
+    "Table 2:Support Vector Machines:sensitivity",
+    "Table 2:Support Vector Machines:specificity",
+    "Table 2:XG Boost:sensitivity",
+    "Table 2:kNN:specificity",
+    "Table 4:Ensemble Classifier:accuracy_percent",
+    "Table 4:Logistic Regression:accuracy_percent",
+    "Table 4:Random Forest:accuracy_percent"
+  ],
+  "expanded_catalog_near": 56,
+  "combined_exact_or_near": 58,
+  "candidate_operating_points": 38092,
+  "interpretation": "These matches are retrospective, often use incompatible evaluation protocols, and are NOT validation of a single joint model."
+}

@@ -1,0 +1,11 @@
+{
+  "waveform_input": "five EHG windows per recording, three channels",
+  "sfa_window": 64,
+  "sfa_stride": 32,
+  "word_length": 4,
+  "alphabet_size": 4,
+  "fit_quantiles_on": "training records only",
+  "unit": "recording",
+  "seed": 2026,
+  "folds": 10
+}

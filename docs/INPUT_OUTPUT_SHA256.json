@@ -1,0 +1,23 @@
+{
+  "source": "TPEHGDB public dataset and supplied experiment archive",
+  "seed": 2026,
+  "sha256": {
+    "data/processed/record_features.csv": "14f0505e00eb3ad1fe2ddc47d2d2ef2a420cd3eec27c2a094bba614cd3784b4e",
+    "data/processed/window_features.csv.gz": "0a2eb1862f04420b1048200c2c28d2054429f47673ef28fb598a55de089a86a6",
+    "data/processed/waveforms.npz": "5fe49e6f367c42db9e323418391a79e46138e686f281375b724f0229f2cfa368",
+    "results/tables/model_metrics.csv": "5db8a8e0f923cdd32cf4d03bb1076953e4d2ca872c7e233f44fb7f921a6b5b62",
+    "results/advanced/metrics.csv": "2aad13bd98f6ad62c81f28f4c33f29024780d735479b13dcab84318ceb4cd7ae",
+    "results/windows/metrics.csv": "6ac7fd9d574af366c1ab46a360a91dbf7611c39933b881f19294bafb7faf089c",
+    "results/boss/metrics.csv": "f3cdc0285851a210390f9da8920f388c076476f125cf2ea91da3e2fd1bc8d7f5",
+    "src/tpehg/context_ensemble.py": "b6382073854be92e772fa715328dccc4e668a33f454952ce80b9b11b4b2167ac",
+    "src/tpehg/metric_geometry.py": "fdbcb8fece4f2f6beca654dfc377f98df6cc8a2dfc4b6bbfb96c6575093359fc",
+    "src/tpehg/uncertainty.py": "35522d463c7a2f9be6afb614c97e5f28dad3045d2e5c46d8ebbdd0f9f42723d8",
+    "results/context_ensemble/config.json": "2c04d002d7c88bea71525827daa85192fc5c77b940df939e0de636d3f8922e65",
+    "results/context_ensemble/predictions.csv": "68e8e8535f3d39a874f3a7dd6d79222f9d7d85fb99e00241414ddeedc5cb182d",
+    "results/context_ensemble/metrics.csv": "42e5080ac730bbdae8fa07d940acda319871c49c3f8aff1b0187850b522dd3dd",
+    "results/context_ensemble/split_audit.csv": "3e7a475180844de4bcb8564ac7af936cff821e2155161934e5df9ab1aae4d9f3",
+    "results/context_ensemble/cluster_intervals.csv": "93b84b122abaea567f208379cab52d3011acafa9190ea426593a4625c0435a87",
+    "results/mathematics/metric_geometry.json": "3abeaf4de15f8e3a7d3e883ff86a484c10d044767306d897e62ce35ff652aafa",
+    "results/figures/context_ensemble.png": "a749e3c3e92a47dbb33c898329c05aec21edd0a3ca8341f922adf7b00af84313"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "seed": 2026,
+  "epochs": 10,
+  "holdout_fraction": 0.25,
+  "model_family": "CNN/LSTM/16-unit sparse autoencoder",
+  "test_sample_count": 75,
+  "train_sample_count": 225
+}

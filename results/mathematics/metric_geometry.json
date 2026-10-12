@@ -1,0 +1,32 @@
+{
+  "source_metrics": {
+    "accuracy": 0.9899,
+    "sensitivity": 0.983,
+    "specificity": 0.979,
+    "term_records": 262,
+    "preterm_records": 38
+  },
+  "pooled_confusion_matrix_compatible_at_published_precision": false,
+  "accuracy_implied_at_study_class_ratio": 0.9795066666666666,
+  "same_population_accuracy_bound": [
+    0.979,
+    0.983
+  ],
+  "nearest_single_pass_accuracy_300_records": {
+    "n": 300,
+    "target_accuracy": 0.9899,
+    "nearest_correct": 297,
+    "nearest_errors": 3,
+    "achieved_accuracy": 0.99,
+    "error_percentage_points": 0.009999999999998899
+  },
+  "nearest_single_pass_accuracy_7200_windows": {
+    "n": 7200,
+    "target_accuracy": 0.9899,
+    "nearest_correct": 7127,
+    "nearest_errors": 73,
+    "achieved_accuracy": 0.9898611111111111,
+    "error_percentage_points": 0.0038888888888921613
+  },
+  "valid_interpretation": "Accuracy, sensitivity and specificity require separately defined aggregation/protocols if all headline values are accepted."
+}

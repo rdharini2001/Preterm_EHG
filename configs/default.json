@@ -1,0 +1,18 @@
+{
+  "dataset": "TPEHGDB v1.0.1",
+  "seed": 2026,
+  "recordings": 300,
+  "labels": {"term": 0, "preterm": 1},
+  "sampling_frequency_hz": 20,
+  "filtered_channels": [3, 7, 11],
+  "window_samples": 750,
+  "window_shift_samples": 125,
+  "feature_families": ["Fmed", "Fpeak", "RMS", "zero_crossing", "variance"],
+  "cv_folds": 10,
+  "forward_selection_inner_folds": 3,
+  "cnn_count": 10,
+  "lstm_units": [20, 50, 100, 200],
+  "sparse_ae_bottleneck": 16,
+  "deep_holdout_fraction": 0.25,
+  "deep_epochs": 10
+}

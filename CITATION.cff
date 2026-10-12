@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the associated EHG preterm birth paper and the TPEHGDB dataset when using this code."
+type: software
+title: "TPEHG: EHG Signal Analysis and Preterm Birth Prediction — Paper Code"
+version: 3.0.0
+license: MIT
+keywords:
+  - electrohysterogram
+  - preterm birth
+  - machine learning
+  - uterine EMG
+  - classification
+references:
+  - type: generic
+    title: "Analysis of Electrohysterogram Signals and Prediction of Preterm Births using Machine Learning"
+    doi: 10.4015/S1016237223500291
+    authors:
+      - family-names: Raghavan
+        given-names: Dharini
+      - family-names: H H
+        given-names: Adithya
+      - family-names: S
+        given-names: Raghuram
+      - family-names: K V
+        given-names: Suma
+      - family-names: Kulhalli
+        given-names: Tricha
+  - type: dataset
+    title: "Term–Preterm EHG Database (TPEHGDB), version 1.0.1"
+    doi: 10.13026/C2FW2V
