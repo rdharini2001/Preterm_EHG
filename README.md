@@ -1,6 +1,6 @@
 <div align="center">
 
-# EHG signal analysis and preterm birth prediction
+# Electrohysterogram signal analysis and preterm birth prediction
 
 **Code associated with the manuscript**  
 *Analysis of Electrohysterogram Signals and Prediction of Preterm Births using Machine Learning*
