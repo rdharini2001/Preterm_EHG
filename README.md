@@ -57,8 +57,6 @@ We examine convolutional networks, recurrent LSTM classifiers with 20–200 unit
 
 These window-level operating points were selected during model analysis and are not estimates from an untouched external test cohort. The underlying probability vectors and thresholds are included in `results/neural_method_search/`.
 
-<img src="results/figures/neural_accuracy_rmse.png" width="100%" alt="LSTM accuracy and RMSE across network sizes" />
-
 ## Getting started
 
 **Requirements:** Python 3.10 or later. The classical models work on a CPU. PyTorch is required for the neural-network experiments.
