@@ -16,3 +16,4 @@ tpehg = "tpehg.cli:main"
 where = ["src"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["src"]

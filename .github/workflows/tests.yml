@@ -11,6 +11,8 @@ jobs:
           cache: pip
       - name: Dependencies
         run: pip install -e '.[test]'
+      - name: Build project page
+        run: python scripts/build_site.py
       - name: Unit tests
         run: python -m pytest -q
       - name: Verify checked-in results

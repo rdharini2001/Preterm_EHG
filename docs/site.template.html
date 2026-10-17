@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#0d2934" />
+  <meta name="description" content="Methods, signal examples, and interactive results for electrohysterogram-based term and preterm birth classification." />
+  <title>EHG / Preterm Birth — Paper & Code</title>
+  <link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+ <div class="progress" id="scroll-progress" aria-hidden="true"></div>
+ <header class="header" id="top">
+  <div class="layout nav-inner"><a class="mark" href="#top" aria-label="EHG study home"><span class="mark-icon">∿</span><span>EHG<span class="muted-mark"> / study</span></span></a>
+   <nav aria-label="Main navigation"><a href="#about">Study</a><a href="#method">Methods</a><a href="#explorer">Results explorer</a><a href="#neural">Networks</a><a href="#resources">Resources</a></nav>
+   <a class="nav-cta" href="#explorer">Explore the data <span aria-hidden="true">↗</span></a>
+  </div>
+ </header>
+ <main>
+ <section class="hero">
+  <div class="layout hero-grid">
+   <div class="hero-copy">
+     <span class="kicker"><span class="dot"></span> COMPUTATIONAL METHODS · MATERNAL HEALTH</span>
+     <h1>Listening to the electrical <em>rhythm of pregnancy.</em></h1>
+     <p>Electrohysterogram signal analysis and machine learning for the classification of term and preterm deliveries.</p>
+     <div class="hero-ctas"><a class="btn btn-primary" href="#explorer">Explore results <span>↗</span></a><a class="btn btn-outline" href="#method">Read the methods <span>→</span></a></div>
+     <p class="hero-credit">Code for the manuscript <strong>Analysis of Electrohysterogram Signals and Prediction of Preterm Births using Machine Learning</strong></p>
+   </div>
+   <div class="hero-art" aria-label="Three-channel EHG waveform"><div class="art-top"><span>LIVE SIGNAL STUDY</span><span class="art-live"><i></i> THREE CHANNELS</span></div><canvas id="hero-canvas" width="700" height="450" role="img" aria-label="Electrohysterogram waveform visualization"></canvas><div class="art-bottom"><span>S1 = E2 − E1</span><span>S2 = E2 − E3</span><span>S3 = E4 − E3</span></div></div>
+  </div>
+  <div class="layout hero-bottom"><span>RAGHAVAN · ADITHYA H H · RAGHURAM S · SUMA K V · KULHALLI</span><span>TERM—PRETERM EHG DATABASE / PHYSIONET</span></div>
+ </section>
+ <section class="section light" id="about">
+  <div class="layout">
+   <div class="section-heading"><div><span class="eyebrow">01 / THE DATA</span><h2>A small dataset.<br/><em>A demanding problem.</em></h2></div><p>We use three-channel abdominal electrohysterogram measurements and follow the electrical patterns recorded during pregnancy. Class imbalance and repeated signal windows are central to how the experiments are interpreted.</p></div>
+   <div class="stats"><div><strong>300</strong><span>recordings</span></div><div><strong>262</strong><span>term births</span></div><div><strong>38</strong><span>preterm births</span></div><div><strong>20<span class="unit">Hz</span></strong><span>sampling rate</span></div></div>
+   <div class="data-row"><div class="data-copy"><h3>Reading the cohort</h3><p>Preterm recordings account for 12.7% of the database. Overall accuracy must therefore be read alongside sensitivity, specificity and the exact unit used for training and testing.</p><span class="caption-tag">TPEHGDB · 300 OBSERVATIONS</span></div><div class="donut-wrap"><svg id="cohort-ring" viewBox="0 0 250 250" role="img" aria-label="Proportion of term and preterm recordings"></svg><div class="cohort-legend"><span><i class="legend-square term"></i>Term 262 (87.3%)</span><span><i class="legend-square preterm"></i>Preterm 38 (12.7%)</span></div></div></div>
+  </div>
+ </section>
+ <section class="section dark" id="method">
+  <div class="layout"><span class="eyebrow light-label">02 / APPROACH</span><div class="method-head"><h2>From signal<br/>to decision.</h2><p>The analysis begins with filtered EHG recordings and preserves both the feature-based learning and the sequence models used in the study.</p></div>
+  <div class="steps">
+   <article><span class="step-no">01</span><div class="step-icon">≋</div><h3>Prepare</h3><p>Three bipolar channels, digital band-pass filtering and 750-sample windows with a 125-sample stride.</p></article>
+   <article><span class="step-no">02</span><div class="step-icon">∑</div><h3>Describe</h3><p>Median and peak frequency, root mean square, zero crossings, variance and spectral descriptors.</p></article>
+   <article><span class="step-no">03</span><div class="step-icon">⌁</div><h3>Learn</h3><p>Forward selection, ten classical classifiers, a five-model voting ensemble, CNNs, LSTMs and sparse encoding.</p></article>
+   <article><span class="step-no">04</span><div class="step-icon">◎</div><h3>Evaluate</h3><p>Ten-fold prediction, complete confusion matrices and separate recording-level and window-level protocols.</p></article>
+  </div></div>
+ </section>
+ <section class="section paper explorer" id="explorer">
+  <div class="layout">
+   <div class="section-heading"><div><span class="eyebrow">03 / INTERACTIVE RESULTS</span><h2>Explore the<br/><em>model landscape.</em></h2></div><p>Compare the actual computed predictions by evaluation protocol. Switch among accuracy, preterm sensitivity and term specificity, or select a model to inspect its confusion matrix.</p></div>
+   <div class="explorer-card">
+     <div class="explorer-toolbar"><div class="segmented" role="group" aria-label="Evaluation protocol"><button class="active" type="button" data-protocol="record_models" aria-pressed="true">Record-level</button><button type="button" data-protocol="window_models" aria-pressed="false">Within-record windows</button><button type="button" data-protocol="unseen_window_models" aria-pressed="false">Unseen recordings</button></div><label class="metric-label">Measure <select id="metric"><option value="accuracy">Accuracy</option><option value="sensitivity">Preterm sensitivity</option><option value="specificity">Term specificity</option></select></label></div>
+     <div class="chart-top"><div><span class="chart-kicker">MODEL PERFORMANCE</span><h3 id="plot-title">Record-level · Accuracy</h3></div><span class="context-badge" id="plot-context">300 recordings · 10 folds</span></div>
+     <div class="model-chart" id="model-chart" role="group" aria-label="Interactive model comparison chart"></div>
+     <p class="chart-caption" id="chart-caption">Each model is evaluated on 300 held-out recordings across ten folds.</p>
+     <div class="selected-model"><div class="selected-title"><span class="eyebrow">SELECTED MODEL</span><h4 id="selected-name">Hard Voting Ensemble</h4></div><div class="selected-scores"><div><span>Accuracy</span><strong id="selected-accuracy">—</strong></div><div><span>Sensitivity</span><strong id="selected-sensitivity">—</strong></div><div><span>Specificity</span><strong id="selected-specificity">—</strong></div></div><div class="confusion"><span class="matrix-title">CONFUSION MATRIX</span><div class="matrix" id="matrix"></div><span class="matrix-caption">Rows: true term / preterm · Columns: predicted term / preterm</span></div></div>
+     <div class="download-row"><span>Source: saved out-of-fold predictions</span><button id="export-data" type="button">Download current results (CSV) <span aria-hidden="true">↓</span></button></div>
+   </div>
+   <div class="protocol-note"><span class="note-sign">i</span><p><strong>Two prediction tasks.</strong> Within-record windows can overlap with windows from the same recording in the training folds; unseen-recording evaluation holds every window from a recording together. Their scores answer different questions.</p></div>
+  </div>
+ </section>
+ <section class="section light neural" id="neural"><div class="layout"><div class="section-heading"><div><span class="eyebrow">04 / NEURAL METHODS</span><h2>Learning from<br/><em>sequences.</em></h2></div><p>Four LSTM architectures and a sparse-autoencoder experiment complement the feature-based classifiers. These displayed LSTM operating points come from five-fold window-level evaluations with selected thresholds.</p></div>
+  <div class="neural-card"><div class="neural-top"><div><span class="chart-kicker">MODEL SIZE & OUTCOME</span><h3>Recurrent networks</h3></div><label class="metric-label">View <select id="neural-metric"><option value="accuracy">Accuracy (%)</option><option value="rmse">Probability RMSE</option></select></label></div><div class="neural-bars" id="neural-chart"></div><p class="chart-caption">RMSE is calculated from saved probability predictions; accuracy uses the documented per-model classification thresholds.</p></div>
+  </div></section>
+ <section class="section resources" id="resources"><div class="layout"><span class="eyebrow light-label">05 / GET STARTED</span><div class="resource-grid"><div><h2>Run the study<br/><em>on your machine.</em></h2><p>The repository includes code, prepared feature tables, recorded experiments and validation tests. Python 3.10 or newer is required.</p><a class="text-link" href="https://physionet.org/content/tpehgdb/1.0.1/" target="_blank" rel="noreferrer">Source dataset: PhysioNet <span>↗</span></a></div><div class="code-card"><div class="code-top"><span>TERMINAL</span><button id="copy-commands" type="button" aria-label="Copy setup commands">Copy</button></div><pre id="setup-commands">python -m venv .venv
+source .venv/bin/activate
+pip install -e '.[test,deep]'
+bash scripts/run_all.sh</pre></div></div><div class="resource-links"><a href="METHODS.md">Method definitions <span>↗</span></a><a href="RESULTS.md">Complete tables <span>↗</span></a><a href="DATA.md">Dataset and licensing <span>↗</span></a></div></div></section>
+ </main>
+ <footer><div class="layout footer-inner"><span class="footer-mark">∿ EHG / PRETERM</span><span>Research software accompanying the EHG preterm birth manuscript.</span><a href="#top">Back to top ↑</a></div><div class="layout footnote">For research use. Not intended to guide diagnosis, treatment or pregnancy care.</div></footer>
+ <script type="application/json" id="research-data">__EMBEDDED_DATA__</script>
+ <script defer src="assets/site.js"></script>
+</body>
+</html>
