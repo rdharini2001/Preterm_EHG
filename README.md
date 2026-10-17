@@ -14,7 +14,7 @@ Dharini Raghavan · Adithya H H · Raghuram S · Suma K V · Tricha Kulhalli
 
 <img src="docs/assets/ehg-hero.svg" width="100%" alt="Electrohysterogram signal traces from three channels" />
 
-**[Explore the interactive project page](docs/index.html)** · **[Methods](docs/METHODS.md)** · **[Results](docs/RESULTS.md)** · **[Data](docs/DATA.md)**
+**[Explore the interactive project page]([docs/index.html](https://rdharini2001.github.io/Preterm_EHG/))** · **[Methods](docs/METHODS.md)** · **[Results](docs/RESULTS.md)** · **[Data](docs/DATA.md)**
 
 </div>
 
