@@ -11,6 +11,7 @@ Dharini Raghavan · Adithya H H · Raghuram S · Suma K V · Tricha Kulhalli
 [![Tests](https://img.shields.io/badge/Tests-pytest-167b75)](.github/workflows/tests.yml)
 [![Dataset](https://img.shields.io/badge/Data-TPEHGDB-a3c8a0)](https://physionet.org/content/tpehgdb/1.0.1/)
 [![License](https://img.shields.io/badge/Code-MIT-586e9b)](LICENSE)
+[![Paper](https://img.shields.io/badge/Read-Paper-167b75)](https://doi.org/10.4015/S1016237223500291)
 
 <img src="docs/assets/ehg-hero.svg" width="100%" alt="Electrohysterogram signal traces from three channels" />
 
