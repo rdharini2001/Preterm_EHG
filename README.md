@@ -115,10 +115,63 @@ tests/                 Unit tests and consistency checks
 
 All results are stored under `results/`, including individual predictions and fold assignments. The `docs/` directory contains the project page and accompanying methods documentation.
 
-## Data and citation
+## Data
 
 The processed features are provided for convenient evaluation. To regenerate them from the original `.hea` and `.dat` recordings, obtain [TPEHGDB v1.0.1 from PhysioNet](https://physionet.org/content/tpehgdb/1.0.1/) and follow [the data guide](docs/DATA.md). Source material and code have separate licenses; the original experiment archive's notice remains in [`docs/UPSTREAM_EXPERIMENTS_LICENSE.txt`](docs/UPSTREAM_EXPERIMENTS_LICENSE.txt).
 
-If you use this repository, please cite the accompanying manuscript and **Fele-Žorž et al. (2008)**, *A comparison of various linear and non-linear signal processing techniques to separate uterine EMG records of term and pre-term delivery groups*, as well as the TPEHGDB dataset, DOI [10.13026/C2FW2V](https://doi.org/10.13026/C2FW2V).
+## Citation
 
+If you use this repository, please cite our paper, **"Analysis of Electrohysterogram Signals and Prediction of Preterm Births Using Machine Learning,"** published in *Biomedical Engineering: Applications, Basis and Communications* (World Scientific, 2023).
+
+Please also acknowledge the original work by Fele-Žorž et al. (2008) and the [Term-Preterm EHG Database (TPEHGDB)](https://doi.org/10.13026/C2FW2V) used in this study.
+
+**Paper:** [https://doi.org/10.4015/S1016237223500291](https://doi.org/10.4015/S1016237223500291)
+
+### BibTeX
+
+```bibtex
+@article{raghavan2023ehg,
+  title     = {Analysis of Electrohysterogram Signals and
+               Prediction of Preterm Births Using Machine Learning},
+  author    = {Raghavan, Dharini and Adithya, H. H. and
+               Raghuram, S. and Suma, K. V. and
+               Kulhalli, Tricha},
+  journal   = {Biomedical Engineering: Applications,
+               Basis and Communications},
+  volume    = {35},
+  number    = {06},
+  pages     = {2350029},
+  year      = {2023},
+  publisher = {World Scientific},
+  doi       = {10.4015/S1016237223500291},
+  url       = {https://doi.org/10.4015/S1016237223500291}
+}
+
+@article{felezorz2008ehg,
+  title     = {A Comparison of Various Linear and Non-Linear
+               Signal Processing Techniques to Separate
+               Uterine EMG Records of Term and Pre-Term
+               Delivery Groups},
+  author    = {Fele-{\v Z}or{\v z}, Ga{\v s}per and
+               Kav{\v s}ek, Gorazd and
+               Novak-Antoli{\v c}, {\v Z}iva and
+               Jager, Franc},
+  journal   = {Medical \& Biological Engineering \& Computing},
+  volume    = {46},
+  number    = {9},
+  pages     = {911--922},
+  year      = {2008},
+  doi       = {10.1007/s11517-008-0350-y}
+}
+
+@misc{tpehgdb2012,
+  title     = {Term-Preterm EHG Database (TPEHGDB)},
+  author    = {{University of Ljubljana}},
+  year      = {2012},
+  publisher = {PhysioNet},
+  version   = {1.0.1},
+  doi       = {10.13026/C2FW2V},
+  url       = {https://physionet.org/content/tpehgdb/1.0.1/}
+}
+```
 This code is intended for research. The models are not intended for clinical diagnosis or treatment decisions.
